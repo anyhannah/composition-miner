@@ -1,0 +1,8 @@
+openai
+benepar
+filelock
+pandas
+nltk
+qwikidata
+retry
+wikipedia

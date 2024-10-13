@@ -1,0 +1,8 @@
+scikit-learn
+gitpython
+inflect
+nltk
+openai==1.0.0
+pandas
+tenacity
+wikipedia
