@@ -2536,37 +2536,42 @@ Backscratcher	-	-	"handle: F
 scratcher-head: F"	"1. handle: wood, plastic, and/or metal
 2. scratcher-head: wood, plastic, and/or metal"
 Bag	Backpack	-	"body: F
-shoulder straps: F"	"1. body: nylon, polyester, canvas, or leather
-2. shoulder straps: nylon, polyester, canvas, leather, and foam"
+shoulder straps: F
+closure: F"	"1. body: nylon, polyester, leather, and/or canvas
+2. shoulder straps: nylon, polyester, leather, and/or canvas
+3. closure: metal, plastic, and/or fabric"
+Bag	Handbag	-	"body: F
+handles: F
+closure: F"	"1. body: leather or fabric or vinyl
+2. handles: leather or fabric or metal
+3. closure: metal or plastic or fabric"
 Bag	Tote bag	-	"body: F
-handles: F"	"1. body: canvas, cotton, leather, or synthetic fabrics
-2. handles: canvas, cotton, leather, or synthetic fabrics"
+handles: F"	"1. body: cotton, canvas, leather, nylon, or polyester
+2. handles: cotton, canvas, leather, nylon, or polyester"
+Bag	Messenger bag	-	"body: F
+shoulder strap: F
+closure: F
+flap: F"	"1. body: canvas, leather, or nylon
+2. shoulder strap: canvas, leather, nylon, or metal
+3. closure: metal or plastic
+4. flap: canvas, leather, or nylon"
 Bag	Duffel bag	-	"body: F
 handles: F
-shoulder strap: T"	"1. body: nylon or polyester or leather or canvas
-2. handles: nylon or polyester or leather or canvas
-3. shoulder strap: nylon or polyester or leather or canvas"
+shoulder strap: T
+closure: F"	"1. body: nylon or polyester
+2. handles: nylon or polyester
+3. shoulder strap: nylon or polyester
+4. closure: metal or plastic"
 Bag	Briefcase	-	"body: F
-handle: F"	"1. body: leather or synthetic materials
-2. handle: leather or synthetic materials"
-Bag	Messenger bag	-	"body: F
-strap: F
-flap: F"	"1. body: canvas, leather, or nylon
-2. strap: canvas, leather, or nylon
-3. flap: canvas, leather, or nylon"
-Bag	Clutch	-	-: F	leather, suede, canvas, synthetic materials, and/or metal
-Bag	Satchel	-	"body: F
 handle: F
-strap: F"	"1. body: leather or canvas
-2. handle: leather or canvas
-3. strap: leather, canvas, or nylon"
-Bag	Suitcase	-	"body: F
-handle: F
-wheels: T
-telescoping handle: T"	"1. body: plastic, metal, and/or fabric
-2. handle: plastic or metal
-3. wheels: plastic
-4. telescoping handle: metal and plastic"
+closure: F
+hinges: F"	"1. body: leather or synthetic fabric
+2. handle: leather or synthetic fabric
+3. closure: metal or plastic
+4. hinges: metal"
+Bag	Clutch	-	"body: F
+closure: F"	"1. body: leather, fabric, metal, or plastic
+2. closure: metal or plastic"
 Bagpipes	Great Highland bagpipes	-	"blowpipe: F
 chanter: F
 drones: F
@@ -6559,9 +6564,41 @@ focus ring: T"	"1. optics: glass
 3. mount: metal
 4. zoom ring: rubber and/or plastic
 5. focus ring: rubber and/or plastic"
-Camp bed	-	-	"frame: F
-sleeping surface: F"	"1. frame: metal or plastic
-2. sleeping surface: fabric and/or nylon"
+Camp bed	Collapsible camp bed	-	"frame: F
+fabric surface: F
+legs: F
+hinges: F"	"1. frame: metal or aluminum
+2. fabric surface: canvas or nylon
+3. legs: metal or aluminum
+4. hinges: metal"
+Camp bed	Military-style camp bed	-	"frame: F
+fabric surface: F
+legs: F"	"1. frame: metal and/or plastic
+2. fabric surface: nylon or polyester
+3. legs: metal"
+Camp bed	Cot-style camp bed	-	"frame: F
+fabric surface: F
+legs: F
+sidebars: F"	"1. frame: metal or aluminum
+2. fabric surface: nylon or polyester
+3. legs: metal or aluminum
+4. sidebars: metal or aluminum"
+Camp bed	Fixed-frame camp bed	-	"frame: F
+fabric surface: F
+legs: F
+headboard: T
+footboard: T"	"1. frame: metal or aluminum
+2. fabric surface: canvas, nylon, or polyester
+3. legs: metal or aluminum
+4. headboard: metal, aluminum, or fabric
+5. footboard: metal, aluminum, or fabric"
+Camp bed	Inflatable camp bed	-	"air chamber: F
+valves: F
+top surface: F
+bottom surface: F"	"1. air chamber: rubber or plastic
+2. valves: plastic
+3. top surface: textile, rubber, or plastic
+4. bottom surface: textile, rubber, or plastic"
 Campaign hat	-	-	"brim: F
 crown: F
 hatband: F"	"1. brim: felt or straw
@@ -7080,7 +7117,9 @@ internal mechanism: F"	"1. frame: steel or aluminum
 8. internal mechanism: electronic materials, metal, and plastics"
 Cardigan (sweater)	-	-	"body: F
 sleeves: F"	"1. body: wool, cotton and/or synthetic fibers
-2. sleeves: wool, cotton and/or synthetic fibers"
+2. sleeves: wool, cotton and/or synthetic fibers
+3. pockets: wool, cotton and/or synthetic fibers
+4. buttons or zipper: plastic and/or metal"
 Cargo aircraft	Standard cargo aircraft	-	"fuselage: F
 wings: F
 empennage: F
@@ -8534,7 +8573,8 @@ bell: F"	"1. mouthpiece: hard rubber, plastic, or ebonite
 7. bell: wood or plastic"
 Claw hammer	-	-	"handle: F
 head: F"	"1. handle: wood or fiberglass or metal
-2. head: metal"
+2. head: metal
+3. claw: metal"
 Cleat (shoe)	Soccer cleat	-	"upper: F
 sole: F
 insole: F
@@ -22097,9 +22137,28 @@ patella hole: F"	"1. sleeve: neoprene or fabric
 2. padding: foam or gel
 3. straps: elastic, velcro, and/or fabric
 4. patella hole: reinforced with elastic or fabric"
-Knife	-	-	"blade: F
-handle: F"	"1. blade: steel or ceramic
-2. handle: wood, plastic, metal, or rubber"
+Knife	Chef's knife	-	"handle: F
+blade: F
+bolster: T"	"1. handle: wood, plastic, or composite materials
+2. blade: stainless steel, carbon steel, or ceramic
+3. bolster: stainless steel or carbon steel"
+Knife	Paring knife	-	"handle: F
+blade: F"	"1. handle: wood, plastic, or rubber
+2. blade: stainless steel"
+Knife	Bread knife	-	"handle: F
+serrated blade: F"	"1. handle: wood or plastic
+2. serrated blade: stainless steel"
+Knife	Carving knife	-	"handle: F
+thin blade: F"	"1. handle: wood, plastic, or metal
+2. thin blade: stainless steel or carbon steel"
+Knife	Cleaver	-	"handle: F
+wide blade: F"	"1. handle: wood or plastic
+2. wide blade: stainless steel or carbon steel"
+Knife	Boning knife	-	"handle: F
+narrow blade: F
+flexible blade: T"	"1. handle: wood or plastic
+2. narrow blade: stainless steel or high carbon steel
+3. flexible blade: stainless steel or high carbon steel"
 Knife (envelope)	-	-	"blade: F
 handle: F"	"1. blade: metal
 2. handle: plastic or wood"
@@ -45737,9 +45796,52 @@ internal mechanism: F"	"1. body: metal or wood
 2. fan blades: metal or plastic
 3. tail vane: metal or wood
 4. internal mechanism: metal"
-Window	-	-	"frame: F
-panes: F"	"1. frame: wood, metal, or vinyl
-2. panes: glass"
+Window	Sash window	-	"frame: F
+sash: F
+glass pane: F
+muntins: T
+sill: F
+rails: F
+stiles: F"	"1. frame: wood or vinyl
+2. sash: wood or vinyl
+3. glass pane: glass
+4. muntins: wood or metal
+5. sill: wood or stone
+6. rails: wood
+7. stiles: wood"
+Window	Casement window	-	"frame: F
+glass pane: F
+hinges: F
+handle/crank: F"	"1. frame: wood, vinyl, fiberglass, aluminum, or steel
+2. glass pane: glass
+3. hinges: metal
+4. handle/crank: metal or plastic"
+Window	Awning window	-	"frame: F
+glass pane: F
+hinges at the top: F
+handle/crank: F"	"1. frame: vinyl, aluminum, wood, or fiberglass
+2. glass pane: glass
+3. hinges at the top: metal
+4. handle/crank: metal or plastic"
+Window	Hopper window	-	"frame: F
+glass pane: F
+hinges at the bottom: F
+handle: F"	"1. frame: wood, vinyl, aluminum, or fiberglass
+2. glass pane: glass
+3. hinges at the bottom: metal
+4. handle: metal or plastic"
+Window	Fixed pane window	-	"frame: F
+glass pane: F"	"1. frame: wood or metal or vinyl
+2. glass pane: glass"
+Window	Sliding window	-	"frame: F
+glass pane: F
+sash: F
+tracks: F
+handle/latch: F"	"1. frame: metal, plastic, or wood
+2. glass pane: glass
+3. sash: metal, plastic, or wood
+4. tracks: metal or plastic
+5. handle/latch: metal or plastic"
 Window blind	Vertical blind	-	"headrail: F
 slats: F
 bottom weights: F
@@ -46094,7 +46196,9 @@ t-tracks: T"	"1. flat top: wood or metal
 3. dog holes: wood or metal
 4. t-tracks: metal"
 Wrap (clothing)	-	-	-: F	cotton, wool, linen, silk, polyester, and/or rayon
-Wreath	-	-	-: F	plant matter and/or synthetic fibers
+Wreath	-	-	"frame: F
+decorative elements: F"	"1. frame: metal or foam or vine or plastic
+2. decorative elements: leaves, flowers, berries, ribbons, plastic, metal, and/or fabric"
 Wreath (attire)	-	-	"band: F
 decorative elements: F"	"1. band: plastic, metal, or wood
 2. decorative elements: plastic, metal, wood, textiles, and/or natural materials"
