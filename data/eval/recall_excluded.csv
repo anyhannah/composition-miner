@@ -1,0 +1,68 @@
+﻿reference_dataset,part_material,reference_object,reference_item,reason
+ParRoT,part,bird cage,metal base,duplicate
+ParRoT,part,bird cage,rod,duplicate
+ParRoT,part,bird cage,trays,duplicate
+ParRoT,part,coffee maker,water level,feature
+ParRoT,part,digital camera,settings,feature
+ParRoT,part,digital camera,power button,duplicate
+ParRoT,part,fire extinguisher,poll pin,duplicate
+ParRoT,part,hair dryer,power supply cord,duplicate
+ParRoT,part,hair dryer,on-off switch,duplicate
+ParRoT,part,humidifier,bae,duplicate
+ParRoT,part,pencil,body,duplicate
+ParRoT,part,rice cooker,outside pot,duplicate
+ParRoT,part,washing machine,levelling feet,duplicate
+CSLB,part,aeroplane,pilot,non-integral
+CSLB,part,aeroplane,two wings,duplicate
+CSLB,part,boots,grip,feature
+CSLB,part,bucket,sand,non-integral
+CSLB,part,bucket,holes,feature
+CSLB,part,bucket,open top,feature
+CSLB,part,caravan,trailer,IsA
+CSLB,material,dressing_gown,fabric_cloth_material,duplicate
+CSLB,part,ferry,passengers,non-integral
+CSLB,part,ferry,crew,non-integral
+CSLB,part,ferry,captain,non-integral
+CSLB,part,harp,harpist,non-integral
+CSLB,part,helmet,strap/straps,duplicate
+CSLB,part,jacket,arm holes,feature
+CSLB,part,jacket,two sleeves,duplicate
+CSLB,part,jacket,arms,duplicate
+CSLB,part,key,hole,feature
+CSLB,part,key,combination of edges,duplicate
+CSLB,part,mop,bucket,non-integral
+CSLB,part,mop,long handle,duplicate
+CSLB,material,mop,plastic and cloth,duplicate
+CSLB,material,mop,absorbent material,nondescriptive
+CSLB,part,saw,sharp edge/edges,feature
+CSLB,part,saw,an edge,feature
+CSLB,part,scissors,two blades,duplicate
+CSLB,part,scissors,plastic handle,duplicate
+CSLB,part,scissors,two handles,duplicate
+CSLB,material,scissors,metal and plastic,duplicate
+CSLB,part,stove,fire,feature
+CSLB,part,stove,flame,feature
+CSLB,part,taxi,passengers,non-integral
+CSLB,part,taxi,taxi driver,non-integral
+CSLB,part,taxi,four doors,duplicate
+CSLB,part,taxi,four wheels,duplicate
+CSLB,part,thimble,decoration,feature
+CSLB,part,window,curtains,non-integral
+CSLB,part,window,wooden frame,duplicate
+CSLB,part,window,double glazing,feature
+WordNet,part,sweatpants,leg,duplicate
+WordNet,part,sweatpants,trouser,IsA
+ConceptNet,part,airplane,no engine,feature
+ConceptNet,part,bell,mouth,feature
+ConceptNet,part,bell,characteristic shape,feature
+ConceptNet,part,can,a fruit bowl on it,non-integral
+ConceptNet,part,chair,leg,duplicate
+ConceptNet,part,chair,four legs,duplicate
+ConceptNet,part,glasses,two lenses,duplicate
+ConceptNet,part,glasses,glass,duplicate
+ConceptNet,part,pencil,no lead,feature
+ConceptNet,material,pencil,wood,duplicate
+ConceptNet,part,saw,sharp edges,feature
+ConceptNet,part,toothbrush,toothbrush bristle,duplicate
+ConceptNet,part,umbrella,accent on second syllable,wrong
+ConceptNet,part,window,glass,duplicate

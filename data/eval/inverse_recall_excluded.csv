@@ -1,0 +1,134 @@
+﻿our_dataset,part_material,our_entity,our_specific_entity,our_item,reason
+Zero,part,Air gun,CO2 powered air gun,Internal Mechanism,mechanism
+Zero,part,Airplane,High-Wing Monoplane,Internal mechanism,mechanism
+Zero,part,Apron,Kitchen apron,Loops or Rings,feature
+Zero,part,Audio headset,Wired Earbuds,Internal Mechanism,mechanism
+Few,part,Barbecue grill,Gas grill,gas tank,specific
+Zero,part,Barbecue grill,Propane Gas Grill,Gas Tank,specific
+Zero,part,Barbecue grill,Propane Gas Grill,Internal Mechanism,mechanism
+Zero,part,Barrel,Wine barrel,Bung Hole,feature
+Zero,part,Bell,English Handbell,Internal Mechanism  ,mechanism
+Zero,part,Bell,English Handbell,Spring,specific
+Zero,part,Bell,English Handbell,Clapper Hinge  ,mechanism
+Zero,part,Bell,English Handbell,Clapper Restraining Spring  ,specific
+Zero,part,Bench (furniture),Garden bench,Fasteners,mechanism
+Zero,part,Bench (furniture),Garden bench,Finish,feature
+Few,part,Binoculars,Porro prism binoculars,hinge,mechanism
+Zero,part,Binoculars,Porro Prism Binoculars,Internal Mechanism,mechanism
+Zero,part,Binoculars,Porro Prism Binoculars,Hinge Mechanism,mechanism
+Zero,part,Binoculars,Porro Prism Binoculars,Armoring,feature
+Zero,part,Boot,Lace-Up Ankle Boot,Welt,specific
+Zero,part,Bucket,Multi-Purpose Bucket,Internal mechanism  ,mechanism
+Zero,part,Bucket,Multi-Purpose Bucket,Lid,non-integral
+Zero,part,Buckle,Roller Frame Buckle,Opening,feature
+Few,part,Caravan (trailer),Teardrop caravan,Internal Mechanism  ,mechanism
+zero,part,Caravan (trailer),Teardrop trailer,Hinges,mechanism
+Zero,part,Cart,Manual Push Shopping Cart,Internal Mechanism,mechanism
+Zero,part,Cart,Manual Push Shopping Cart,Child Seat,specific
+Zero,part,Cassette deck,Cassette deck,Internal mechanism  ,mechanism
+Zero,part,Castanets,Castanets (Percussion instrument),Hinge,mechanism
+Few,part,Chair,Chair,internal mechanism,mechanism
+Zero,part,Chair,Club Armchair,Internal mechanism,mechanism
+Few,part,Chest (furniture),Hope chest,top,duplicate
+Zero,part,Chest (furniture),Hope chest,Hinges,mechanism
+Zero,part,Chest (furniture),Hope chest,Internal mechanism,mechanism
+Zero,part,Cloak,Trench-style rain cloak,Sleeves,specific
+Zero,part,Cloak,Trench-style rain cloak,Pockets,specific
+Zero,part,Cloak,Trench-style rain cloak,Belt,specific
+Zero,part,Cloak,Trench-style rain cloak,Back vent,specific
+Zero,part,Coffeemaker,Electric Drip Coffee Maker,Internal mechanism  ,mechanism
+Zero,part,Cupboard,Glass-Fronted Wall Display Cabinet,Internal mechanism,mechanism
+Zero,part,Cupboard,Glass-Fronted Wall Display Cabinet,Wall Mounts,specific
+Zero,part,Cupboard,Glass-Fronted Wall Display Cabinet,hinges,mechanism
+Zero,part,Dental braces,Metal Braces,O-rings,duplicate
+Few,part,Digital camera,Digital camera,internal mechanism,mechanism
+Zero,part,Digital camera,Mirrorless Interchangeable Lens Camera,Internal Mechanism,mechanism
+Zero,part,Digital camera,Mirrorless Interchangeable Lens Camera,Lens Mount,specific
+Zero,part,Digital stick thermometer,Flexible tip digital thermometer,Internal mechanism,mechanism
+zero,part,Drink can,Pull Tab Can,Internal mechanism,mechanism
+Zero,part,Electric stove,Freestanding induction range,Internal Mechanism,mechanism
+Zero,part,Electric stove,Freestanding induction range,Ventilation System,mechanism
+Zero,part,Fan (machine),Single window fan,Internal Mechanism,mechanism
+Zero,part,Fan (machine),Single window fan,Feet or Base,specific
+Zero,part,Fan (machine),Single window fan,Oscillation Knob or Switch,specific
+Zero,part,Ferry,High-speed catamaran car ferry,Internal mechanism,mechanism
+Zero,part,Fire extinguisher,Carbon Dioxide Fire Extinguisher,Identification label,feature
+Zero,part,Fire extinguisher,Carbon Dioxide Fire Extinguisher,Carrying handle,duplicate
+Few,part,Flashlight,Rechargeable flashlight,charging port,specific
+Zero,part,Flashlight,Incandescent Bulb Handheld Flashlight,Internal mechanism,mechanism
+Few,part,Glasses,Single vision glasses,Screws,mechanism
+Few,part,Glasses,Full-rim glasses,Hinges,mechanism
+Few,part,Glasses,Full-rim glasses,Internal mechanism  ,mechanism
+Zero,part,Hair dryer,Wall-mounted hair dryer,Mounting Bracket,specific
+Zero,part,Hair dryer,Wall-mounted hair dryer,Safety Cut-Off,feature
+Zero,part,Hair dryer,Wall-mounted hair dryer,Internal Mechanism,mechanism
+Zero,part,Hair dryer,Wall-mounted hair dryer,Hose,specific
+Zero,part,Harp,Pedal Harp,Sound holes  ,feature
+Zero,part,Harp,Pedal Harp,Internal mechanism,mechanism
+Zero,part,Helmet,Full-Face Helmet,Internal mechanism  ,mechanism
+Zero,part,Humidifier,Cool Mist Ultrasonic Humidifier,Internal mechanism,mechanism
+Zero,part,Hut,Timber-framed Roundhouse,Internal Mechanism,mechanism
+Zero,part,Inhaler,Metered-Dose Inhaler,Internal mechanism,mechanism
+Zero,part,Jacket,Hooded peacoat,Lapel,specific
+Zero,part,Jacket,Hooded peacoat,Back Vent,specific
+Zero,part,Key (instrument),Flat Lever Key,Internal mechanism  ,mechanism
+Zero,part,Kite,Diamond kite,Anchor Point,non-integral
+Zero,part,Knife,Chef's knife,Rivets  ,mechanism
+Zero,part,Lantern,Floating Candle Lantern,Internal mechanism  ,mechanism
+Zero,part,Lantern,Floating Candle Lantern,Decorations,feature
+Zero,part,Lantern,Floating Candle Lantern,Anchor,mechanism
+Zero,part,Loveseat,Loveseat,Internal Mechanism  ,mechanism
+Zero,part,Loveseat,Loveseat,Upholstery,material
+Zero,part,Marker pen,Highlighter pen,Internal mechanism,mechanism
+Zero,part,Marker pen,Highlighter pen,Label,feature
+Zero,part,Microwave oven,Solo Microwave Oven,Internal mechanism,mechanism
+Few,part,Nightshirt,Traditional nightshirt,hem,feature
+Zero,part,Pencil,Graphite pencil,Paint,feature
+Zero,part,Pencil case,Hinged-lid pencil case,Hinge,mechanism
+Zero,part,Pencil case,Hinged-lid pencil case,Internal Mechanism,mechanism
+Zero,part,Rice cooker,Electric Rice Cooker,Internal mechanism,mechanism
+Zero,part,Rice cooker,Electric Rice Cooker,Measuring cup  ,non-integral
+Zero,part,Rice cooker,Electric Rice Cooker,Rice paddle  ,non-integral
+Zero,part,Ruler,Flexible Steel Ruler,Marking Edge,feature
+Zero,part,Saw,Crosscut hand saw,Bolts or Screws,mechanism
+Zero,part,Saw,Crosscut hand saw,Set,feature
+Few,part,Scissors,General-purpose scissors,pivot,mechanism
+Zero,part,Scissors,Tailor's Shears,Pivot,mechanism
+Zero,part,Scissors,Tailor's Shears,Bumper or Silencer,specific
+Zero,part,Scissors,Tailor's Shears,Internal Mechanism,mechanism
+Zero,part,Shovel,Grain Scoop Shovel,Grip,feature
+Zero,part,Shovel,Grain Scoop Shovel,Rivets or Screws,mechanism
+Zero,part,Shovel,Grain Scoop Shovel,Reinforcement Rib,feature
+Zero,part,Ski,Alpine Skis,Internal Mechanism,mechanism
+Zero,part,Ski,Alpine Skis,Camber/Rocker  ,feature
+Zero,part,Skillet,Deep Skillet,Coating,feature
+Zero,part,Skillet,Deep Skillet,Rivets or Screws,mechanism
+Zero,part,Skillet,Deep Skillet,Internal Mechanism,mechanism
+Zero,part,Sock,Sock,Toe seam,feature
+Zero,part,Spirit level,Spirit level,Tube,duplicate
+Zero,part,Spirit level,Spirit level,Ruler or Measurement Marks,feature
+Zero,part,Spirit level,Spirit level,Internal Mechanism,mechanism
+Zero,part,Stove,Slide-in gas range,Internal mechanism  ,mechanism
+Few,part,Suitcase,Suitcase,internal mechanism,mechanism
+Zero,part,Suitcase,Expandable Upright Suitcase,Internal mechanism,mechanism
+Zero,part,Suitcase,Expandable Upright Suitcase,Carrying handles  ,duplicate
+Zero,part,Suitcase,Expandable Upright Suitcase,Trolley sleeve,non-integral
+Zero,part,Sweatpants,Cuffed Hem Joggers,Internal seams,feature
+Zero,part,Sweatpants,Cuffed Hem Joggers,Logo or brand tag,feature
+Zero,part,Taxi,SUV-style taxi,Internal Mechanism,mechanism
+Few,part,Tent,Tent,stakes,non-integral
+Few,part,Tent,Tent,guy lines,non-integral
+Zero,part,Tent,Freestanding Dome Tent,Stakes,non-integral
+Zero,part,Tent,Freestanding Dome Tent,Guy lines,non-integral
+Zero,part,Toothbrush,Manual Toothbrush,Grip,feature
+Zero,part,Trombone,Slide Trombone,Internal Mechanism,mechanism
+Few,part,Umbrella,stick umbrella,Internal mechanism,mechanism
+Zero,part,Umbrella,Stick umbrella,Internal mechanism,mechanism
+Few,part,Waistcoat,Single-breasted waistcoat,neckline,feature
+Few,part,Waistcoat,Single-breasted waistcoat,opening,feature
+Zero,part,Waistcoat,Single-breasted waistcoat,Shoulder Straps,specific
+Zero,part,Waistcoat,Single-breasted waistcoat,Buttonholes,feature
+Zero,part,Washing machine,Front-loading Washing Machine (Electrical device),Internal mechanism,mechanism
+Zero,part,Webcam,USB Webcam,Internal mechanism,mechanism
+Zero,part,Window,Single-hung window,Internal Mechanism,mechanism
+Zero,part,Window,Single-hung window,Balance System  ,mechanism

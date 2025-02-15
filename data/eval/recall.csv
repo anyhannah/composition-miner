@@ -1,0 +1,1198 @@
+﻿external_dataset,our_dataset,part_material,external_entity,our_entity,external_group,extnerla_reference_item,our_target_item,target_specific_entity,score,reason
+ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part1,control knobs,knobs,Gas grill,1,exact
+ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part2,burner,burners,Gas grill,1,exact
+ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part2,carryover tubes,burners,Gas grill,0.5,partial
+ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part3,cooking grate,grate,Gas grill,1,exact
+ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part4,ignitor,starter,Gas grill,1,exact
+ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part5,grease tray,-,-,0,missing
+ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part6,heat plates,-,-,0,missing
+ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part7,warming rack,-,-,0,missing
+ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part8,temperature gauge,-,-,0,missing
+ParRoT,Zero,part,barbeque grill,Barbecue grill,barbeque grill_part1,control knobs,control knobs,Propane Gas Grill,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,barbeque grill_part2,burner,burners,Propane Gas Grill,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,barbeque grill_part2,carryover tubes,burners,Propane Gas Grill,0.5,partial
+ParRoT,Zero,part,barbeque grill,Barbecue grill,barbeque grill_part3,cooking grate,cooking grates,Propane Gas Grill,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,barbeque grill_part4,ignitor,igniter,Portable Pellet Grill,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,barbeque grill_part5,grease tray,grease tray,Portable Pellet Grill,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,barbeque grill_part6,heat plates,heat shield,Rotisserie Electric Grill,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,barbeque grill_part7,warming racks,racks,Electric smoker,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,barbeque grill_part8,temperature gauge,temperature gauge,Electric Portable Grill,1,exact
+ParRoT,Few,part,binoculars,Binoculars,binoculars_part1,frame,body,Porro prism binoculars,1,exact
+ParRoT,Few,part,binoculars,Binoculars,binoculars_part2,objective lens,objective lenses,Porro prism binoculars,1,exact
+ParRoT,Few,part,binoculars,Binoculars,binoculars_part3,ocular lens,eyepiece lenses,Porro prism binoculars,1,exact
+ParRoT,Few,part,binoculars,Binoculars,binoculars_part4,adjustable eye cup,eyepieces,Binoculars (Optical instrument),0.5,partial
+ParRoT,Few,part,binoculars,Binoculars,binoculars_part4,diopter,eyepieces,Binoculars (Optical instrument),0.5,partial
+ParRoT,Few,part,binoculars,Binoculars,binoculars_part5,focus,-,-,0,missing
+ParRoT,Zero,part,binoculars,Binoculars,binoculars_part1,frame,body,Porro Prism Binoculars,1,exact
+ParRoT,Zero,part,binoculars,Binoculars,binoculars_part2,objective lens,objective lenses,Porro Prism Binoculars,1,exact
+ParRoT,Zero,part,binoculars,Binoculars,binoculars_part3,ocular lens,eyepiece lenses,Porro Prism Binoculars,1,exact
+ParRoT,Zero,part,binoculars,Binoculars,binoculars_part4,adjustable eye cup,eyecups,Porro Prism Binoculars,1,exact
+ParRoT,Zero,part,binoculars,Binoculars,binoculars_part4,diopter,diopter adjustment,Porro Prism Binoculars,1,exact
+ParRoT,Zero,part,binoculars,Binoculars,binoculars_part5,focus,focusing wheel,Porro Prism Binoculars,1,exact
+ParRoT,Few,part,bird cage,Birdcage,bird cage_part1,food tray,feeding tray,Birdcage (Cage),1,exact
+ParRoT,Few,part,bird cage,Birdcage,bird cage_part2,base,base,Travel cage,1,exact
+ParRoT,Few,part,bird cage,Birdcage,bird cage_part3,door,door,Travel cage,1,exact
+ParRoT,Few,part,bird cage,Birdcage,bird cage_part4,metal tray,base tray,Birdcage (Cage),1,exact
+ParRoT,Few,part,bird cage,Birdcage,bird cage_part5,carry handles,handle,Travel cage,1,exact
+ParRoT,Few,part,bird cage,Birdcage,bird cage_part6,top,play-top area,Play-Top cage,1,specific
+ParRoT,Few,part,bird cage,Birdcage,bird cage_part7,rods,vertical bars / horizontal bars,Travel cage,1,exact
+ParRoT,Few,part,bird cage,Birdcage,bird cage_part8,sides,vertical bars / horizontal bars,Travel cage,1,specific
+ParRoT,Zero,part,bird cage,Birdcage,bird cage_part1,food tray,feeders,Stackable Modular Birdcage,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,bird cage_part2,base,base,Dome Top Birdcage,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,bird cage_part3,door,door,Dome Top Birdcage,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,bird cage_part4,metal tray,base tray / pull-out tray,Modular Multi-Tiered Birdcage,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,bird cage_part5,sides,side panels,Stackable Modular Birdcage,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,bird cage_part6,carry handles,handles,Portable Aviary Birdcage,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,bird cage_part7,top,dome top,Dome Top Birdcage,1,specific
+ParRoT,Zero,part,bird cage,Birdcage,bird cage_part8,rods,vertical bars / horizontal bars,Dome Top Birdcage,1,exact
+ParRoT,Few,part,chair,Chair,chair_part1,back,backrest,Chair,1,exact
+ParRoT,Few,part,chair,Chair,chair_part1,cross rail,backrest,Chair,0.5,partial
+ParRoT,Few,part,chair,Chair,chair_part1,top rail,backrest,Chair,0.5,partial
+ParRoT,Few,part,chair,Chair,chair_part1,stile,backrest,Chair,0.5,partial
+ParRoT,Few,part,chair,Chair,chair_part2,seat,seat,Chair,1,exact
+ParRoT,Few,part,chair,Chair,chair_part2,apron,seat,Chair,0.5,partial
+ParRoT,Few,part,chair,Chair,chair_part3,legs,legs,Chair,1,exact
+ParRoT,Zero,part,chair,Chair,chair_part1,back,backrest,Club Armchair,1,exact
+ParRoT,Zero,part,chair,Chair,chair_part1,cross rail,frame,Club Armchair,0.5,partial
+ParRoT,Zero,part,chair,Chair,chair_part1,top rail,top rail,Ladderback Rocking Chair,1,exact
+ParRoT,Zero,part,chair,Chair,chair_part1,stile,stiles,Ladderback Rocking Chair,1,exact
+ParRoT,Zero,part,chair,Chair,chair_part2,seat,seat,Club Armchair,1,exact
+ParRoT,Zero,part,chair,Chair,chair_part2,apron,frame,Club Armchair,0.5,partial
+ParRoT,Zero,part,chair,Chair,chair_part3,legs,legs,Club Armchair,1,exact
+ParRoT,Few,part,coffee maker,Coffeemaker,coffee maker_part1,reservoir,water reservoir,Drip coffeemaker,1,exact
+ParRoT,Few,part,coffee maker,Coffeemaker,coffee maker_part2,carafe,carafe,Drip coffeemaker,1,exact
+ParRoT,Few,part,coffee maker,Coffeemaker,coffee maker_part3,lid,lid,French press,1,exact
+ParRoT,Few,part,coffee maker,Coffeemaker,coffee maker_part4,filter basket,filter basket,Drip coffeemaker,1,exact
+ParRoT,Few,part,coffee maker,Coffeemaker,coffee maker_part4,filter,filter,French press,1,exact
+ParRoT,Few,part,coffee maker,Coffeemaker,coffee maker_part5,warming plate,hot plate,Drip coffeemaker,1,exact
+ParRoT,Few,part,coffee maker,Coffeemaker,coffee maker_part6,signal lamp,-,-,0,missing
+ParRoT,Few,part,coffee maker,Coffeemaker,coffee maker_part7,switch,-,-,0,missing
+ParRoT,Zero,part,coffee maker,Coffeemaker,coffee maker_part1,reservoir,water reservoir,Electric Drip Coffee Maker,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,coffee maker_part2,carafe,carafe or pot,Electric Drip Coffee Maker,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,coffee maker_part3,lid,lid,French press,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,coffee maker_part4,filter basket,filter basket,Electric Drip Coffee Maker,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,coffee maker_part4,filter,coffee filter,Electric Drip Coffee Maker,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,coffee maker_part5,warming plate,warming plate,Electric Drip Coffee Maker,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,coffee maker_part6,signal lamp,-,-,0,missing
+ParRoT,Zero,part,coffee maker,Coffeemaker,coffee maker_part7,switch,on/off switch,Electric Drip Coffee Maker,1,exact
+ParRoT,Few,part,digital camera,Digital camera,digital camera_part1,lens,lens,Digital camera,1,exact
+ParRoT,Few,part,digital camera,Digital camera,digital camera_part2,display,screen,Digital camera,1,exact
+ParRoT,Few,part,digital camera,Digital camera,digital camera_part3,power switch,controls,Digital camera,0.5,partial
+ParRoT,Few,part,digital camera,Digital camera,digital camera_part4,main dial,controls,Digital camera,0.5,partial
+ParRoT,Few,part,digital camera,Digital camera,digital camera_part4,mode dial,controls,Digital camera,0.5,partial
+ParRoT,Few,part,digital camera,Digital camera,digital camera_part4,focus switch mode,controls,Digital camera,0.5,partial
+ParRoT,Few,part,digital camera,Digital camera,digital camera_part4,lens release,controls,Digital camera,0.5,partial
+ParRoT,Few,part,digital camera,Digital camera,digital camera_part4,flash button,controls,Digital camera,0.5,partial
+ParRoT,Few,part,digital camera,Digital camera,digital camera_part4,shutter button,controls,Digital camera,0.5,partial
+ParRoT,Few,part,digital camera,Digital camera,digital camera_part5,flash,-,-,0,missing
+ParRoT,Few,part,digital camera,Digital camera,digital camera_part6,shutter,-,-,0,missing
+ParRoT,Zero,part,digital camera,Digital camera,digital camera_part1,lens,lens,Point-and-Shoot Camera,1,exact
+ParRoT,Zero,part,digital camera,Digital camera,digital camera_part2,display,LEDs or display,360-Degree Action Camera,1,exact
+ParRoT,Zero,part,digital camera,Digital camera,digital camera_part3,power switch,power button,360-Degree Action Camera,1,exact
+ParRoT,Zero,part,digital camera,Digital camera,digital camera_part4,main dial,control dials and buttons,Mirrorless Interchangeable Lens Camera,0.5,partial
+ParRoT,Zero,part,digital camera,Digital camera,digital camera_part4,mode dial,control dials and buttons,Mirrorless Interchangeable Lens Camera,0.5,partial
+ParRoT,Zero,part,digital camera,Digital camera,digital camera_part4,focus switch mode,control dials and buttons,Mirrorless Interchangeable Lens Camera,0.5,partial
+ParRoT,Zero,part,digital camera,Digital camera,digital camera_part4,lens release,control dials and buttons,Mirrorless Interchangeable Lens Camera,0.5,partial
+ParRoT,Zero,part,digital camera,Digital camera,digital camera_part4,flash button,control buttons,Integrated Printer Digital Camera,0.5,partial
+ParRoT,Zero,part,digital camera,Digital camera,digital camera_part4,shutter button,shutter button,Point-and-Shoot Camera,1,exact
+ParRoT,Zero,part,digital camera,Digital camera,digital camera_part5,flash,flash,Point-and-Shoot Camera,1,exact
+ParRoT,Zero,part,digital camera,Digital camera,digital camera_part6,shutter,shutter,Integrated Printer Digital Camera,1,exact
+ParRoT,Few,part,digital clinical thermometer,Electronic medical thermometer,digital clinical thermometer_part1,display window,display,Electronic medical thermometer,1,exact
+ParRoT,Few,part,digital clinical thermometer,Electronic medical thermometer,digital clinical thermometer_part2,sensor,sensor,Electronic medical thermometer,1,exact
+ParRoT,Few,part,digital clinical thermometer,Electronic medical thermometer,digital clinical thermometer_part3,body,casing,Electronic medical thermometer,1,exact
+ParRoT,Few,part,digital clinical thermometer,Electronic medical thermometer,digital clinical thermometer_part3,bottom/back,casing,Electronic medical thermometer,0.5,partial
+ParRoT,Few,part,digital clinical thermometer,Electronic medical thermometer,digital clinical thermometer_part3,battery cover,casing,Electronic medical thermometer,0.5,partial
+ParRoT,Few,part,digital clinical thermometer,Electronic medical thermometer,digital clinical thermometer_part4,on/off button,-,-,0,missing
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,digital clinical thermometer_part1,display window,display screen,Flexible tip digital thermometer,1,exact
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,digital clinical thermometer_part2,sensor,flexible tip,Flexible tip digital thermometer,1,exact
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,digital clinical thermometer_part3,body,outer casing,Flexible tip digital thermometer,1,exact
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,digital clinical thermometer_part3,bottom/back,outer casing,Flexible tip digital thermometer,0.5,partial
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,digital clinical thermometer_part3,battery cover,battery compartment,Flexible tip digital thermometer,0.5,partial
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,digital clinical thermometer_part4,on/off button,on/off button,Rigid tip digital thermometer,1,exact
+ParRoT,Few,part,earphone,Headphones,earphone_part1,plug,audio connector,In-ear headphones,1,exact
+ParRoT,Few,part,earphone,Headphones,earphone_part2,drivers,drivers,In-ear headphones,1,exact
+ParRoT,Few,part,earphone,Headphones,earphone_part3,housing,earbud housing,Open-fit Earbuds,1,exact
+ParRoT,Few,part,earphone,Headphones,earphone_part4,sleeves/covers,earbud tips,In-ear headphones,1,exact
+ParRoT,Few,part,earphone,Headphones,earphone_part5,cable,cable,In-ear headphones,1,exact
+ParRoT,Zero,part,earphone,Audio headset,earphone_part1,plug,plug,Wired Earbuds,1,exact
+ParRoT,Zero,part,earphone,Audio headset,earphone_part2,drivers,speaker driver,Wired Earbuds,1,exact
+ParRoT,Zero,part,earphone,Audio headset,earphone_part3,housing,earbud housing,Wired Earbuds,1,exact
+ParRoT,Zero,part,earphone,Audio headset,earphone_part4,sleeves/covers,ear tips,Wired Earbuds,1,exact
+ParRoT,Zero,part,earphone,Audio headset,earphone_part5,cable,cable,Wired Earbuds,1,exact
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part1,surface element,heating elements,Electric coil stove,1,exact
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part2,cooktop,cooktop,Electric coil stove,1,exact
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part3,control knob,control knob,Electric coil stove,1,exact
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part4,control panel,-,-,0,missing
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part4,signal lamp,-,-,0,missing
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part4,clock timer,-,-,0,missing
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part4,cook timer,-,-,0,missing
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part5,drawer,-,-,0,missing
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part6,rack,-,-,0,missing
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part7,oven,oven,Electric stove (Stove),1,exact
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part8,window,-,-,0,missing
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part9,handle,-,-,0,missing
+ParRoT,Few,part,electric stove,Electric stove,electric stove_part10,backguard,-,-,0,missing
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part1,surface element,burner coil,Coil electric stove,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part2,cooktop,cooktop,Coil electric stove,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part3,control knob,control knobs,Coil electric stove,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part4,control panel,control panel,Freestanding induction range,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part4,signal lamp,indicator light,Coil electric stove,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part4,clock timer,control panel,Freestanding induction range,0.5,partial
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part4,cook timer,control panel,Freestanding induction range,0.5,partial
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part5,drawer,storage drawer,Freestanding induction range,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part6,rack,oven rack,Freestanding induction range,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part7,oven,oven,Freestanding induction range,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part8,window,oven door,Freestanding induction range,0.5,partial
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part9,handle,oven door,Freestanding induction range,0.5,partial
+ParRoT,Zero,part,electric stove,Electric stove,electric stove_part10,backguard,stove body,Radiant coil electric stove,0.5,partial
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,fire extinguisher_part1,cylindrical tank,cylinder,Cartridge operated fire extinguisher,1,exact
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,fire extinguisher_part2,valve assembly,valve,Cartridge operated fire extinguisher,1,exact
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,fire extinguisher_part2,pull pin,-,-,0,missing
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,fire extinguisher_part3,hose,hose or nozzle,Cartridge operated fire extinguisher,1,exact
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,fire extinguisher_part4,extinguishing agent,extinguishing agent tank,Cartridge operated fire extinguisher,1,container
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,fire extinguisher_part4,propellant,pressure cartridge,Cartridge operated fire extinguisher,1,container
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,fire extinguisher_part5,release lever,-,-,0,missing
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,fire extinguisher_part6,tamper seal,-,-,0,missing
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,fire extinguisher_part7,handle,-,-,0,missing
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,fire extinguisher_part1,cylindrical tank,cylinder,Carbon Dioxide Fire Extinguisher,1,exact
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,fire extinguisher_part2,valve assembly,valve assembly,Carbon Dioxide Fire Extinguisher,1,exact
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,fire extinguisher_part2,pull pin,safety pin,Carbon Dioxide Fire Extinguisher,1,exact
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,fire extinguisher_part3,hose,hose and nozzle,Water-Based Fire Extinguisher,1,exact
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,fire extinguisher_part4,extinguishing agent,extinguishing agent,Wheeled Stored Pressure Fire Extinguisher,1,exact
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,fire extinguisher_part4,propellant,-,-,0,missing
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,fire extinguisher_part5,release lever,handle and lever,Carbon Dioxide Fire Extinguisher,1,exact
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,fire extinguisher_part6,tamper seal,safety pin and tamper seal,Water-Based Fire Extinguisher,1,exact
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,fire extinguisher_part7,handle,carrying handle,Carbon Dioxide Fire Extinguisher,1,exact
+ParRoT,Few,part,flashlight,Flashlight,flashlight_part1,case,body,Rechargeable flashlight,1,exact
+ParRoT,Few,part,flashlight,Flashlight,flashlight_part2,switch,switch,Rechargeable flashlight,1,exact
+ParRoT,Few,part,flashlight,Flashlight,flashlight_part3,bulb,LED or lamp,Rechargeable flashlight,1,exact
+ParRoT,Few,part,flashlight,Flashlight,flashlight_part4,reflector,reflector,Rechargeable flashlight,1,exact
+ParRoT,Few,part,flashlight,Flashlight,flashlight_part5,protective glass,lens,Rechargeable flashlight,1,exact
+ParRoT,Few,part,flashlight,Flashlight,flashlight_part6,batteries,built-in rechargeable battery,Rechargeable flashlight,1,specific
+ParRoT,Few,part,flashlight,Flashlight,flashlight_part6,metal spring,-,-,0,missing
+ParRoT,Zero,part,flashlight,Flashlight,flashlight_part1,case,outer casing,Disposable battery penlight,1,exact
+ParRoT,Zero,part,flashlight,Flashlight,flashlight_part2,switch,switch,Incandescent Bulb Handheld Flashlight,1,exact
+ParRoT,Zero,part,flashlight,Flashlight,flashlight_part3,bulb,light bulb,Incandescent Bulb Handheld Flashlight,1,exact
+ParRoT,Zero,part,flashlight,Flashlight,flashlight_part4,reflector,reflector,Incandescent Bulb Handheld Flashlight,1,exact
+ParRoT,Zero,part,flashlight,Flashlight,flashlight_part5,protective glass,lens,Incandescent Bulb Handheld Flashlight,1,exact
+ParRoT,Zero,part,flashlight,Flashlight,flashlight_part6,batteries,battery,Solar-Powered Flashlight,1,exact
+ParRoT,Zero,part,flashlight,Flashlight,flashlight_part6,metal spring,spring,Disposable battery penlight,1,exact
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part1,power cord,cord,Handheld hair dryer,1,exact
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part2,heating coils,heating element,Handheld hair dryer,1,exact
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part3,power switch,switch,Handheld hair dryer,0.5,partial
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part3,speed selector switch,switch,Handheld hair dryer,0.5,partial
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part3,heat selector switch,switch,Handheld hair dryer,0.5,partial
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part4,fan blades,fan blade,Handheld hair dryer,1,exact
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part4,fan housing,body,Handheld hair dryer,0.5,partial
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part5,barrel,body,Handheld hair dryer,0.5,partial
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part6,hang-up ring,-,-,0,missing
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part7,handle,-,-,0,missing
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part8,air-inlet grille,-,-,0,missing
+ParRoT,Few,part,hair dryer,Hair dryer,hair dryer_part8,air-outlet grille,-,-,0,missing
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part1,power cord,power cord,Wall-mounted hair dryer,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part2,heating coils,heating element,Wall-mounted hair dryer,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part3,power switch,on/off switch,Wall-mounted hair dryer,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part3,speed selector switch,heat/speed settings,Wall-mounted hair dryer,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part3,heat selector switch,heat/speed settings,Wall-mounted hair dryer,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part4,fan blades,fan,Wall-mounted hair dryer,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part4,fan housing,body casing,Wall-mounted hair dryer,0.5,partial
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part5,barrel,body casing,Wall-mounted hair dryer,0.5,partial
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part6,hang-up ring,-,-,0,missing
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part7,handle,handle,Compact Folding Handheld Hair Dryer,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part8,air-inlet grille,air intake grill,Compact Folding Handheld Hair Dryer,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,hair dryer_part8,air-outlet grille,airflow vents,Wall-mounted hair dryer,1,exact
+ParRoT,Few,part,humidifier,Humidifier,humidifier_part1,nebulizer,vibrating diaphragm,Ultrasonic humidifier,1,exact
+ParRoT,Few,part,humidifier,Humidifier,humidifier_part2,power knob,control panel,Ultrasonic humidifier,0.5,partial
+ParRoT,Few,part,humidifier,Humidifier,humidifier_part3,nozzle,mist outlet,Ultrasonic humidifier,0.5,partial
+ParRoT,Few,part,humidifier,Humidifier,humidifier_part3,air outlet,mist outlet,Ultrasonic humidifier,1,exact
+ParRoT,Few,part,humidifier,Humidifier,humidifier_part4,water tank,water tank,Ultrasonic humidifier,1,exact
+ParRoT,Few,part,humidifier,Humidifier,humidifier_part5,resevoir,-,-,0,missing
+ParRoT,Few,part,humidifier,Humidifier,humidifier_part5,base,-,-,0,missing
+ParRoT,Few,part,humidifier,Humidifier,humidifier_part6,water valve,-,-,0,missing
+ParRoT,Few,part,humidifier,Humidifier,humidifier_part6,water sensor,-,-,0,missing
+ParRoT,Few,part,humidifier,Humidifier,humidifier_part7,tank cap,-,-,0,missing
+ParRoT,Zero,part,humidifier,Humidifier,humidifier_part1,nebulizer,ultrasonic vibrating plate,Cool Mist Ultrasonic Humidifier,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,humidifier_part2,power knob,control knob or button,Steam Vaporizer,0.5,partial
+ParRoT,Zero,part,humidifier,Humidifier,humidifier_part3,nozzle,mist nozzle,Cool Mist Ultrasonic Humidifier,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,humidifier_part3,air outlet,mist outlet,Steam Vaporizer,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,humidifier_part4,water tank,water tank,Cool Mist Ultrasonic Humidifier,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,humidifier_part5,resevoir,water basin,Cool Mist Ultrasonic Humidifier,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,humidifier_part5,base,base,Steam Vaporizer,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,humidifier_part6,water valve,solenoid valve,Central Humidifier,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,humidifier_part6,water sensor,internal mechanism,Cool Mist Ultrasonic Humidifier,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,humidifier_part7,tank cap,-,-,0,missing
+ParRoT,Few,part,kite,Kite,kite_part1,spine,cross frame,Diamond kite,0.5,partial
+ParRoT,Few,part,kite,Kite,kite_part1,cross spar,cross frame,Diamond kite,0.5,partial
+ParRoT,Few,part,kite,Kite,kite_part2,kite line,tethering line,Diamond kite,1,exact
+ParRoT,Few,part,kite,Kite,kite_part3,bridle,bridle,Diamond kite,1,exact
+ParRoT,Few,part,kite,Kite,kite_part4,kite sail,cover,Diamond kite,1,exact
+ParRoT,Few,part,kite,Kite,kite_part5,kite spool,-,-,0,missing
+ParRoT,Few,part,kite,Kite,kite_part6,tail,-,-,0,missing
+ParRoT,Zero,part,kite,Kite,kite_part1,spine,frame spars,Diamond Kite,0.5,partial
+ParRoT,Zero,part,kite,Kite,kite_part1,cross spar,frame spars,Diamond Kite,0.5,partial
+ParRoT,Zero,part,kite,Kite,kite_part2,kite line,flying line,Diamond Kite,1,exact
+ParRoT,Zero,part,kite,Kite,kite_part3,bridle,bridle,Diamond Kite,1,exact
+ParRoT,Zero,part,kite,Kite,kite_part4,kite sail,sail,Diamond Kite,1,exact
+ParRoT,Zero,part,kite,Kite,kite_part5,kite spool,reel,Diamond Kite,1,exact
+ParRoT,Zero,part,kite,Kite,kite_part6,tail,tails,Diamond Kite,1,exact
+ParRoT,Few,part,microwave,Microwave oven,microwave_part1,door,door,Microwave oven,1,exact
+ParRoT,Few,part,microwave,Microwave oven,microwave_part1,choke,door,Microwave oven,0.5,partial
+ParRoT,Few,part,microwave,Microwave oven,microwave_part2,cooking cavity,cooking chamber,Microwave oven,1,exact
+ParRoT,Few,part,microwave,Microwave oven,microwave_part2,stirrer,cooking chamber,Microwave oven,0.5,partial
+ParRoT,Few,part,microwave,Microwave oven,microwave_part3,turntable,turntable,Microwave oven,1,exact
+ParRoT,Few,part,microwave,Microwave oven,microwave_part4,power,power supply,Microwave oven,1,exact
+ParRoT,Few,part,microwave,Microwave oven,microwave_part5,waveguide,waveguide,Microwave oven,1,exact
+ParRoT,Few,part,microwave,Microwave oven,microwave_part5,magnetron,magnetron,Microwave oven (Oven),1,exact
+ParRoT,Zero,part,microwave,Microwave oven,microwave_part1,door,door,Solo Microwave Oven,1,exact
+ParRoT,Zero,part,microwave,Microwave oven,microwave_part1,choke,door,Solo Microwave Oven,0.5,partial
+ParRoT,Zero,part,microwave,Microwave oven,microwave_part2,cooking cavity,cooking cavity,Solo Microwave Oven,1,exact
+ParRoT,Zero,part,microwave,Microwave oven,microwave_part2,stirrer,cooking cavity,Solo Microwave Oven,0.5,partial
+ParRoT,Zero,part,microwave,Microwave oven,microwave_part3,turntable,turntable,Solo Microwave Oven,1,exact
+ParRoT,Zero,part,microwave,Microwave oven,microwave_part4,power,power cord,Solo Microwave Oven,1,exact
+ParRoT,Zero,part,microwave,Microwave oven,microwave_part5,waveguide,waveguide,Microwave oven (technological artifacts),1,exact
+ParRoT,Zero,part,microwave,Microwave oven,microwave_part5,magnetron,magnetron,Microwave oven (technological artifacts),1,exact
+ParRoT,Few,part,pencil,Pencil,pencil_part1,lead,graphite core,Wood-cased pencil,1,exact
+ParRoT,Few,part,pencil,Pencil,pencil_part2,eraser,eraser,Wood-cased pencil,1,exact
+ParRoT,Few,part,pencil,Pencil,pencil_part3,wood,wood casing,Wood-cased pencil,1,exact
+ParRoT,Few,part,pencil,Pencil,pencil_part4,ferrule,-,-,0,missing
+ParRoT,Zero,part,pencil,Pencil,pencil_part1,lead,core,Graphite pencil,1,exact
+ParRoT,Zero,part,pencil,Pencil,pencil_part2,eraser,eraser,Graphite pencil,1,exact
+ParRoT,Zero,part,pencil,Pencil,pencil_part3,wood,wood casing,Graphite pencil,1,exact
+ParRoT,Zero,part,pencil,Pencil,pencil_part4,ferrule,ferrule,Graphite pencil,1,exact
+ParRoT,Few,part,rice cooker,-,rice cooker_part1,power cord,-,-,0,missing
+ParRoT,Few,part,rice cooker,-,rice cooker_part2,power switch,-,-,0,missing
+ParRoT,Few,part,rice cooker,-,rice cooker_part3,lid,-,-,0,missing
+ParRoT,Few,part,rice cooker,-,rice cooker_part4,knob,-,-,0,missing
+ParRoT,Few,part,rice cooker,-,rice cooker_part5,steam rack,-,-,0,missing
+ParRoT,Few,part,rice cooker,-,rice cooker_part6,heating plate,-,-,0,missing
+ParRoT,Few,part,rice cooker,-,rice cooker_part7,outer pot,-,-,0,missing
+ParRoT,Few,part,rice cooker,-,rice cooker_part8,inner pot,-,-,0,missing
+ParRoT,Few,part,rice cooker,-,rice cooker_part9,warm light,-,-,0,missing
+ParRoT,Few,part,rice cooker,-,rice cooker_part9,cook light,-,-,0,missing
+ParRoT,Zero,part,rice cooker,Rice cooker,rice cooker_part1,power cord,power cord,Electric Rice Cooker,1,exact
+ParRoT,Zero,part,rice cooker,Rice cooker,rice cooker_part2,power switch,control panel,Electric Rice Cooker,0.5,partial
+ParRoT,Zero,part,rice cooker,Rice cooker,rice cooker_part3,lid,lid,Electric Rice Cooker,1,exact
+ParRoT,Zero,part,rice cooker,Rice cooker,rice cooker_part4,knob,lid,Electric Rice Cooker,0.5,partial
+ParRoT,Zero,part,rice cooker,Rice cooker,rice cooker_part5,steam rack,steaming tray,Electric Rice Cooker,1,exact
+ParRoT,Zero,part,rice cooker,Rice cooker,rice cooker_part6,heating plate,heating element,Electric Rice Cooker,1,exact
+ParRoT,Zero,part,rice cooker,Rice cooker,rice cooker_part7,outer pot,main body,Electric Rice Cooker,1,exact
+ParRoT,Zero,part,rice cooker,Rice cooker,rice cooker_part8,inner pot,inner pot,Electric Rice Cooker,1,exact
+ParRoT,Zero,part,rice cooker,Rice cooker,rice cooker_part9,warm light,control panel,Electric Rice Cooker,0.5,partial
+ParRoT,Zero,part,rice cooker,Rice cooker,rice cooker_part9,cook light,control panel,Electric Rice Cooker,0.5,partial
+ParRoT,Few,part,suitcase,Suitcase,suitcase_part1,front shell,body,Suitcase,0.5,partial
+ParRoT,Few,part,suitcase,Suitcase,suitcase_part1,back shell,body,Suitcase,0.5,partial
+ParRoT,Few,part,suitcase,Suitcase,suitcase_part2,wheel,wheels,Suitcase,1,exact
+ParRoT,Few,part,suitcase,Suitcase,suitcase_part2,wheel fork,wheels,Suitcase,0.5,partial
+ParRoT,Few,part,suitcase,Suitcase,suitcase_part3,trolley handle,telescoping pull handle,Suitcase (Luggage carrier),1,exact
+ParRoT,Few,part,suitcase,Suitcase,suitcase_part4,top handle,handle,Suitcase,0.5,partial
+ParRoT,Few,part,suitcase,Suitcase,suitcase_part4,side carry handle,handle,Suitcase,0.5,partial
+ParRoT,Few,part,suitcase,Suitcase,suitcase_part5,zipper,-,-,0,missing
+ParRoT,Few,part,suitcase,Suitcase,suitcase_part6,zipper lock,-,-,0,missing
+ParRoT,Zero,part,suitcase,Suitcase,suitcase_part1,front shell,shell,Expandable Upright Suitcase,0.5,partial
+ParRoT,Zero,part,suitcase,Suitcase,suitcase_part1,back shell,shell,Expandable Upright Suitcase,0.5,partial
+ParRoT,Zero,part,suitcase,Suitcase,suitcase_part2,wheel,wheels,Expandable Upright Suitcase,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,suitcase_part2,wheel fork,wheel housing,Expandable Upright Suitcase,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,suitcase_part3,trolley handle,telescoping handle,Expandable Upright Suitcase,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,suitcase_part4,top handle,top and side handles,Expandable Upright Suitcase,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,suitcase_part4,side carry handle,top and side handles,Expandable Upright Suitcase,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,suitcase_part5,zipper,zipper,Expandable Upright Suitcase,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,suitcase_part6,zipper lock,lock,Expandable Upright Suitcase,1,exact
+ParRoT,Few,part,tent,Tent,tent_part1,poles,poles,Tent,1,exact
+ParRoT,Few,part,tent,Tent,tent_part2,waterproof flysheet,fabric cover,Tent,1,exact
+ParRoT,Few,part,tent,Tent,tent_part3,window,-,-,0,missing
+ParRoT,Few,part,tent,Tent,tent_part4,peg loops,-,-,0,missing
+ParRoT,Few,part,tent,Tent,tent_part5,insect proof mesh door,-,-,0,missing
+ParRoT,Few,part,tent,Tent,tent_part6,inner tent,-,-,0,missing
+ParRoT,Few,part,tent,Tent,tent_part7,porch,-,-,0,missing
+ParRoT,Zero,part,tent,Tent,tent_part1,poles,poles,Freestanding Dome Tent,1,exact
+ParRoT,Zero,part,tent,Tent,tent_part2,waterproof flysheet,rain fly,Freestanding Dome Tent,1,exact
+ParRoT,Zero,part,tent,Tent,tent_part3,window,windows,Instant Pop-up Tent,1,exact
+ParRoT,Zero,part,tent,Tent,tent_part4,peg loops,loops or hooks,Freestanding Dome Tent,1,exact
+ParRoT,Zero,part,tent,Tent,tent_part5,insect proof mesh door,door,Instant Pop-up Tent,0.5,partial
+ParRoT,Zero,part,tent,Tent,tent_part6,inner tent,tent body,Tunnel Tent,0.5,partial
+ParRoT,Zero,part,tent,Tent,tent_part7,porch,-,-,0,missing
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part1,water inlet waves,water inlet valve,Top-loading washing machine,1,exact
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part2,lid,top lid,Top-loading washing machine,1,exact
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part2,lid switch,top lid,Top-loading washing machine,0.5,partial
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part3,agitator,agitator,Top-loading washing machine,1,exact
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part4,drum,wash drum,Top-loading washing machine,1,exact
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part5,frame,body,Top-loading washing machine,1,exact
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part6,controls,control panel,Top-loading washing machine,1,exact
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part6,monitors,control panel,Top-loading washing machine,0.5,partial
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part7,leveling feet,-,-,0,missing
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part8,drain hose,-,-,0,missing
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part8,water pump,water pump,Washing Machine (Home appliance),1,exact
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part9,transmission,-,-,0,missing
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part9,motor,motor,Top-loading washing machine,1,exact
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part9,motor supply,-,-,0,missing
+ParRoT,Few,part,washing machine,Washing machine,washing machine_part10,power supply,-,-,0,missing
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part1,water inlet waves,water inlet,Single-tub portable electric washing machine,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part2,lid,lid,Single-tub portable electric washing machine,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part2,lid switch,lid,Single-tub portable electric washing machine,0.5,partial
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part3,agitator,agitator or pulsator,Single-tub portable electric washing machine,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part4,drum,drum,Front-loading Washing Machine (Electrical device),1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part5,frame,outer casing,Front-loading washing machine,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part6,controls,control panel,Single-tub portable electric washing machine,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part6,monitors,control panel,Single-tub portable electric washing machine,0.5,partial
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part7,leveling feet,leveling feet,Front-loading Washing Machine (Electrical device),1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part8,drain hose,drain hose,Single-tub portable electric washing machine,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part8,water pump,water pump,Single-tub portable electric washing machine,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part9,transmission,internal mechanism,Single-tub portable electric washing machine,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part9,motor,motor,Front-loading Washing Machine (Electrical device),1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part9,motor supply,internal mechanism,Single-tub portable electric washing machine,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,washing machine_part10,power supply,power cord,Single-tub portable electric washing machine,1,exact
+CSLB,Few,part,aeroplane,Airplane,aeroplane_part1,cockpit,cockpit,Commercial airliner,1,exact
+CSLB,Few,part,aeroplane,Airplane,aeroplane_part2,engine,engines,Commercial airliner,1,exact
+CSLB,Few,part,aeroplane,Airplane,aeroplane_part3,windows,-,-,0,missing
+CSLB,Few,part,aeroplane,Airplane,aeroplane_part4,tail,tail,Commercial airliner,1,exact
+CSLB,Few,part,aeroplane,Airplane,aeroplane_part5,seats,cabin,Commercial airliner,0.5,partial
+CSLB,Few,part,aeroplane,Airplane,aeroplane_part6,propeller,-,-,0,missing
+CSLB,Few,part,aeroplane,Airplane,aeroplane_part7,wings,wings,Commercial airliner,1,exact
+CSLB,Few,part,aeroplane,Airplane,aeroplane_part8,wheels,landing gear,Commercial airliner,0.5,partial
+CSLB,Few,part,aeroplane,Airplane,aeroplane_part9,luggage area,cargo hold,Cargo plane,1,exact
+CSLB,Few,part,aeroplane,Airplane,aeroplane_part10,nose,-,-,0,missing
+CSLB,Few,material,aeroplane,Airplane,aeroplane_material1,metal,metal (engine),n/a,1,exact
+CSLB,Few,material,aeroplane,Airplane,aeroplane_material2,aluminium,aluminum (wings),n/a,1,exact
+CSLB,Few,material,aeroplane,Airplane,aeroplane_material3,light metal,titanium (landing gear) / aluminum alloy (wings),n/a,1,other
+CSLB,Zero,part,aeroplane,Airplane,aeroplane_part1,cockpit,cockpit,High-Wing Monoplane,1,exact
+CSLB,Zero,part,aeroplane,Airplane,aeroplane_part2,engine,engines,High-Wing Monoplane,1,exact
+CSLB,Zero,part,aeroplane,Airplane,aeroplane_part3,windows,windows,High-Wing Monoplane,1,exact
+CSLB,Zero,part,aeroplane,Airplane,aeroplane_part4,tail,tail,Turboprop Aircraft (Aircraft),1,exact
+CSLB,Zero,part,aeroplane,Airplane,aeroplane_part5,seats,passenger seats,Turboprop Aircraft (Aircraft),1,exact
+CSLB,Zero,part,aeroplane,Airplane,aeroplane_part6,propeller,propeller,High-Wing Monoplane,1,exact
+CSLB,Zero,part,aeroplane,Airplane,aeroplane_part7,wings,wings,High-Wing Monoplane,1,exact
+CSLB,Zero,part,aeroplane,Airplane,aeroplane_part8,wheels,landing gear,High-Wing Monoplane,0.5,partial
+CSLB,Zero,part,aeroplane,Airplane,aeroplane_part9,luggage area,cargo hold,Turboprop Aircraft (Aircraft),1,exact
+CSLB,Zero,part,aeroplane,Airplane,aeroplane_part10,nose,fuselage,High-Wing Monoplane,0.5,partial
+CSLB,Zero,material,aeroplane,Airplane,aeroplane_material1,metal,metal (landing gear),n/a,1,exact
+CSLB,Zero,material,aeroplane,Airplane,aeroplane_material2,aluminium,aluminum (wings),n/a,1,exact
+CSLB,Zero,material,aeroplane,Airplane,aeroplane_material3,light metal,titanium (engine) / aluminum alloys (wings),n/a,1,other
+CSLB,Few,part,bell,Bell,bell_part1,ball,pellet,Sleigh bell,1,exact
+CSLB,Few,part,bell,Bell,bell_part1,clapper,clapper,Handbell,1,exact
+CSLB,Few,part,bell,Bell,bell_part2,handle,handle,Handbell,1,exact
+CSLB,Few,part,bell,Bell,bell_part3,hammer,-,-,0,missing
+CSLB,Few,part,bell,Bell,bell_part4,rope,-,-,0,missing
+CSLB,Few,material,bell,Bell,bell_material1,brass,brass (body),n/a,1,exact
+CSLB,Few,material,bell,Bell,bell_material2,glass,-,n/a,0,missing
+CSLB,Few,material,bell,Bell,bell_material3,metal,metal (body),n/a,1,exact
+CSLB,Few,material,bell,Bell,bell_material4,ceramic/china/clay/porcelain,-,n/a,0,missing
+CSLB,Zero,part,bell,Bell,bell_part1,ball,clapper or ball,Jingle bell (Noisemaker),1,exact
+CSLB,Zero,part,bell,Bell,bell_part1,clapper,clapper,Carillon Bell,1,exact
+CSLB,Zero,part,bell,Bell,bell_part2,handle,handle,English Handbell,1,exact
+CSLB,Zero,part,bell,Bell,bell_part3,hammer,hammer,boxing ring bell,1,exact
+CSLB,Zero,part,bell,Bell,bell_part4,rope,rope,Carillon Bell,1,exact
+CSLB,Zero,material,bell,Bell,bell_material1,brass,brass (bell body),n/a,1,exact
+CSLB,Zero,material,bell,Bell,bell_material2,glass,glass (tubes or bells),n/a,1,exact
+CSLB,Zero,material,bell,Bell,bell_material3,metal,metal (body),n/a,1,exact
+CSLB,Zero,material,bell,Bell,bell_material4,ceramic/china/clay/porcelain,-,n/a,0,missing
+CSLB,Few,part,boots,Boot,boots_part1,tongue,tongue,Work boots,1,exact
+CSLB,Few,part,boots,Boot,boots_part2,zip,zipper,Dress boots,1,exact
+CSLB,Few,part,boots,Boot,boots_part3,toes,toe cap,Work boots,0.5,partial
+CSLB,Few,part,boots,Boot,boots_part4,laces,laces,Work boots,1,exact
+CSLB,Few,part,boots,Boot,boots_part5,sole,sole,Work boots,1,exact
+CSLB,Few,part,boots,Boot,boots_part6,heel,heel,Work boots,1,exact
+CSLB,Few,part,boots,Boot,boots_part7,long legs,shaft,Cowboy boots,1,exact
+CSLB,Few,material,boots,Boot,boots_material1,plastic,synthetic material (vamp),n/a,1,exact
+CSLB,Few,material,boots,Boot,boots_material2,rubber,rubber (sole),n/a,1,exact
+CSLB,Few,material,boots,Boot,boots_material3,leather,leather (vamp),n/a,1,exact
+CSLB,Zero,part,boots,Boot,boots_part1,tongue,tongue,Lace-Up Ankle Boot,1,exact
+CSLB,Zero,part,boots,Boot,boots_part2,zip,zipper,Lace-Up Ankle Boot,1,exact
+CSLB,Zero,part,boots,Boot,boots_part3,toes,toe box,Cowboy Boot,1,exact
+CSLB,Zero,part,boots,Boot,boots_part4,laces,laces,Lace-Up Ankle Boot,1,exact
+CSLB,Zero,part,boots,Boot,boots_part5,sole,sole,Lace-Up Ankle Boot,1,exact
+CSLB,Zero,part,boots,Boot,boots_part6,heel,heel,Lace-Up Ankle Boot,1,exact
+CSLB,Zero,part,boots,Boot,boots_part7,long legs,shaft,Cowboy Boot,1,exact
+CSLB,Zero,material,boots,Boot,boots_material1,plastic,synthetic materials (upper),n/a,1,exact
+CSLB,Zero,material,boots,Boot,boots_material2,rubber,rubber (sole),n/a,1,exact
+CSLB,Zero,material,boots,Boot,boots_material3,leather,leather (upper),n/a,1,exact
+CSLB,Few,part,bucket,Bucket,bucket_part1,handle,handle,Bucket,1,exact
+CSLB,Few,part,bucket,Bucket,bucket_part2,base,bottom,Bucket,1,exact
+CSLB,Few,part,bucket,Bucket,bucket_part3,sides,walls,Bucket,1,exact
+CSLB,Few,part,bucket,Bucket,bucket_part4,rim,-,-,0,missing
+CSLB,Few,part,bucket,Bucket,bucket_part4,lip,-,-,0,missing
+CSLB,Few,material,bucket,Bucket,bucket_material1,metal,metal (walls),n/a,1,exact
+CSLB,Few,material,bucket,Bucket,bucket_material2,plastic,plastic (walls),n/a,1,exact
+CSLB,Few,material,bucket,Bucket,bucket_material3,wood,-,n/a,0,missing
+CSLB,Zero,part,bucket,Bucket,bucket_part1,handle,handle,Multi-Purpose Bucket,1,exact
+CSLB,Zero,part,bucket,Bucket,bucket_part2,base,base,Multi-Purpose Bucket,1,exact
+CSLB,Zero,part,bucket,Bucket,bucket_part3,sides,side walls,Snow Bucket,1,exact
+CSLB,Zero,part,bucket,Bucket,bucket_part4,rim,rim,Multi-Purpose Bucket,1,exact
+CSLB,Zero,part,bucket,Bucket,bucket_part4,lip,spout,Multi-Purpose Bucket,1,exact
+CSLB,Zero,material,bucket,Bucket,bucket_material1,metal,metal (bucket body),n/a,1,exact
+CSLB,Zero,material,bucket,Bucket,bucket_material2,wood,wood (outer wall),n/a,1,exact
+CSLB,Zero,material,bucket,Bucket,bucket_material3,plastic,plastic (bucket body),n/a,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part1,towbar,hitch,Teardrop caravan,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part2,windows,windows,Teardrop caravan,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part3,door,door,Teardrop caravan,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part4,trailer,body,Teardrop caravan,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part5,wheels,wheels,Teardrop caravan,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part6,an electric hook up,-,-,0,missing
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part7,living room,-,-,0,missing
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part7,rooms,-,-,0,missing
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part8,bed,-,-,0,missing
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part9,kitchen,kitchen galley,Teardrop caravan,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part9,kitchen equipment,kitchen galley,Teardrop caravan,0.5,partial
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part10,shower,-,-,0,missing
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part10,toilet,-,-,0,missing
+CSLB,Few,part,caravan,Caravan (trailer),caravan_part10,washing facilities,-,-,0,missing
+CSLB,Few,material,caravan,Caravan (trailer),caravan_material1,wood,wood (door),n/a,1,exact
+CSLB,Few,material,caravan,Caravan (trailer),caravan_material2,metal,metal (frame),n/a,1,exact
+CSLB,Few,material,caravan,Caravan (trailer),caravan_material3,plastic,plastic (door),n/a,1,exact
+CSLB,Few,material,caravan,Caravan (trailer),caravan_material4,fibre glass,fiberglass (body),n/a,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part1,towbar,hitch,Travel trailer toy hauler,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part2,windows,windows,Travel trailer toy hauler,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part3,door,door,Travel trailer toy hauler,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part4,trailer,chassis,Travel trailer toy hauler,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part5,wheels,wheels,Fifth Wheel Toy Hauler,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part6,an electric hook up,electrical wiring,Travel trailer toy hauler,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part7,living room,living quarters,Fifth Wheel Toy Hauler,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part7,rooms,living quarters / bedroom area / bathroom,Fifth Wheel Toy Hauler / Fifth-Wheel Travel Trailer,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part8,bed,bed,A-Frame Pop-Up Camper,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part9,kitchen,kitchenette,A-Frame Pop-Up Camper,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part9,kitchen equipment,kitchenette,A-Frame Pop-Up Camper,0.5,partial
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part10,shower,bathroom,Fifth-Wheel Travel Trailer,0.5,partial
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part10,toilet,bathroom,Fifth-Wheel Travel Trailer,0.5,partial
+CSLB,Zero,part,caravan,Caravan (trailer),caravan_part10,washing facilities,bathroom,Fifth-Wheel Travel Trailer,1,exact
+CSLB,Zero,material,caravan,Caravan (trailer),caravan_material1,wood,wood (door),n/a,1,exact
+CSLB,Zero,material,caravan,Caravan (trailer),caravan_material2,metal,metal (wheels),n/a,1,exact
+CSLB,Zero,material,caravan,Caravan (trailer),caravan_material3,plastic,plastic (windows),n/a,1,exact
+CSLB,Zero,material,caravan,Caravan (trailer),caravan_material4,fibre glass,fiberglass (body),n/a,1,exact
+CSLB,Few,part,castenets,-,castenets_part1,two halves,-,-,0,missing
+CSLB,Few,part,castenets,-,castenets_part2,string,-,-,0,missing
+CSLB,Few,part,castenets,-,castenets_part3,handle,-,-,0,missing
+CSLB,Few,material,castenets,-,castenets_material1,wood,-,n/a,0,missing
+CSLB,Few,material,castenets,-,castenets_material2,metal,-,n/a,0,missing
+CSLB,Few,material,castenets,-,castenets_material3,plastic,-,n/a,0,missing
+CSLB,Zero,part,castenets,Castanets,castenets_part1,two halves,shell,Castanets (Percussion instrument),1,exact
+CSLB,Zero,part,castenets,Castanets,castenets_part2,string,loop or string,Castanets (Percussion instrument),1,exact
+CSLB,Zero,part,castenets,Castanets,castenets_part3,handle,-,-,0,missing
+CSLB,Zero,material,castenets,Castanets,castenets_material1,wood,wood (shell),n/a,1,exact
+CSLB,Zero,material,castenets,Castanets,castenets_material2,metal,metal (hinge),n/a,1,exact
+CSLB,Zero,material,castenets,Castanets,castenets_material3,plastic,plastic (shell),n/a,1,exact
+CSLB,Few,part,dressing_gown,Dressing gown,dressing_gown_part1,sleeves,sleeves,Dressing gown,1,exact
+CSLB,Few,part,dressing_gown,Dressing gown,dressing_gown_part2,belt,belt,Dressing gown,1,exact
+CSLB,Few,part,dressing_gown,Dressing gown,dressing_gown_part3,hood,-,-,0,missing
+CSLB,Few,part,dressing_gown,Dressing gown,dressing_gown_part4,pockets,-,-,0,missing
+CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material1,fleece,fleece (body),n/a,1,exact
+CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material2,wool,wool (body),n/a,1,exact
+CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material3,silk,silk (body),n/a,1,exact
+CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material4,cotton,cotton (body),n/a,1,exact
+CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material5,towelling / flannel,"cotton, wool, or synthetic fiber (body)",n/a,1,exact
+CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material6,soft fabric,silk (body),n/a,1,other
+CSLB,Zero,part,dressing_gown,Dressing gown,dressing_gown_part1,sleeves,sleeves,Hooded dressing gown,1,exact
+CSLB,Zero,part,dressing_gown,Dressing gown,dressing_gown_part2,belt,belt,Hooded dressing gown,1,exact
+CSLB,Zero,part,dressing_gown,Dressing gown,dressing_gown_part3,hood,hood,Hooded dressing gown,1,exact
+CSLB,Zero,part,dressing_gown,Dressing gown,dressing_gown_part4,pockets,pockets,Hooded dressing gown,1,exact
+CSLB,Zero,material,dressing_gown,Dressing gown,dressing_gown_material1,fleece,fleece (body),n/a,1,exact
+CSLB,Zero,material,dressing_gown,Dressing gown,dressing_gown_material2,wool,wool (body),n/a,1,exact
+CSLB,Zero,material,dressing_gown,Dressing gown,dressing_gown_material3,silk,silk (body),n/a,1,exact
+CSLB,Zero,material,dressing_gown,Dressing gown,dressing_gown_material4,cotton,cotton (body),n/a,1,exact
+CSLB,Zero,material,dressing_gown,Dressing gown,dressing_gown_material5,towelling / flannel,cotton (body) / wool (sleeves) / synthetic fabric (lining),n/a,1,exact
+CSLB,Zero,material,dressing_gown,Dressing gown,dressing_gown_material6,soft fabric,silk (body) / satin (trim),n/a,1,other
+CSLB,Few,part,ferry,Ferry,ferry_part1,hull,hull,Foot ferry,1,exact
+CSLB,Few,part,ferry,Ferry,ferry_part2,lifeboats,lifeboats,Ferry (Passenger ship),1,exact
+CSLB,Few,part,ferry,Ferry,ferry_part3,deck,deck,Foot ferry,1,exact
+CSLB,Few,part,ferry,Ferry,ferry_part4,seats,seats or benches,Foot ferry,1,exact
+CSLB,Few,part,ferry,Ferry,ferry_part5,cabins,passenger amenities,Foot ferry,0.5,partial
+CSLB,Few,part,ferry,Ferry,ferry_part6,engine,engine,Foot ferry,1,exact
+CSLB,Few,part,ferry,Ferry,ferry_part6,oil,engine room,Ferry (Passenger ship),0.5,partial
+CSLB,Few,part,ferry,Ferry,ferry_part7,windows,-,-,0,missing
+CSLB,Few,part,ferry,Ferry,ferry_part8,door,-,-,0,missing
+CSLB,Few,part,ferry,Ferry,ferry_part9,propeller,-,-,0,missing
+CSLB,Few,part,ferry,Ferry,ferry_part10,funnel,-,-,0,missing
+CSLB,Few,part,ferry,Ferry,ferry_part11,anchor,-,-,0,missing
+CSLB,Few,material,ferry,Ferry,ferry_material1,steel,steel (hull),n/a,1,exact
+CSLB,Few,material,ferry,Ferry,ferry_material2,wood,wood (deck),n/a,1,exact
+CSLB,Few,material,ferry,Ferry,ferry_material3,metal,metal (deck),n/a,1,exact
+CSLB,Zero,part,ferry,Ferry,ferry_part1,hull,hull,High-speed catamaran car ferry,1,exact
+CSLB,Zero,part,ferry,Ferry,ferry_part2,lifeboats,lifeboats,Vehicle and Passenger Ferry,1,exact
+CSLB,Zero,part,ferry,Ferry,ferry_part3,deck,deck,High-speed catamaran car ferry,1,exact
+CSLB,Zero,part,ferry,Ferry,ferry_part4,seats,passenger seats,High-speed catamaran car ferry,1,exact
+CSLB,Zero,part,ferry,Ferry,ferry_part5,cabins,passenger cabin,Hovercraft passenger ferry,1,exact
+CSLB,Zero,part,ferry,Ferry,ferry_part6,engine,engine,Vehicle and Passenger Ferry,1,exact
+CSLB,Zero,part,ferry,Ferry,ferry_part6,oil,fuel tank,Hovercraft passenger ferry,1,container
+CSLB,Zero,part,ferry,Ferry,ferry_part7,windows,windows,High-speed catamaran car ferry,1,exact
+CSLB,Zero,part,ferry,Ferry,ferry_part8,door,doors,High-speed catamaran car ferry,1,exact
+CSLB,Zero,part,ferry,Ferry,ferry_part9,propeller,propellers,High-speed catamaran car ferry,1,exact
+CSLB,Zero,part,ferry,Ferry,ferry_part10,funnel,-,-,0,missing
+CSLB,Zero,part,ferry,Ferry,ferry_part11,anchor,anchor,High-speed catamaran car ferry,1,exact
+CSLB,Zero,material,ferry,Ferry,ferry_material1,steel,steel (hull),n/a,1,exact
+CSLB,Zero,material,ferry,Ferry,ferry_material2,wood,wood (deck),n/a,1,exact
+CSLB,Zero,material,ferry,Ferry,ferry_material3,metal,various metals (engine),n/a,1,exact
+CSLB,Few,part,harp,Harp,harp_part1,strings,strings,Pedal harp,1,exact
+CSLB,Few,part,harp,Harp,harp_part2,frame,body,Pedal harp,1,exact
+CSLB,Few,part,harp,Harp,harp_part3,pedals,pedals,Pedal harp,1,exact
+CSLB,Few,material,harp,Harp,harp_material1,wood,wood (body),n/a,1,exact
+CSLB,Few,material,harp,Harp,harp_material2,metal,metal (strings),n/a,1,exact
+CSLB,Zero,part,harp,Harp,harp_part1,strings,strings,Lever Harp,1,exact
+CSLB,Zero,part,harp,Harp,harp_part2,frame,frame,Lever Harp,1,exact
+CSLB,Zero,part,harp,Harp,harp_part3,pedals,pedals or levers,Lever Harp,1,exact
+CSLB,Zero,material,harp,Harp,harp_material1,wood,wood (body),n/a,1,exact
+CSLB,Zero,material,harp,Harp,harp_material2,metal,metal (strings),n/a,1,exact
+CSLB,Few,part,helmet,Helmet,helmet_part1,visor,visor,Motorcycle helmet,1,exact
+CSLB,Few,part,helmet,Helmet,helmet_part2,chin strap,chin strap,Motorcycle helmet,1,exact
+CSLB,Few,part,helmet,Helmet,helmet_part3,shell,shell,Motorcycle helmet,1,exact
+CSLB,Few,material,helmet,Helmet,helmet_material1,plastic,plastic (shell),n/a,1,exact
+CSLB,Few,material,helmet,Helmet,helmet_material2,fabric/cloth material,fabric and foam (comfort padding),n/a,1,exact
+CSLB,Few,material,helmet,Helmet,helmet_material3,polystyrene,expanded polystyrene foam (impact-absorbing liner),n/a,1,exact
+CSLB,Few,material,helmet,Helmet,helmet_material4,Kevlar,kevlar (shell),n/a,1,exact
+CSLB,Few,material,helmet,Helmet,helmet_material5,metal,metal (face guard),n/a,1,exact
+CSLB,Zero,part,helmet,Helmet,helmet_part1,visor,visor,Full-Face Helmet,1,exact
+CSLB,Zero,part,helmet,Helmet,helmet_part2,chin strap,chin strap,Full-Face Helmet,1,exact
+CSLB,Zero,part,helmet,Helmet,helmet_part3,shell,shell,Full-Face Helmet,1,exact
+CSLB,Zero,material,helmet,Helmet,helmet_material1,plastic,plastic (shell),n/a,1,exact
+CSLB,Zero,material,helmet,Helmet,helmet_material2,fabric/cloth material,foam or cloth (sweatband),n/a,1,exact
+CSLB,Zero,material,helmet,Helmet,helmet_material3,polystyrene,expanded polystyrene foam (impact-absorbing liner),n/a,1,exact
+CSLB,Zero,material,helmet,Helmet,helmet_material4,Kevlar,kevlar (shell),n/a,1,exact
+CSLB,Zero,material,helmet,Helmet,helmet_material5,metal,metal (buckle or fastener),n/a,1,exact
+CSLB,Few,part,jacket,Jacket,jacket_part1,hood,hood,Windbreaker,1,exact
+CSLB,Few,part,jacket,Jacket,jacket_part2,sleeves,sleeves,Windbreaker,1,exact
+CSLB,Few,part,jacket,Jacket,jacket_part3,pockets,pockets,Windbreaker,1,exact
+CSLB,Few,part,jacket,Jacket,jacket_part4,collar,collar,Blazer,1,exact
+CSLB,Few,part,jacket,Jacket,jacket_part5,zip,zipper,Windbreaker,1,exact
+CSLB,Few,part,jacket,Jacket,jacket_part5,buttons,buttons,Blazer,1,exact
+CSLB,Few,material,jacket,Jacket,jacket_material1,wool,wool (body),n/a,1,exact
+CSLB,Few,material,jacket,Jacket,jacket_material2,plastic,plastic (buttons),n/a,1,exact
+CSLB,Few,material,jacket,Jacket,jacket_material3,fabric/cloth material,fabric (lining),n/a,1,exact
+CSLB,Few,material,jacket,Jacket,jacket_material4,leather,leather (body),n/a,1,exact
+CSLB,Few,material,jacket,Jacket,jacket_material5,cotton,cotton (body),n/a,1,exact
+CSLB,Few,material,jacket,Jacket,jacket_material6,denim,-,n/a,0,missing
+CSLB,Zero,part,jacket,Jacket,jacket_part1,hood,hood,Hooded peacoat,1,exact
+CSLB,Zero,part,jacket,Jacket,jacket_part2,sleeves,sleeves,Hooded peacoat,1,exact
+CSLB,Zero,part,jacket,Jacket,jacket_part3,pockets,pockets,Hooded peacoat,1,exact
+CSLB,Zero,part,jacket,Jacket,jacket_part4,collar,collar,Hooded peacoat,1,exact
+CSLB,Zero,part,jacket,Jacket,jacket_part5,zip,zipper,Down Jacket,1,exact
+CSLB,Zero,part,jacket,Jacket,jacket_part5,buttons,buttons,Hooded peacoat,1,exact
+CSLB,Zero,material,jacket,Jacket,jacket_material1,wool,wool (sleeves),n/a,1,exact
+CSLB,Zero,material,jacket,Jacket,jacket_material2,plastic,plastic (buttons),n/a,1,exact
+CSLB,Zero,material,jacket,Jacket,jacket_material3,fabric/cloth material,fabric (sleeves),n/a,1,exact
+CSLB,Zero,material,jacket,Jacket,jacket_material4,leather,leather (body),n/a,1,exact
+CSLB,Zero,material,jacket,Jacket,jacket_material5,cotton,cotton (body),n/a,1,exact
+CSLB,Zero,material,jacket,Jacket,jacket_material6,denim,denim (sleeves),n/a,1,exact
+CSLB,Few,part,key,Key (instrument),key_part1,point,tip,Key (instrument),1,exact
+CSLB,Few,part,key,Key (instrument),key_part2,handle,bow,Key (instrument),1,exact
+CSLB,Few,part,key,Key (instrument),key_part3,notches,blade,Key (instrument),0.5,partial
+CSLB,Few,part,key,Key (instrument),key_part3,teeth,blade,Key (instrument),0.5,partial
+CSLB,Few,material,key,Key (instrument),key_material1,metal,metal (blade),n/a,1,exact
+CSLB,Zero,part,key,Key (instrument),key_part1,point,tip,Flat Lever Key,1,exact
+CSLB,Zero,part,key,Key (instrument),key_part2,handle,handle,Switchblade Transponder Key,1,exact
+CSLB,Zero,part,key,Key (instrument),key_part3,notches,ward notches,Flat Lever Key,1,specific
+CSLB,Zero,part,key,Key (instrument),key_part3,teeth,bit,Flat Lever Key,0.5,partial
+CSLB,Zero,material,key,Key (instrument),key_material1,metal,metal (blade),n/a,1,exact
+CSLB,Few,part,mop,Mop,mop_part1,tassels,strings,String mop,1,exact
+CSLB,Few,part,mop,Mop,mop_part2,handle,handle,String mop,1,exact
+CSLB,Few,part,mop,Mop,mop_part3,head,mop head,String mop,1,exact
+CSLB,Few,material,mop,Mop,mop_material1,fibres,microfiber (strings),n/a,1,exact
+CSLB,Few,material,mop,Mop,mop_material2,plastic,plastic (handle),n/a,1,exact
+CSLB,Few,material,mop,Mop,mop_material3,fabric/cloth material,cotton (strings) / synthetic blends (dust pad),n/a,1,other
+CSLB,Few,material,mop,Mop,mop_material4,wood,wood (handle),n/a,1,exact
+CSLB,Few,material,mop,Mop,mop_material5,metal,metal (frame),n/a,1,exact
+CSLB,Zero,part,mop,Mop,mop_part1,tassels,mop strings,Cut-end string mop,1,exact
+CSLB,Zero,part,mop,Mop,mop_part2,handle,handle,Cut-end string mop,1,exact
+CSLB,Zero,part,mop,Mop,mop_part3,head,mop head,Cut-end string mop,1,exact
+CSLB,Zero,material,mop,Mop,mop_material1,fibres,microfiber (mop strands),n/a,1,exact
+CSLB,Zero,material,mop,Mop,mop_material2,plastic,plastic (handle),n/a,1,exact
+CSLB,Zero,material,mop,Mop,mop_material3,fabric/cloth material,"microfiber, cotton, or other fabric (cleaning pad)",n/a,1,exact
+CSLB,Zero,material,mop,Mop,mop_material4,wood,wood (handle),n/a,1,exact
+CSLB,Zero,material,mop,Mop,mop_material5,metal,metal (mop head frame),n/a,1,exact
+CSLB,Few,part,saw,Saw,saw_part1,handle,handle,Hand saw,1,exact
+CSLB,Few,part,saw,Saw,saw_part2,blade,blade,Hand saw,1,exact
+CSLB,Few,part,saw,Saw,saw_part2,teeth,blade,Hand saw,0.5,partial
+CSLB,Few,material,saw,Saw,saw_material1,wood,wood (handle),n/a,1,exact
+CSLB,Few,material,saw,Saw,saw_material2,metal,metal (shoe),n/a,1,exact
+CSLB,Few,material,saw,Saw,saw_material3,plastic,plastic (handle),n/a,1,exact
+CSLB,Zero,part,saw,Saw,saw_part1,handle,handle,Crosscut hand saw,1,exact
+CSLB,Zero,part,saw,Saw,saw_part2,blade,blade,Crosscut hand saw,1,exact
+CSLB,Zero,part,saw,Saw,saw_part2,teeth,teeth,Crosscut hand saw,1,exact
+CSLB,Zero,material,saw,Saw,saw_material1,wood,wood (handle),n/a,1,exact
+CSLB,Zero,material,saw,Saw,saw_material2,metal,metal (wheels),n/a,1,exact
+CSLB,Zero,material,saw,Saw,saw_material3,plastic,plastic (handle),n/a,1,exact
+CSLB,Few,part,scissors,Scissors,scissors_part1,handle,handle,General-purpose scissors,1,exact
+CSLB,Few,part,scissors,Scissors,scissors_part1,fingerholes,handle,General-purpose scissors,0.5,partial
+CSLB,Few,part,scissors,Scissors,scissors_part2,blades,blades,General-purpose scissors,1,exact
+CSLB,Few,material,scissors,Scissors,scissors_material1,metal,metal (blades),n/a,1,exact
+CSLB,Few,material,scissors,Scissors,scissors_material2,plastic,plastic (handle),n/a,1,exact
+CSLB,Zero,part,scissors,Scissors,scissors_part1,handle,handle,Tailor's Shears,1,exact
+CSLB,Zero,part,scissors,Scissors,scissors_part1,fingerholes,finger rings,Tailor's Shears,1,exact
+CSLB,Zero,part,scissors,Scissors,scissors_part2,blades,blades,Tailor's Shears,1,exact
+CSLB,Zero,material,scissors,Scissors,scissors_material1,metal,metal (pivot point),n/a,1,exact
+CSLB,Zero,material,scissors,Scissors,scissors_materia2,plastic,handle (plastic),n/a,1,exact
+CSLB,Few,part,sock,Sock,sock_part1,toes,toe,Sock,1,exact
+CSLB,Few,part,sock,Sock,sock_part2,heel,heel,Sock,1,exact
+CSLB,Few,material,sock,Sock,sock_material1,wool,wool (foot),n/a,1,exact
+CSLB,Few,material,sock,Sock,sock_material2,cotton,cotton (foot),n/a,1,exact
+CSLB,Few,material,sock,Sock,sock_material3,elastic,spandex (foot),n/a,1,exact
+CSLB,Few,material,sock,Sock,sock_material4,fabric/cloth material,nylon / spandex / wool (foot),n/a,1,exact
+CSLB,Few,material,sock,Sock,sock_material5,polyester,-,n/a,0,missing
+CSLB,Zero,part,sock,Sock,sock_part1,toes,toe,Sock,1,exact
+CSLB,Zero,part,sock,Sock,sock_part2,heel,heel,Sock,1,exact
+CSLB,Zero,material,sock,Sock,sock_material1,wool,wool (toe),n/a,1,exact
+CSLB,Zero,material,sock,Sock,sock_material2,cotton,cotton (toe),n/a,1,exact
+CSLB,Zero,material,sock,Sock,sock_material3,elastic,elastane (toe),n/a,1,exact
+CSLB,Zero,material,sock,Sock,sock_material4,fabric/cloth material,nylon / cotton / wool (toe),n/a,1,exact
+CSLB,Zero,material,sock,Sock,sock_material5,polyester,-,n/a,0,missing
+CSLB,Few,part,stove,Stove,stove_part1,door,door,Wood-burning stove,1,exact
+CSLB,Few,part,stove,Stove,stove_part2,hob,stove top,Gas stove,1,exact
+CSLB,Few,part,stove,Stove,stove_part3,heating plates,burners,Gas stove,1,exact
+CSLB,Few,part,stove,Stove,stove_part4,dial,control knobs,Gas stove,1,exact
+CSLB,Few,part,stove,Stove,stove_part5,shelf,-,-,0,missing
+CSLB,Few,material,stove,Stove,stove_material1,metal,metal (burners),n/a,1,exact
+CSLB,Few,material,stove,Stove,stove_material2,cast iron,cast iron (legs),n/a,1,exact
+CSLB,Zero,part,stove,Stove,stove_part1,door,oven door,Slide-in gas range,1,exact
+CSLB,Zero,part,stove,Stove,stove_part2,hob,cooktop surface,Slide-in gas range,1,exact
+CSLB,Zero,part,stove,Stove,stove_part3,heating plates,gas burners,Slide-in gas range,1,exact
+CSLB,Zero,part,stove,Stove,stove_part4,dial,control knobs,Slide-in gas range,1,exact
+CSLB,Zero,part,stove,Stove,stove_part5,shelf,oven racks,Slide-in gas range,1,exact
+CSLB,Zero,material,stove,Stove,stove_material1,metal,metal (burners),n/a,1,exact
+CSLB,Zero,material,stove,Stove,stove_material2,cast iron,cast iron (body),n/a,1,exact
+CSLB,Few,part,taxi,Taxi,taxi_part1,engine,engine,Taxi,1,exact
+CSLB,Few,part,taxi,Taxi,taxi_part2,meter,taxi meter,Taxi,1,exact
+CSLB,Few,part,taxi,Taxi,taxi_part3,wheels,wheels,Taxi,1,exact
+CSLB,Few,part,taxi,Taxi,taxi_part4,door/doors,-,-,0,missing
+CSLB,Few,part,taxi,Taxi,taxi_part5,seat/seats,passenger compartment / driver's compartment,Taxi,0.5,partial
+CSLB,Few,part,taxi,Taxi,taxi_part6,light,-,-,0,missing
+CSLB,Few,part,taxi,Taxi,taxi_part7,sign,-,-,0,missing
+CSLB,Few,part,taxi,Taxi,taxi_part8,number,-,-,0,missing
+CSLB,Few,material,taxi,Taxi,taxi_material1,metal,metal (engine),n/a,1,exact
+CSLB,Few,material,taxi,Taxi,taxi_material2,plastic,plastic (taxi meter),n/a,1,exact
+CSLB,Zero,part,taxi,Taxi,taxi_part1,engine,engine,SUV-style taxi,1,exact
+CSLB,Zero,part,taxi,Taxi,taxi_part2,meter,taxi meter,Rear-entry wheelchair-accessible taxi,1,exact
+CSLB,Zero,part,taxi,Taxi,taxi_part3,wheels,wheels,SUV-style taxi,1,exact
+CSLB,Zero,part,taxi,Taxi,taxi_part4,door/doors,doors,SUV-style taxi,1,exact
+CSLB,Zero,part,taxi,Taxi,taxi_part5,seat/seats,seats,SUV-style taxi,1,exact
+CSLB,Zero,part,taxi,Taxi,taxi_part6,light,lights,SUV-style taxi,1,exact
+CSLB,Zero,part,taxi,Taxi,taxi_part7,sign,taxi sign,SUV-style taxi,1,exact
+CSLB,Zero,part,taxi,Taxi,taxi_part8,number,license plates,Electric Minivan Taxi,1,exact
+CSLB,Zero,material,taxi,Taxi,taxi_material1,metal,metal (body),n/a,1,exact
+CSLB,Zero,material,taxi,Taxi,taxi_material2,plastic,plastic (body),n/a,1,exact
+CSLB,Few,part,thimble,Thimble,thimble_part1,dimples,-,-,0,missing
+CSLB,Few,material,thimble,Thimble,thimble_material1,metal,metal,n/a,1,exact
+CSLB,Few,material,thimble,Thimble,thimble_material2,plastic,plastic,n/a,1,exact
+CSLB,Few,material,thimble,Thimble,thimble_material3,ceramic/china/clay/porcelain,-,n/a,0,missing
+CSLB,Zero,part,thimble,Thimble,thimble_part1,dimples,-,-,0,missing
+CSLB,Zero,material,thimble,Thimble,thimble_material1,metal,metal,n/a,1,exact
+CSLB,Zero,material,thimble,Thimble,thimble_material2,plastic,plastic,n/a,1,exact
+CSLB,Zero,material,thimble,Thimble,thimble_material3,ceramic/china/clay/porcelain,ceramics,n/a,1,exact
+CSLB,Few,part,window,Window,window_part1,panes,glass pane,Sash window,1,exact
+CSLB,Few,part,window,Window,window_part2,frame,frame,Sash window,1,exact
+CSLB,Few,part,window,Window,window_part2,sill,sill,Sash window,1,exact
+CSLB,Few,part,window,Window,window_part3,lock,-,-,0,missing
+CSLB,Few,part,window,Window,window_part4,handle,handle/latch,Sliding window,1,exact
+CSLB,Few,material,window,Window,window_material1,glass,glass (glass pane),n/a,1,exact
+CSLB,Few,material,window,Window,window_material2,wood,wood (frame),n/a,1,exact
+CSLB,Few,material,window,Window,window_material3,metal,metal (handle),n/a,1,exact
+CSLB,Few,material,window,Window,window_material4,PVC,vinyl (frame),n/a,1,exact
+CSLB,Few,material,window,Window,window_material5,plastic,plastic (handle),n/a,1,exact
+CSLB,Zero,part,window,Window,window_part1,panes,glass pane,Single-hung window,1,exact
+CSLB,Zero,part,window,Window,window_part2,frame,frame,Single-hung window,1,exact
+CSLB,Zero,part,window,Window,window_part2,sill,sill,Single-hung window,1,exact
+CSLB,Zero,part,window,Window,window_part3,lock,lock,Single-hung window,1,exact
+CSLB,Zero,part,window,Window,window_part4,handle,lift handle,Single-hung window,1,exact
+CSLB,Zero,material,window,Window,window_material1,glass,glass (glass pane),n/a,1,exact
+CSLB,Zero,material,window,Window,window_material2,wood,wood (frame),n/a,1,exact
+CSLB,Zero,material,window,Window,window_material3,metal,metal (handle),n/a,1,exact
+CSLB,Zero,material,window,Window,window_material4,PVC,vinyl (frame),n/a,1,exact
+CSLB,Zero,material,window,Window,window_material5,plastic,plastic (handle),n/a,1,exact
+McRae,Few,part,apron,Apron,apron_part1,strings,waist ties / neck strap,Bib apron,1,exact
+McRae,Few,material,apron,Apron,apron_material1,cotton,cotton (body),n/a,1,exact
+McRae,Few,material,apron,Apron,apron_material2,cloth,linen / canvas (body; subtype-full),n/a,1,exact
+McRae,Zero,part,apron,Apron,apron_part1,strings,waist ties / neck strap,Kitchen apron,1,exact
+McRae,Zero,material,apron,Apron,apron_material1,cotton,cotton (body),n/a,1,exact
+McRae,Zero,material,apron,Apron,apron_material2,cloth,canvas (body) / nylon (neck strap; subtype-full),n/a,1,exact
+McRae,Few,part,bench,Bench (furniture),bench_part1,back,backrest,Garden bench,1,exact
+McRae,Few,part,bench,Bench (furniture),bench_part2,4 legs,legs,Garden bench,1,exact
+McRae,Few,material,bench,Bench (furniture),bench_material1,wood,wood (seat),n/a,1,exact
+McRae,Few,material,bench,Bench (furniture),bench_material2,metal,metal (seat),n/a,1,exact
+McRae,Zero,part,bench,Bench (furniture),bench_part1,back,backrest,Garden bench,1,exact
+McRae,Zero,part,bench,Bench (furniture),bench_part2,4 legs,legs,Garden bench,1,exact
+McRae,Zero,material,bench,Bench (furniture),bench_material1,wood,wood (seat),n/a,1,exact
+McRae,Zero,material,bench,Bench (furniture),bench_material2,metal,metal (seat),n/a,1,exact
+McRae,-,part,buckle,Buckle,-,-,-,-,-,-
+McRae,Few,material,buckle,Buckle,buckle_material1,plastic,plastic (frame),n/a,1,exact
+McRae,Few,material,buckle,Buckle,buckle_material2,metal,metal (frame),n/a,1,exact
+McRae,Zero,material,buckle,Buckle,buckle_material1,plastic,plastic (frame),n/a,1,exact
+McRae,Zero,material,buckle,Buckle,buckle_material2,metal,metal (frame),n/a,1,exact
+McRae,-,part,bullet,Bullet,-,-,-,-,-,-
+McRae,Few,material,bullet,Bullet,bullet_material1,lead,lead (core),n/a,1,exact
+McRae,Few,material,bullet,Bullet,bullet_material2,metal,brass (case) / copper (jacket; subtype-full),n/a,1,exact
+McRae,Zero,material,bullet,Bullet,bullet_material1,lead,lead (bullet),n/a,1,exact
+McRae,Zero,material,bullet,Bullet,bullet_material2,metal,brass (casing) / copper (bullet jacket; subtype-full),n/a,1,exact
+McRae,Few,part,cart,Cart,cart_part1,wheels,wheels,Shopping cart,1,exact
+McRae,Few,material,cart,Cart,cart_material1,wood,wood (frame),n/a,1,exact
+McRae,Few,material,cart,Cart,cart_material2,metal,metal (wheels),n/a,1,exact
+McRae,Zero,part,cart,Cart,cart_part1,wheels,wheels,Manual Push Shopping Cart,1,exact
+McRae,Zero,material,cart,Cart,cart_material1,wood,wood (frame),n/a,1,exact
+McRae,Zero,material,cart,Cart,cart_material2,metal,metal (axles),n/a,1,exact
+McRae,Few,part,cloak,Cloak,cloak_part1,hood,-,-,0,missing
+McRae,Zero,part,cloak,Cloak,cloak_part1,hood,hood,Trench-style rain cloak,1,exact
+McRae,-,material,cloak,Cloak,-,-,-,-,-,-
+McRae,Few,part,fan_(appliance),Fan (machine),fan_(appliance)_part1,blades,blades,Axial fan,1,exact
+McRae,Few,part,fan_(appliance),Fan (machine),fan_(appliance)_part2,guard,-,-,0,missing
+McRae,Few,material,fan_(appliance),Fan (machine),fan_(appliance)_material3,metal,metal (blades),n/a,1,exact
+McRae,Zero,part,fan_(appliance),Fan (machine),fan_(appliance)_part1,blades,fan blades,Single window fan,1,exact
+McRae,Zero,part,fan_(appliance),Fan (machine),fan_(appliance)_part2,guard,grill or guard,Single window fan,1,exact
+McRae,Zero,material,fan_(appliance),Fan (machine),fan_(appliance)_material3,metal,metal (fan blades),n/a,1,exact
+McRae,Few,part,gate,Gate,gate_part1,latch,latch,Swinging Gate,1,exact
+McRae,Few,part,gate,Gate,gate_part2,hinges,hinges,Swinging Gate,1,exact
+McRae,Few,part,gate,Gate,gate_part3,lock,-,-,0,missing
+McRae,Few,material,gate,Gate,gate_material1,wood,wood (posts),n/a,1,exact
+McRae,Few,material,gate,Gate,gate_material2,metal,metal (hinges),n/a,1,exact
+McRae,Zero,part,gate,Gate,gate_part1,latch,latch,Swing Gate,1,exact
+McRae,Zero,part,gate,Gate,gate_part2,hinges,hinges,Swing Gate,1,exact
+McRae,Zero,part,gate,Gate,gate_part3,lock,lock,Swing Gate,1,exact
+McRae,Zero,material,gate,Gate,gate_material1,wood,wood (posts),n/a,1,exact
+McRae,Zero,material,gate,Gate,gate_material2,metal,metal (hinges),n/a,1,exact
+McRae,Few,part,harp,Harp,harp_part1,strings,strings,Pedal harp,1,exact
+McRae,Few,material,harp,Harp,harp_material1,wood,wood (soundboard),n/a,1,exact
+McRae,Zero,part,harp,Harp,harp_part1,strings,strings,Pedal Harp,1,exact
+McRae,Zero,material,harp,Harp,harp_material1,wood,wood (soundboard),n/a,1,exact
+McRae,-,part,hut,Hut,-,-,-,-,-,-
+McRae,Few,material,hut,Hut,hut_material1,wood,wood (walls),n/a,1,exact
+McRae,Few,material,hut,Hut,hut_material2,grass,grass (thatched roof),n/a,1,exact
+McRae,Few,material,hut,Hut,hut_material3,straw,thatch (conical roof),n/a,0.5,partial
+McRae,Zero,material,hut,Hut,hut_material1,wood,wood (vertical posts),n/a,1,exact
+McRae,Zero,material,hut,Hut,hut_material2,grass,thatch (roof),n/a,0.5,partial
+McRae,Zero,material,hut,Hut,hut_material3,straw,straw (walls),n/a,1,exact
+McRae,Few,part,knife,Knife,knife_part1,blade,blade,Chef's knife,1,exact
+McRae,Few,part,knife,Knife,knife_part2,handle,handle,Chef's knife,1,exact
+McRae,Few,material,knife,Knife,knife_material1,steel,steel (blade),n/a,1,exact
+McRae,Zero,part,knife,Knife,knife_part1,blade,blade,Chef's knife,1,exact
+McRae,Zero,part,knife,Knife,knife_part2,handle,handle,Chef's knife,1,exact
+McRae,Zero,material,knife,Knife,knife_material1,steel,steel (blade),n/a,1,exact
+McRae,Few,part,lantern,Lantern,lantern_part1,candle,-,-,0,missing
+McRae,Few,material,lantern,Lantern,lantern_material1,glass,glass (protective glass),n/a,1,exact
+McRae,Few,material,lantern,Lantern,lantern_material2,metal,metal (frame),n/a,1,exact
+McRae,Zero,part,lantern,Lantern,lantern_part1,candle,candle,Floating Candle Lantern,1,exact
+McRae,Zero,material,lantern,Lantern,lantern_material1,glass,glass (globe),n/a,1,exact
+McRae,Zero,material,lantern,Lantern,lantern_material2,metal,metal (base),n/a,1,exact
+McRae,Few,part,level,Spirit level,level_part1,bubbles,-,-,0,missing
+McRae,Few,material,level,Spirit level,level_material1,wood,wood (body),n/a,1,exact
+McRae,Zero,part,level,Spirit level,level_part1,bubbles,bubble,Spirit level,1,exact
+McRae,Zero,material,level,Spirit level,level_material1,wood,wood (body),n/a,1,exact
+McRae,Few,part,mug,Mug,mug_part1,handle,handle,Standard mug,1,exact
+McRae,Few,material,mug,Mug,mug_material1,ceramic,ceramic (body),n/a,1,exact
+McRae,Zero,part,mug,Mug,mug_part1,handle,handle,Standard Coffee Mug,1,exact
+McRae,Zero,material,mug,Mug,mug_material1,ceramic,ceramic (body),n/a,1,exact
+McRae,Few,part,ruler,Ruler,ruler_part1,number,measuring scale,Ruler,0.5,partial
+McRae,Few,material,ruler,Ruler,ruler_material1,wood,wood (body),n/a,1,exact
+McRae,Few,material,ruler,Ruler,ruler_material2,plastic,plastic (body),n/a,1,exact
+McRae,Zero,part,ruler,Ruler,ruler_part1,number,measuring scale,Flexible Steel Ruler,0.5,partial
+McRae,Zero,material,ruler,Ruler,ruler_material1,wood,wood,n/a,1,exact
+McRae,Zero,material,ruler,Ruler,ruler_material2,plastic,plastic,n/a,1,exact
+McRae,Few,part,shovel,Shovel,shovel_part1,an end,blade,Digging shovel,0.5,partial
+McRae,Few,part,shovel,Shovel,shovel_part2,handle,handle,Digging shovel,1,exact
+McRae,Few,material,shovel,Shovel,shovel_material1,metal,metal (blade),n/a,1,exact
+McRae,Few,material,shovel,Shovel,shovel_material2,wood,wood (handle),n/a,1,exact
+McRae,Zero,part,shovel,Shovel,shovel_part1,an end,spade tip,Entrenching Trench Shovel,1,specific
+McRae,Zero,part,shovel,Shovel,shovel_part2,handle,handle,Spade Trench Shovel,1,exact
+McRae,Zero,material,shovel,Shovel,shovel_material1,metal,metal (blade),n/a,1,exact
+McRae,Zero,material,shovel,Shovel,shovel_material2,wood,wood (handle),n/a,1,exact
+McRae,Few,part,skillet,-,skillet_part1,handle,-,-,0,missing
+McRae,Few,material,skillet,-,skillet_material1,iron,-,n/a,0,missing
+McRae,Zero,part,skillet,Skillet (Frying pan),skillet_part1,handle,handle,Deep Skillet,1,exact
+McRae,Zero,material,skillet,Skillet (Frying pan),skillet_material1,iron,cast iron (body),n/a,0.5,partial
+McRae,Few,part,skis,Ski,skis_part1,bindings,binding,Ski,1,exact
+McRae,Few,material,skis,Ski,skis_material1,wood,wood (core),n/a,1,exact
+McRae,Zero,part,skis,Ski,skis_part1,bindings,binding interface,Alpine Skis,1,exact
+McRae,Zero,material,skis,Ski,skis_material1,wood,wood (core),n/a,1,exact
+McRae,Few,part,trombone,Trombone,trombone_part1,slide valve,slide,Trombone,1,exact
+McRae,Few,part,trombone,Trombone,trombone_part2,mouth-piece,mouthpiece,Trombone,1,exact
+McRae,Few,material,trombone,Trombone,trombone_material1,brass,brass (slide),n/a,1,exact
+McRae,Zero,part,trombone,Trombone,trombone_part1,slide valve,slide,Slide Trombone,1,exact
+McRae,Zero,part,trombone,Trombone,trombone_part2,mouth-piece,mouthpiece,Slide Trombone,1,exact
+McRae,Zero,material,trombone,Trombone,trombone_material1,brass,brass (slide),n/a,1,exact
+McRae,Few,part,vest,Waistcoat,vest_part1,buttons,buttons,Single-breasted waistcoat,1,exact
+McRae,Few,part,vest,Waistcoat,vest_part1,zipper,-,-,0,missing
+McRae,Few,material,vest,Waistcoat,vest_material1,different fabrics,"wool, cotton, silk, polyester, and/or linen (body)",n/a,1,exact
+McRae,Zero,part,vest,Waistcoat,vest_part1,buttons,buttons,Single-breasted waistcoat,1,exact
+McRae,Zero,part,vest,Waistcoat,vest_part1,zipper,-,-,0,missing
+McRae,Zero,material,vest,Waistcoat,vest_material1,different fabrics,"wool, cotton, silk, or polyester (front panels)",n/a,1,exact
+McRae,-,part,socks,Sock,-,-,-,-,-,-
+McRae,-,material,socks,Sock,-,-,-,-,-,-
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part1,action (gun.01),trigger,CO2 air gun,0.5,partial
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part1,gun trigger (gun.01),trigger,CO2 air gun,1,exact
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part1,gunlock (gun.01),trigger / spring,Spring-piston air gun,0.5,partial
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part2,barrel (gun.01),barrel,CO2 air gun,1,exact
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part2,gun muzzle (gun.01),barrel,CO2 air gun,0.5,partial
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part3,cartridge ejector (gun.01),-,-,0,missing
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part3,cartridge extractor (gun.01),-,-,0,missing
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part3,cartridge holder (gun.01),-,-,0,missing
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part4,firing chamber (gun.01),-,-,0,missing
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part5,gunsight (gun.01),-,-,0,missing
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part6,safety catch (gun.01),-,-,0,missing
+WordNet,Few,part,air_gun.01,Air gun,air_gun.01_part7,stock (gun.01),-,-,0,missing
+WordNet,Few,material,air_gun.01,Air gun,air_gun.01_material1,metal (gun.01; def),metal (barrel),n/a,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part1,action (gun.01),trigger,CO2 powered air gun,0.5,partial
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part1,gun trigger (gun.01),trigger,CO2 powered air gun,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part1,gunlock (gun.01),trigger / piston / spring,Spring-piston air gun,0.5,partial
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part2,barrel (gun.01),barrel,CO2 powered air gun,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part2,gun muzzle (gun.01),muzzle,CO2 powered air gun,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part3,cartridge ejector (gun.01),internal mechanism,CO2 powered air gun,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part3,cartridge extractor (gun.01),internal mechanism,CO2 powered air gun,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part3,cartridge holder (gun.01),CO2 cartridge holder,CO2 powered air gun,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part4,firing chamber (gun.01),-,-,0,missing
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part5,gunsight (gun.01),sight,CO2 powered air gun,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part6,safety catch (gun.01),safety switch,CO2 powered air gun,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,air_gun.01_part7,stock (gun.01),stock,CO2 powered air gun,1,exact
+WordNet,Zero,material,air_gun.01,Air gun,air_gun.01_material1,metal (gun.01; def),metal (barrel),n/a,1,exact
+WordNet,Few,part,barrel.02,Barrel,barrel.02_part1,breech (barrel.02),head,Barrel,0.5,partial
+WordNet,Few,part,barrel.02,Barrel,barrel.02_part1,base (vessel.03),head,Barrel,0.5,partial
+WordNet,Few,part,barrel.02,Barrel,barrel.02_part1,brim (vessel.03),head,Barrel,0.5,partial
+WordNet,Few,part,barrel.02,Barrel,barrel.02_part2,bung (barrel.02),bung,Barrel,1,exact
+WordNet,Few,part,barrel.02,Barrel,barrel.02_part3,hoop (barrel.02),hoops,Barrel,1,exact
+WordNet,Few,part,barrel.02,Barrel,barrel.02_part4,stave (barrel.02),-,-,0,missing
+WordNet,Few,part,barrel.02,Barrel,barrel.02_part5,tap (barrel.02),-,-,0,missing
+WordNet,Few,material,barrel.02,Barrel,barrel.02_material1,metal (powder_keg.02; def),metal (hoops),n/a,1,exact
+WordNet,Few,material,barrel.02,Barrel,barrel.02_material2,wood (firkin.02; def),wood (staves),n/a,1,exact
+WordNet,Zero,part,barrel.02,Barrel,barrel.02_part1,breech (barrel.02),head,Wine barrel,0.5,partial
+WordNet,Zero,part,barrel.02,Barrel,barrel.02_part1,base (vessel.03),base,Mini Keg,1,exact
+WordNet,Zero,part,barrel.02,Barrel,barrel.02_part1,brim (vessel.03),head,Wine barrel,0.5,partial
+WordNet,Zero,part,barrel.02,Barrel,barrel.02_part2,bung (barrel.02),bung,Wine barrel,1,exact
+WordNet,Zero,part,barrel.02,Barrel,barrel.02_part3,hoop (barrel.02),hoops,Wine barrel,1,exact
+WordNet,Zero,part,barrel.02,Barrel,barrel.02_part4,stave (barrel.02),staves,Wine barrel,1,exact
+WordNet,Zero,part,barrel.02,Barrel,barrel.02_part5,tap (barrel.02),tap,Mini Keg,1,exact
+WordNet,Zero,material,barrel.02,Barrel,barrel.02_material1,metal (powder_keg.02; def),metal (tap),n/a,1,exact
+WordNet,Zero,material,barrel.02,Barrel,barrel.02_material2,wood (firkin.02; def),wood (barrel body),n/a,1,exact
+WordNet,Few,part,cassette_deck.01,Cassette deck,cassette_deck.01_part1,tape drive (tape_deck.01),heads / capstan / rollers,Single cassette deck,0.5,partial
+WordNet,Zero,part,cassette_deck.01,Cassette deck,cassette_deck.01_part1,tape drive (tape_deck.01),head unit / capstan and pinch roller,Cassette deck,0.5,partial
+WordNet,-,material,cassette_deck.01,Cassette deck,-,-,-,-,-,-
+WordNet,Few,part,chest.02,Chest (furniture),chest.02_part1,lid (chest.02),lid,Hope chest,1,exact
+WordNet,Few,part,chest.02,Chest (furniture),chest.02_part2,base (box.01),frame,Hope chest,0.5,partial
+WordNet,Zero,part,chest.02,Chest (furniture),chest.02_part1,lid (chest.02),lid,Hope chest,1,exact
+WordNet,Zero,part,chest.02,Chest (furniture),chest.02_part2,base (box.01),base,Flat-Topped Ottoman Chest,1,exact
+WordNet,-,material,chest.02,Chest (furniture),-,-,-,-,-,-
+WordNet,-,part,can.01,Drink can,-,-,-,-,-,-
+WordNet,Few,material,can.01,Drink can,can.01_material1,metal (can.01; def),metal (body),n/a,1,exact
+WordNet,Zero,material,can.01,Drink can,can.01_material1,metal (can.01; def),metal (internal mechanism),n/a,1,exact
+WordNet,Few,part,felt-tip_pen.01,Marker pen,felt-tip_pen.01_part1,nib (pen.01),nib,Marker pen,1,exact
+WordNet,Few,part,felt-tip_pen.01,Marker pen,felt-tip_pen.01_part2,indelible ink (sharpie.03; def),internal reservoir,Marker pen,1,container
+WordNet,Few,material,felt-tip_pen.01,Marker pen,felt-tip_pen.01_material1,felt (felt-tip_pen.01; def),felt (nib),n/a,1,exact
+WordNet,Zero,part,felt-tip_pen.01,Marker pen,felt-tip_pen.01_part1,nib (pen.01),nib,Highlighter pen,1,exact
+WordNet,Zero,part,felt-tip_pen.01,Marker pen,felt-tip_pen.01_part2,indelible ink (sharpie.03; def),ink,Highlighter pen,1,exact
+WordNet,Zero,material,felt-tip_pen.01,Marker pen,felt-tip_pen.01_material1,felt (felt-tip_pen.01; def),felt (nib),n/a,1,exact
+WordNet,Few,part,hawaiian_guitar.01,Steel guitar,hawaiian_guitar.01_part1,fingerboard (guitar.01),necks,Console steel guitar,0.5,partial
+WordNet,Few,part,hawaiian_guitar.01,Steel guitar,hawaiian_guitar.01_part2,strings (hawaiian_guitar.01; def),strings,Console steel guitar,1,exact
+WordNet,Few,material,hawaiian_guitar.01,Steel guitar,hawaiian_guitar.01_material1,steel (hawaiian_guitar.01; def),steel (strings),n/a,1,exact
+WordNet,Zero,part,hawaiian_guitar.01,Steel guitar,hawaiian_guitar.01_part1,fingerboard (guitar.01),fretboard,Lap Steel Guitar,1,exact
+WordNet,Zero,part,hawaiian_guitar.01,Steel guitar,hawaiian_guitar.01_part2,strings (hawaiian_guitar.01; def),strings,Lap Steel Guitar,1,exact
+WordNet,Zero,material,hawaiian_guitar.01,Steel guitar,hawaiian_guitar.01_material1,steel (hawaiian_guitar.01; def),steel (strings),n/a,1,exact
+WordNet,-,part,love_seat.01,Loveseat,-,-,-,-,-,-
+WordNet,Few,material,love_seat.01,Loveseat,love_seat.01_material1,upholstered (sofa.01; def),foam and fabric or leather (seat cushion),n/a,1,exact
+WordNet,Zero,material,love_seat.01,Loveseat,love_seat.01_material1,upholstered (sofa.01; def),"fabric, leather, or synthetic materials (upholstery) / foam (seat cushions)",n/a,1,exact
+WordNet,Few,part,mortarboard.02,Square academic cap,mortarboard.02_part1,flat square (mortarboard.02; def),mortarboard,Square academic cap,1,exact
+WordNet,Few,part,mortarboard.02,Square academic cap,mortarboard.02_part2,tassel (mortarboard.02; def),tassel,Square academic cap,1,exact
+WordNet,Zero,part,mortarboard.02,Square academic cap,mortarboard.02_part1,flat square (mortarboard.02; def),mortarboard,Square academic cap,1,exact
+WordNet,Zero,part,mortarboard.02,Square academic cap,mortarboard.02_part2,tassel (mortarboard.02; def),tassel,Square academic cap,1,exact
+WordNet,-,material,mortarboard.02,Square academic cap,-,-,-,-,-,-
+WordNet,Few,part,paddle.04,Paddle,paddle.04_part1,blade (oar.01),blade,Paddle,1,exact
+WordNet,Zero,part,paddle.04,Paddle,paddle.04_part1,blade (oar.01),blade,Canoe paddle,1,exact
+WordNet,-,material,paddle.04,Paddle,-,-,-,-,-,-
+WordNet,Few,part,pencil_box.01,Pencil case,pencil_box.01_part1,base (box.01),body,Pencil case,0.5,partial
+WordNet,Few,part,pencil_box.01,Pencil case,pencil_box.01_part2,lid (box.01),-,-,0,missing
+WordNet,Zero,part,pencil_box.01,Pencil case,pencil_box.01_part1,base (box.01),base,Hinged-lid pencil case,1,exact
+WordNet,Zero,part,pencil_box.01,Pencil case,pencil_box.01_part2,lid (box.01),lid,Hinged-lid pencil case,1,exact
+WordNet,-,material,pencil_box.01,Pencil case,-,-,-,-,-,-
+WordNet,Few,part,quill.01,Quill,quill.01_part1,nib (pen.01),nib,Quill,1,exact
+WordNet,Few,material,quill.01,Quill,quill.01_material1,feather (quill.01; def),feather (feather),n/a,1,exact
+WordNet,Zero,part,quill.01,Quill,quill.01_part1,nib (pen.01),nib,Quill,1,exact
+WordNet,Zero,material,quill.01,Quill,quill.01_material1,feather (quill.01; def),feather (barrel),n/a,1,exact
+WordNet,Few,part,raincoat.01,Raincoat,raincoat.01_part1,sleeves (coat.01; def),sleeves,Trench raincoat,1,exact
+WordNet,Few,part,raincoat.01,Raincoat,raincoat.01_part2,belted (trench_coat.01; def / burberry.01; def),belt,Trench raincoat,1,exact
+WordNet,Few,part,raincoat.01,Raincoat,raincoat.01_part3,deep pockets (trench_coat.01; def),pockets,Trench raincoat,1,exact
+WordNet,Few,part,raincoat.01,Raincoat,raincoat.01_part3,breast pocket (coat.01),pockets,Trench raincoat,0.5,partial
+WordNet,Few,part,raincoat.01,Raincoat,raincoat.01_part4,lining (burberry.01; def),lining,Raincoat (Coat),1,exact
+WordNet,Few,part,raincoat.01,Raincoat,raincoat.01_part5,coat button (coat.01),-,-,0,missing
+WordNet,Few,material,raincoat.01,Raincoat,raincoat.01_material1,cotton fabric (oilskin.01; def),cotton (body),n/a,1,exact
+WordNet,Few,material,raincoat.01,Raincoat,raincoat.01_material2,rubberized fabric (macintosh.02; def),waterproof fabric (body),n/a,0.5,partial
+WordNet,Few,material,raincoat.01,Raincoat,raincoat.01_material3,tartan (burberry.01; def),-,n/a,0,missing
+WordNet,Few,material,raincoat.01,Raincoat,raincoat.01_material4,gabardine (burberry.01; def),-,n/a,0,missing
+WordNet,Zero,part,raincoat.01,Raincoat,raincoat.01_part1,sleeves (coat.01; def),sleeves,Single-Breasted Trench CoatSingle-breasted Macintosh raincoat,1,exact
+WordNet,Zero,part,raincoat.01,Raincoat,raincoat.01_part2,belted (trench_coat.01; def / burberry.01; def),belt,Single-breasted Macintosh raincoat,1,exact
+WordNet,Zero,part,raincoat.01,Raincoat,raincoat.01_part3,deep pockets (trench_coat.01; def),pockets,Single-breasted Macintosh raincoat,1,exact
+WordNet,Zero,part,raincoat.01,Raincoat,raincoat.01_part3,breast pocket (coat.01),front pocket,Side-snap Poncho Raincoat,0.5,partial
+WordNet,Zero,part,raincoat.01,Raincoat,raincoat.01_part4,lining (burberry.01; def),lining,Single-breasted Macintosh raincoat,1,exact
+WordNet,Zero,part,raincoat.01,Raincoat,raincoat.01_part5,coat button (coat.01),buttons,Single-breasted Macintosh raincoat,1,exact
+WordNet,Zero,material,raincoat.01,Raincoat,raincoat.01_material1,cotton fabric (oilskin.01; def),cotton (lining),n/a,1,exact
+WordNet,Zero,material,raincoat.01,Raincoat,raincoat.01_material2,rubberized fabric (macintosh.02; def),"plastic, rubber, or coated fabric (body)",n/a,1,exact
+WordNet,Zero,material,raincoat.01,Raincoat,raincoat.01_material3,tartan (burberry.01; def),wool (sleeves),n/a,1,exact
+WordNet,Zero,material,raincoat.01,Raincoat,raincoat.01_material4,gabardine (burberry.01; def),wool / cotton (sleeves),n/a,1,exact
+WordNet,Few,part,shovel.01,Shovel,shovel.01_part1,handle (hand_tool.01),handle,Scoop shovel,1,exact
+WordNet,Few,part,shovel.01,Shovel,shovel.01_part2,curved container or scoop (shovel.01; def),scoop,Scoop shovel,1,exact
+WordNet,Zero,part,shovel.01,Shovel,shovel.01_part1,handle (hand_tool.01),handle,Grain Scoop Shovel,1,exact
+WordNet,Zero,part,shovel.01,Shovel,shovel.01_part2,curved container or scoop (shovel.01; def),scoop blade,Grain Scoop Shovel,1,exact
+WordNet,-,material,shovel.01,Shovel,-,-,-,-,-,-
+WordNet,Few,part,spectacles.01,Glasses,spectacles.01_part1,frame (spectacles.01; def),frame,Single vision glasses,1,exact
+WordNet,Few,part,spectacles.01,Glasses,spectacles.01_part1,bridge (spectacles.01),frame,Single vision glasses,0.5,partial
+WordNet,Few,part,spectacles.01,Glasses,spectacles.01_part2,lens (optical_instrument.01),lenses,Single vision glasses,1,exact
+WordNet,Few,part,spectacles.01,Glasses,spectacles.01_part2,polaroid (sunglasses.01),lenses,Single vision glasses,0.5,partial
+WordNet,Few,part,spectacles.01,Glasses,spectacles.01_part3,spring (pince-nez.01; def),-,-,0,missing
+WordNet,Few,part,spectacles.01,Glasses,spectacles.01_part4,handle (lorgnette.01; def),-,-,0,missing
+WordNet,Zero,part,spectacles.01,Glasses,spectacles.01_part1,frame (spectacles.01; def),frame,Shield sunglasses,1,exact
+WordNet,Zero,part,spectacles.01,Glasses,spectacles.01_part1,bridge (spectacles.01),nose bridge,Shield sunglasses,1,exact
+WordNet,Zero,part,spectacles.01,Glasses,spectacles.01_part2,lens (optical_instrument.01),lenses,Shield sunglasses,1,exact
+WordNet,Zero,part,spectacles.01,Glasses,spectacles.01_part2,polaroid (sunglasses.01),lenses,Shield sunglasses,0.5,partial
+WordNet,Zero,part,spectacles.01,Glasses,spectacles.01_part3,spring (pince-nez.01; def),-,-,0,missing
+WordNet,Zero,part,spectacles.01,Glasses,spectacles.01_part4,handle (lorgnette.01; def),-,-,0,missing
+WordNet,-,material,spectacles.01,Glasses,-,-,-,-,-,-
+WordNet,Few,part,sweat_pants.01,Sweatpants,sweat_pants.01_part1,hip pocket (trouser.01),pockets,Sweatpants,0.5,partial
+WordNet,Few,part,sweat_pants.01,Sweatpants,sweat_pants.01_part2,lap (trouser.01),leg,Sweatpants,0.5,partial
+WordNet,Few,part,sweat_pants.01,Sweatpants,sweat_pants.01_part2,pant leg (trouser.01),leg,Sweatpants,1,exact
+WordNet,Few,part,sweat_pants.01,Sweatpants,sweat_pants.01_part3,seat (trouser.01),-,-,0,missing
+WordNet,Few,part,sweat_pants.01,Sweatpants,sweat_pants.01_part4,slide fastener (trouser.01),-,-,0,missing
+WordNet,Few,part,sweat_pants.01,Sweatpants,sweat_pants.01_part5,trouser cuff (trouser.01),cuffs,Sweatpants,1,exact
+WordNet,Few,material,sweat_pants.01,Sweatpants,sweat_pants.01_material1,elastic (sweat_pants.01; def),elastic (cuffs),n/a,1,exact
+WordNet,Zero,part,sweat_pants.01,Sweatpants,sweat_pants.01_part1,hip pocket (trouser.01),pockets,Cuffed Hem Joggers,0.5,partial
+WordNet,Zero,part,sweat_pants.01,Sweatpants,sweat_pants.01_part2,lap (trouser.01),main body,Cuffed Hem Joggers,0.5,partial
+WordNet,Zero,part,sweat_pants.01,Sweatpants,sweat_pants.01_part2,pant leg (trouser.01),main body,Cuffed Hem Joggers,0.5,partial
+WordNet,Zero,part,sweat_pants.01,Sweatpants,sweat_pants.01_part3,seat (trouser.01),main body,Cuffed Hem Joggers,0.5,partial
+WordNet,Zero,part,sweat_pants.01,Sweatpants,sweat_pants.01_part4,slide fastener (trouser.01),zipper,Cuffed Hem Joggers,1,exact
+WordNet,Zero,part,sweat_pants.01,Sweatpants,sweat_pants.01_part5,trouser cuff (trouser.01),cuffs,Cuffed Hem Joggers,1,exact
+WordNet,Zero,material,sweat_pants.01,Sweatpants,sweat_pants.01_material1,elastic (sweat_pants.01; def),elastic (cuffs),n/a,1,exact
+WordNet,Few,part,toboggan.01,Toboggan,toboggan.01_part1,board (toboggan.01; def),body,Toboggan,1,exact
+WordNet,Few,part,toboggan.01,Toboggan,toboggan.01_part2,runner (sled.01),-,-,0,missing
+WordNet,Zero,part,toboggan.01,Toboggan,toboggan.01_part1,board (toboggan.01; def),sled deck,Traditional Wooden Downhill Toboggan,1,exact
+WordNet,Zero,part,toboggan.01,Toboggan,toboggan.01_part2,runner (sled.01),runners,Traditional Wooden Downhill Toboggan,1,exact
+WordNet,-,material,toboggan.01,Toboggan,-,-,-,-,-,-
+WordNet,Few,part,toothbrush.01,Toothbrush,toothbrush.01_part1,bristle (brush.02),bristles,Toothbrush,1,exact
+WordNet,Few,part,toothbrush.01,Toothbrush,toothbrush.01_part2,handle (brush.02),handle,Toothbrush,1,exact
+WordNet,Few,part,toothbrush.01,Toothbrush,toothbrush.01_part3,head (electric_toothbrush.01; def),head,Toothbrush,1,exact
+WordNet,Few,part,toothbrush.01,Toothbrush,toothbrush.01_part4,electric motor (electric_toothbrush.01),-,-,0,missing
+WordNet,Zero,part,toothbrush.01,Toothbrush,toothbrush.01_part1,bristle (brush.02),bristles,Manual Toothbrush,1,exact
+WordNet,Zero,part,toothbrush.01,Toothbrush,toothbrush.01_part2,handle (brush.02),handle,Manual Toothbrush,1,exact
+WordNet,Zero,part,toothbrush.01,Toothbrush,toothbrush.01_part3,head (electric_toothbrush.01; def),head,Manual Toothbrush,1,exact
+WordNet,Zero,part,toothbrush.01,Toothbrush,toothbrush.01_part4,electric motor (electric_toothbrush.01),internal mechanism,Rotating Electric Toothbrush,1,exact
+WordNet,-,material,toothbrush.01,Toothbrush,-,-,-,-,-,-
+WordNet,Few,part,umbrella.01,Umbrella,umbrella.01_part1,handle (umbrella.01),handle,stick umbrella,1,exact
+WordNet,Few,part,umbrella.01,Umbrella,umbrella.01_part2,covering (canopy.03; def),canopy,stick umbrella,1,exact
+WordNet,Few,part,umbrella.01,Umbrella,umbrella.01_part2,gore (umbrella.01),canopy,stick umbrella,0.5,partial
+WordNet,Few,part,umbrella.01,Umbrella,umbrella.01_part3,rib (umbrella.01),-,-,0,missing
+WordNet,Few,material,umbrella.01,Umbrella,umbrella.01_material1,cloth (canopy.03; def),fabric (canopy),n/a,1,exact
+WordNet,Zero,part,umbrella.01,Umbrella,umbrella.01_part1,handle (umbrella.01),handle,Stick umbrella,1,exact
+WordNet,Zero,part,umbrella.01,Umbrella,umbrella.01_part2,covering (canopy.03; def),canopy,Stick umbrella,1,exact
+WordNet,Zero,part,umbrella.01,Umbrella,umbrella.01_part2,gore (umbrella.01),canopy,Stick umbrella,0.5,partial
+WordNet,Zero,part,umbrella.01,Umbrella,umbrella.01_part3,rib (umbrella.01),ribs,Stick umbrella,1,exact
+WordNet,Zero,material,umbrella.01,Umbrella,umbrella.01_material1,cloth (canopy.03; def),fabric (canopy),n/a,1,exact
+WordNet,Few,part,weathervane.01,Weather vane,weathervane.01_part1,vane (weathercock.01; def),ornament,Weather vane,1,exact
+WordNet,Zero,part,weathervane.01,Weather vane,weathervane.01_part1,vane (weathercock.01; def),pointer / end ornament,Weather vane,1,exact
+WordNet,-,material,weathervane.01,Weather vane,-,-,-,-,-,-
+WordNet,-,part,cupboard.01,Cupboard,-,-,-,-,-,-
+WordNet,-,material,cupboard.01,Cupboard,-,-,-,-,-,-
+WordNet,-,part,brace.07,Dental braces,-,-,-,-,-,-
+WordNet,-,material,brace.07,Dental braces,-,-,-,-,-,-
+WordNet,-,part,inhaler.01,Inhaler,-,-,-,-,-,-
+WordNet,-,material,inhaler.01,Inhaler,-,-,-,-,-,-
+WordNet,-,part,nightshirt.01,Nightshirt,-,-,-,-,-,-
+WordNet,-,material,nightshirt.01,Nightshirt,-,-,-,-,-,-
+WordNet,-,part,webcam.01,Webcam,-,-,-,-,-,-
+WordNet,-,material,webcam.01,Webcam,-,-,-,-,-,-
+ConceptNet,Few,part,aeroplane,Airplane,aeroplane_part1,landing gear,landing gear,Commercial airliner,1,exact
+ConceptNet,Few,part,aeroplane,Airplane,aeroplane_part1,wheels,landing gear,Commercial airliner,0.5,partial
+ConceptNet,Few,part,aeroplane,Airplane,aeroplane_part1,emergency brakes,landing gear,Commercial airliner,0.5,partial
+ConceptNet,Few,part,aeroplane,Airplane,aeroplane_part2,wing,wings,Commercial airliner,1,exact
+ConceptNet,Few,part,aeroplane,Airplane,aeroplane_part2,flap,wings,Commercial airliner,0.5,partial
+ConceptNet,Few,part,aeroplane,Airplane,aeroplane_part3,cockpit,cockpit,Commercial airliner,1,exact
+ConceptNet,Few,part,aeroplane,Airplane,aeroplane_part4,propellers,-,-,0,missing
+ConceptNet,Few,part,aeroplane,Airplane,aeroplane_part5,rudder,tail,Commercial airliner,0.5,partial
+ConceptNet,Few,part,aeroplane,Airplane,aeroplane_part6,fuel tank,-,-,0,missing
+ConceptNet,Zero,part,aeroplane,Airplane,aeroplane_part1,landing gear,landing gear,High-Wing Monoplane,1,exact
+ConceptNet,Zero,part,aeroplane,Airplane,aeroplane_part1,wheels,landing gear,High-Wing Monoplane,0.5,partial
+ConceptNet,Zero,part,aeroplane,Airplane,aeroplane_part1,emergency brakes,landing gear,High-Wing Monoplane,0.5,partial
+ConceptNet,Zero,part,aeroplane,Airplane,aeroplane_part2,wing,wings,High-Wing Monoplane,1,exact
+ConceptNet,Zero,part,aeroplane,Airplane,aeroplane_part2,flap,wings,High-Wing Monoplane,0.5,partial
+ConceptNet,Zero,part,aeroplane,Airplane,aeroplane_part3,cockpit,cockpit,High-Wing Monoplane,1,exact
+ConceptNet,Zero,part,aeroplane,Airplane,aeroplane_part4,propellers,propeller,High-Wing Monoplane,1,exact
+ConceptNet,Zero,part,aeroplane,Airplane,aeroplane_part5,rudder,rudder,Seaplane,1,exact
+ConceptNet,Zero,part,aeroplane,Airplane,aeroplane_part6,fuel tank,fuel tanks,Business jet (Vehicle),1,exact
+ConceptNet,-,material,aeroplane,Airplane,-,-,-,-,-,-
+ConceptNet,Few,part,bell,Bell,bell_part1,clapper (bell),clapper,Handbell,1,exact
+ConceptNet,Few,part,bell,Bell,bell_part2,bell (carillon),dome,Handbell,1,exact
+ConceptNet,Zero,part,bell,Bell,bell_part1,clapper (bell),clapper,Carillon Bell,1,exact
+ConceptNet,Zero,part,bell,Bell,bell_part2,bell (carillon),bell,Carillon Bell,1,exact
+ConceptNet,-,material,bell,Bell,-,-,-,-,-,-
+ConceptNet,Few,part,bucket,Bucket,bucket_part1,handle (bucket),handle,Bucket,1,exact
+ConceptNet,Zero,part,bucket,Bucket,bucket_part1,handle (bucket),handle,Multi-Purpose Bucket,1,exact
+ConceptNet,-,material,bucket,Bucket,-,-,-,-,-,-
+ConceptNet,-,part,buckle,Buckle,-,-,-,-,-,-
+ConceptNet,Few,material,buckle,Buckle,buckle_material1,metal (belt buckle),metal (frame),n/a,1,exact
+ConceptNet,Zero,material,buckle,Buckle,buckle_material1,metal (belt buckle),metal (frame),n/a,1,exact
+ConceptNet,-,part,bullet,Bullet,-,-,-,-,-,-
+ConceptNet,Few,material,bullet,Bullet,buckle_material1,copper (bullet),copper (jacket),n/a,1,exact
+ConceptNet,Zero,material,bullet,Bullet,buckle_material1,copper (bullet),copper (bullet jacket),n/a,1,exact
+ConceptNet,-,part,can,Drink can,-,-,-,-,-,-
+ConceptNet,Few,material,can,Drink can,can_material1,aluminum (can),aluminum (body),n/a,1,exact
+ConceptNet,Zero,material,can,Drink can,can_material1,aluminum (can),aluminum (body),n/a,1,exact
+ConceptNet,Few,part,caravan,Caravan (trailer),caravan_part1,transmission system (caravan = van),internal mechanism,Teardrop caravan,1,exact
+ConceptNet,Few,part,caravan,Caravan (trailer),caravan_part2,new tires (caravan = van) ,wheels,Teardrop caravan,0.5,partial
+ConceptNet,Few,part,caravan,Caravan (trailer),caravan_part3,seats inside (caravan = van) ,-,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),caravan_part1,transmission system (caravan = van),internal mechanism,Teardrop trailer,1,exact
+ConceptNet,Zero,part,caravan,Caravan (trailer),caravan_part2,new tires (caravan = van) ,wheels,Teardrop trailer,0.5,partial
+ConceptNet,Zero,part,caravan,Caravan (trailer),caravan_part3,seats inside (caravan = van) ,seating,Airstream Travel Trailer,1,exact
+ConceptNet,-,material,caravan,Caravan (trailer),-,-,-,-,-,-
+ConceptNet,Few,part,chair,Chair,chair_part1,back (chair),backrest,Chair,1,exact
+ConceptNet,Few,part,chair,Chair,chair_part2,legs (chair),legs,Chair,1,exact
+ConceptNet,Few,part,chair,Chair,chair_part3,foot (chair),-,-,0,missing
+ConceptNet,Few,part,chair,Chair,chair_part4,arm (chair),armrests,Chair,1,exact
+ConceptNet,Few,part,chair,Chair,chair_part5,cushion (chair > sofa),-,-,0,missing
+ConceptNet,Few,material,chair,Chair,chair_material1,wood (chair),wood (seat),n/a,1,exact
+ConceptNet,Few,material,chair,Chair,chair_material2,fabric (chair > sofa),fabric (seat),n/a,1,exact
+ConceptNet,Zero,part,chair,Chair,chair_part1,back (chair),backrest,Club Armchair,1,exact
+ConceptNet,Zero,part,chair,Chair,chair_part2,legs (chair),legs,Club Armchair,1,exact
+ConceptNet,Zero,part,chair,Chair,chair_part3,foot (chair),foot,Reclining Deck Chair,1,exact
+ConceptNet,Zero,part,chair,Chair,chair_part4,arm (chair),armrests,Club Armchair,1,exact
+ConceptNet,Zero,part,chair,Chair,chair_part5,cushion (chair > sofa),cushions,Rocking Armchair,1,exact
+ConceptNet,Zero,material,chair,Chair,chair_material1,wood (chair),wood (frame),n/a,1,exact
+ConceptNet,Zero,material,chair,Chair,chair_material2,fabric (chair > sofa),fabric (cushion),n/a,1,exact
+ConceptNet,Few,part,cupboard,Cupboard,cupboard_part1,door (cupboard = closet > booth),doors,Cupboard,1,exact
+ConceptNet,Few,part,cupboard,Cupboard,cupboard_part1,door with lock (cupboad > safe),-,-,0,missing
+ConceptNet,Few,material,cupboard,Cupboard,cupboard_material1,metal (cupboard = closet > locker),metal (knobs or handles),n/a,1,exact
+ConceptNet,Zero,part,cupboard,Cupboard,cupboard_part1,door (cupboard = closet > booth),doors,Glass-Fronted Display Cabinet,1,exact
+ConceptNet,Zero,part,cupboard,Cupboard,cupboard_part1,door with lock (cupboad > safe),lock,Glass-Fronted Display Cabinet,1,exact
+ConceptNet,Zero,material,cupboard,Cupboard,cupboard_material1,metal (cupboard = closet > locker),metal (door),n/a,1,exact
+ConceptNet,Few,part,glasses,Glasses,glasses_part1,frame (glasses),frame,Single vision glasses,1,exact
+ConceptNet,Few,part,glasses,Glasses,glasses_part2,lens (glasses = eyeglasses),lenses,Single vision glasses,1,exact
+ConceptNet,Few,part,glasses,Glasses,glasses_part3,earpiece (glasses = eyeglasses),temples,Single vision glasses,1,exact
+ConceptNet,Few,material,glasses,Glasses,glasses_material1,glass (glasses),glass (lenses),n/a,1,exact
+ConceptNet,Zero,part,glasses,Glasses,glasses_part1,frame (glasses),frame,Semi-rimless glasses,1,exact
+ConceptNet,Zero,part,glasses,Glasses,glasses_part2,lens (glasses = eyeglasses),lenses,Full-rim glasses,1,exact
+ConceptNet,Zero,part,glasses,Glasses,glasses_part3,earpiece (glasses = eyeglasses),temples,Full-rim glasses,1,exact
+ConceptNet,Zero,material,glasses,Glasses,glasses_material1,glass (glasses),glass (lenses),n/a,1,exact
+ConceptNet,Few,part,harp,Harp,harp_part1,strings (harp),strings,Pedal harp,1,exact
+ConceptNet,Zero,part,harp,Harp,harp_part1,strings (harp),strings,Lever Harp,1,exact
+ConceptNet,-,material,harp,Harp,-,-,-,-,-,-
+ConceptNet,Few,part,jacket,Jacket,jacket_part1,button (jacket = coat),buttons,Blazer,1,exact
+ConceptNet,Few,part,jacket,Jacket,jacket_part1,zipper (jacket),zipper,Windbreaker,1,exact
+ConceptNet,Few,material,jacket,Jacket,jacket_material1,wool (jacket = coat),wool (body),n/a,1,exact
+ConceptNet,Zero,part,jacket,Jacket,jacket_part1,button (jacket = coat),buttons,Hooded peacoat,1,exact
+ConceptNet,Zero,part,jacket,Jacket,jacket_part1,zipper (jacket),zipper,Down Jacket,1,exact
+ConceptNet,Zero,material,jacket,Jacket,jacket_material1,wool (jacket = coat),wool (sleeves),n/a,1,exact
+ConceptNet,Few,part,kite,Kite,kite_part1,tail (kite),-,-,0,missing
+ConceptNet,Few,material,kite,Kite,kite_material1,string (kite),string (tethering line),n/a,1,exact
+ConceptNet,Zero,part,kite,Kite,kite_part1,tail (kite),tails,Diamond Kite,1,exact
+ConceptNet,Zero,material,kite,Kite,kite_material1,string (kite),string (bridle),n/a,1,exact
+ConceptNet,Few,part,pencil,Pencil,pencil_part1,lead (pencil),graphite core,Wood-cased pencil,1,exact
+ConceptNet,Few,material,pencil,Pencil,pencil_material1,wood (pencil),wood (wood casing),n/a,1,exact
+ConceptNet,Few,material,pencil,Pencil,pencil_material2,graphite not lead (pencil),graphite (lead),n/a,1,exact
+ConceptNet,Zero,part,pencil,Pencil,pencil_part1,lead (pencil),core,Graphite pencil,1,exact
+ConceptNet,Zero,material,pencil,Pencil,pencil_material1,wood (pencil),wood (wooden body),n/a,1,exact
+ConceptNet,Zero,material,pencil,Pencil,pencil_material2,graphite not lead (pencil),graphite (lead),n/a,1,exact
+ConceptNet,Few,part,saw,Saw,saw_part1,blade (saw),blade,Hand saw,1,exact
+ConceptNet,Zero,part,saw,Saw,saw_part1,blade (saw),blade,Crosscut hand saw,1,exact
+ConceptNet,-,material,saw,Saw,-,-,-,-,-,-
+ConceptNet,-,part,scissors,Scissors,-,-,-,-,-,-
+ConceptNet,Few,material,scissors,Scissors,scissors_material1,steel (pair of scissors),steel (blade),n/a,1,exact
+ConceptNet,Few,material,scissors,Scissors,scissors_material2,metal (scissors),metal (handle),n/a,1,exact
+ConceptNet,Zero,material,scissors,Scissors,scissors_material1,steel (pair of scissors),steel (blades),n/a,1,exact
+ConceptNet,Zero,material,scissors,Scissors,scissors_material2,metal (scissors),metal (handles),n/a,1,exact
+ConceptNet,Few,part,shovel,Shovel,shovel_part1,handle (shovel),handle,Digging shovel,1,exact
+ConceptNet,Zero,part,shovel,Shovel,shovel_part1,handle (shovel),handle,Spade Trench Shovel,1,exact
+ConceptNet,-,material,shovel,Shovel,-,-,-,-,-,-
+ConceptNet,Few,part,toothbrush,Toothbrush,toothbrush_part1,bristles (toothbrush),bristles,Toothbrush,1,exact
+ConceptNet,Zero,part,toothbrush,Toothbrush,toothbrush_part1,bristles (toothbrush),bristles,Manual Toothbrush,1,exact
+ConceptNet,-,material,toothbrush,Toothbrush,-,-,-,-,-,-
+ConceptNet,Few,part,umbrella,Umbrella,umbrella_part1,spokes (umbrella),-,-,0,missing
+ConceptNet,Zero,part,umbrella,Umbrella,umbrella_part1,spokes (umbrella),ribs,Stick umbrella,1,exact
+ConceptNet,-,material,umbrella,Umbrella,-,-,-,-,-,-
+ConceptNet,Few,part,window,Window,window_part1,pane (window),glass pane,Sash window,1,exact
+ConceptNet,Few,part,window,Window,window_part2,frame (window),frame,Sash window,1,exact
+ConceptNet,Few,material,window,Window,window_material1,glass (window),glass (glass pane),n/a,1,exact
+ConceptNet,Zero,part,window,Window,window_part1,pane (window),glass pane,Single-hung window,1,exact
+ConceptNet,Zero,part,window,Window,window_part2,frame (window),frame,Single-hung window,1,exact
+ConceptNet,Zero,material,window,Window,window_material1,glass (window),glass (glass pane),n/a,1,exact
+ConceptNet,Few,-,castanets,-,-,-,-,-,-,-
+ConceptNet,Zero,part,castanets,Castanets,-,-,-,-,-,-
+ConceptNet,Zero,material,castanets,Castanets,-,-,-,-,-,-
+ConceptNet,Few,-,rice cooker,-,-,-,-,-,-,-
+ConceptNet,Zero,part,rice cooker,Rice cooker,-,-,-,-,-,-
+ConceptNet,Zero,material,rice cooker,Rice cooker,-,-,-,-,-,-
+ConceptNet,-,part,air gun,Air gun,-,-,-,-,-,-
+ConceptNet,-,material,air gun,Air gun,-,-,-,-,-,-
+ConceptNet,-,part,apron,Apron,-,-,-,-,-,-
+ConceptNet,-,material,apron,Apron,-,-,-,-,-,-
+ConceptNet,-,part,barbeque grill,Barbecue grill,-,-,-,-,-,-
+ConceptNet,-,material,barbeque grill,Barbecue grill,-,-,-,-,-,-
+ConceptNet,-,part,barrel,Barrel,-,-,-,-,-,-
+ConceptNet,-,material,barrel,Barrel,-,-,-,-,-,-
+ConceptNet,-,part,bench,Bench (furniture),-,-,-,-,-,-
+ConceptNet,-,material,bench,Bench (furniture),-,-,-,-,-,-
+ConceptNet,-,part,binoculars,Binoculars,-,-,-,-,-,-
+ConceptNet,-,material,binoculars,Binoculars,-,-,-,-,-,-
+ConceptNet,-,part,bird cage,Birdcage,-,-,-,-,-,-
+ConceptNet,-,material,bird cage,Birdcage,-,-,-,-,-,-
+ConceptNet,-,part,boot,Boot,-,-,-,-,-,-
+ConceptNet,-,material,boot,Boot,-,-,-,-,-,-
+ConceptNet,-,part,cassette deck,Cassette deck,-,-,-,-,-,-
+ConceptNet,-,material,cassette deck,Cassette deck,-,-,-,-,-,-
+ConceptNet,-,part,chest,Chest (furniture),-,-,-,-,-,-
+ConceptNet,-,material,chest,Chest (furniture),-,-,-,-,-,-
+ConceptNet,-,part,coffee maker,Coffeemaker,-,-,-,-,-,-
+ConceptNet,-,material,coffee maker,Coffeemaker,-,-,-,-,-,-
+ConceptNet,-,part,dental braces,Dental braces,-,-,-,-,-,-
+ConceptNet,-,material,dental braces,Dental braces,-,-,-,-,-,-
+ConceptNet,-,part,digital camera,Digital camera,-,-,-,-,-,-
+ConceptNet,-,material,digital camera,Digital camera,-,-,-,-,-,-
+ConceptNet,-,part,digital clinical thermometer,Electronic medical thermometer,-,-,-,-,-,-
+ConceptNet,-,material,digital clinical thermometer,Electronic medical thermometer,-,-,-,-,-,-
+ConceptNet,-,part,dressing gown,Dressing gown,-,-,-,-,-,-
+ConceptNet,-,material,dressing gown,Dressing gown,-,-,-,-,-,-
+ConceptNet,-,part,earphone,In-ear headphones / True wireless earbuds / canalphones ,-,-,-,-,-,-
+ConceptNet,-,material,earphone,In-ear headphones / True wireless earbuds / canalphones ,-,-,-,-,-,-
+ConceptNet,-,part,electric stove,Electric stove,-,-,-,-,-,-
+ConceptNet,-,material,electric stove,Electric stove,-,-,-,-,-,-
+ConceptNet,-,part,ferry,Ferry,-,-,-,-,-,-
+ConceptNet,-,material,ferry,Ferry,-,-,-,-,-,-
+ConceptNet,-,part,fire extinguisher,Fire extinguisher,-,-,-,-,-,-
+ConceptNet,-,material,fire extinguisher,Fire extinguisher,-,-,-,-,-,-
+ConceptNet,-,part,flashlight,Flashlight,-,-,-,-,-,-
+ConceptNet,-,material,flashlight,Flashlight,-,-,-,-,-,-
+ConceptNet,-,part,hair dryer,Hair dryer,-,-,-,-,-,-
+ConceptNet,-,material,hair dryer,Hair dryer,-,-,-,-,-,-
+ConceptNet,-,part,helmet,Helmet,-,-,-,-,-,-
+ConceptNet,-,material,helmet,Helmet,-,-,-,-,-,-
+ConceptNet,-,part,humidifier,Humidifier,-,-,-,-,-,-
+ConceptNet,-,material,humidifier,Humidifier,-,-,-,-,-,-
+ConceptNet,-,part,inhaler,Inhaler,-,-,-,-,-,-
+ConceptNet,-,material,inhaler,Inhaler,-,-,-,-,-,-
+ConceptNet,-,part,loveseat,Loveseat,-,-,-,-,-,-
+ConceptNet,-,material,loveseat,Loveseat,-,-,-,-,-,-
+ConceptNet,-,part,key,Key (instrument),-,-,-,-,-,-
+ConceptNet,-,material,key,Key (instrument),-,-,-,-,-,-
+ConceptNet,-,part,marker pen,Marker pen,-,-,-,-,-,-
+ConceptNet,-,material,marker pen,Marker pen,-,-,-,-,-,-
+ConceptNet,-,part,microwave,Microwave oven,-,-,-,-,-,-
+ConceptNet,-,material,microwave,Microwave oven,-,-,-,-,-,-
+ConceptNet,-,part,mop,Mop,-,-,-,-,-,-
+ConceptNet,-,material,mop,Mop,-,-,-,-,-,-
+ConceptNet,-,part,mortarboard,Square academic cap,-,-,-,-,-,-
+ConceptNet,-,material,mortarboard,Square academic cap,-,-,-,-,-,-
+ConceptNet,-,part,paddle,Paddle,-,-,-,-,-,-
+ConceptNet,-,material,paddle,Paddle,-,-,-,-,-,-
+ConceptNet,-,part,pencil case,Pencil case,-,-,-,-,-,-
+ConceptNet,-,material,pencil case,Pencil case,-,-,-,-,-,-
+ConceptNet,-,part,quill,Quill,-,-,-,-,-,-
+ConceptNet,-,material,quill,Quill,-,-,-,-,-,-
+ConceptNet,-,part,raincoat,Raincoat,-,-,-,-,-,-
+ConceptNet,-,material,raincoat,Raincoat,-,-,-,-,-,-
+ConceptNet,-,part,sock,Sock,-,-,-,-,-,-
+ConceptNet,-,material,sock,Sock,-,-,-,-,-,-
+ConceptNet,-,part,steel guitar,Steel guitar,-,-,-,-,-,-
+ConceptNet,-,material,steel guitar,Steel guitar,-,-,-,-,-,-
+ConceptNet,-,part,stove,Stove,-,-,-,-,-,-
+ConceptNet,-,material,stove,Stove,-,-,-,-,-,-
+ConceptNet,-,part,suitcase,Suitcase,-,-,-,-,-,-
+ConceptNet,-,material,suitcase,Suitcase,-,-,-,-,-,-
+ConceptNet,-,part,sweatpants,Sweatpants,-,-,-,-,-,-
+ConceptNet,-,material,sweatpants,Sweatpants,-,-,-,-,-,-
+ConceptNet,-,part,taxi,Taxi,-,-,-,-,-,-
+ConceptNet,-,material,taxi,Taxi,-,-,-,-,-,-
+ConceptNet,-,part,tent,Tent,-,-,-,-,-,-
+ConceptNet,-,material,tent,Tent,-,-,-,-,-,-
+ConceptNet,-,part,thimble,Thimble,-,-,-,-,-,-
+ConceptNet,-,material,thimble,Thimble,-,-,-,-,-,-
+ConceptNet,-,part,toboggan,Toboggan,-,-,-,-,-,-
+ConceptNet,-,material,toboggan,Toboggan,-,-,-,-,-,-
+ConceptNet,-,part,washing machine,Washing machine,-,-,-,-,-,-
+ConceptNet,-,material,washing machine,Washing machine,-,-,-,-,-,-
+ConceptNet,-,part,weathervane,Weather vane,-,-,-,-,-,-
+ConceptNet,-,material,weathervane,Weather vane,-,-,-,-,-,-
+ConceptNet,-,part,webcam,Webcam,-,-,-,-,-,-
+ConceptNet,-,material,webcam,Webcam,-,-,-,-,-,-

@@ -1,0 +1,1698 @@
+﻿external_dataset,our_dataset,part_material,external_entity,our_entity,our_specific_entity,external_group,our_reference_item,external_target_item,score,reason
+ParRoT,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part1,body  ,-,0,missing
+ParRoT,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part2,grate  ,cooking grate,1,exact
+ParRoT,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part3,burners  ,burner,1,exact
+ParRoT,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part4,lid  ,-,0,missing
+ParRoT,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part5,knobs  ,control knobs,1,exact
+ParRoT,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part6,starter  ,ignitor,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part1,Grill Body  ,-,0,missing
+ParRoT,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part1,Side Shelves  ,-,0,missing
+ParRoT,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part2,Burners  ,burner,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part3,Cooking Grates  ,cooking grate,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part4,Ignition System  ,ignitor,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part5,Control Knobs  ,control knobs,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part6,Thermometer  ,temperature gauge,1,specific
+ParRoT,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part7,Drip Tray  ,grease tray,1,exact
+ParRoT,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part8,Lid  ,-,0,missing
+ParRoT,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part9,Wheels  ,-,0,missing
+ParRoT,Few,part,binoculars,Binoculars,Porro prism binoculars,binoculars_part1,body  ,frame,1,exact
+ParRoT,Few,part,binoculars,Binoculars,Porro prism binoculars,binoculars_part2,objective lenses  ,objective lens,1,exact
+ParRoT,Few,part,binoculars,Binoculars,Porro prism binoculars,binoculars_part3,eyepiece lenses  ,ocular lens,1,exact
+ParRoT,Few,part,binoculars,Binoculars,Porro prism binoculars,binoculars_part4,Porro prisms,-,0,missing
+ParRoT,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part1,Body  ,frame,1,exact
+ParRoT,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part2,Objective Lenses  ,objective lens,1,exact
+ParRoT,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part3,Eyepiece Lenses  ,ocular lens,1,exact
+ParRoT,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part4,Eyecups  ,adjustable eye cup,1,exact
+ParRoT,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part4,Diopter Adjustment  ,diopter,1,exact
+ParRoT,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part5,Focus Wheel  ,focus,1,exact
+ParRoT,Zero,part,binoculars,Binoculars,Porro prism binoculars,binoculars_part6,Porro Prisms,-,0,missing
+ParRoT,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part7,Neck Strap  ,-,0,missing
+ParRoT,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part8,Lens Caps  ,-,0,missing
+ParRoT,Few,part,bird cage,Birdcage,Travel cage,bird cage_part1,base  ,base,1,exact
+ParRoT,Few,part,bird cage,Birdcage,Travel cage,bird cage_part2,vertical bars  ,rods,0.5,partial
+ParRoT,Few,part,bird cage,Birdcage,Travel cage,bird cage_part2,horizontal bars  ,rods,0.5,partial
+ParRoT,Few,part,bird cage,Birdcage,Travel cage,bird cage_part3,door  ,door,1,exact
+ParRoT,Few,part,bird cage,Birdcage,Travel cage,bird cage_part4,perch  ,rods,0.5,partial
+ParRoT,Few,part,bird cage,Birdcage,Travel cage,bird cage_part5,handle  ,carry handles,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part1,Cage Grill/Base  ,base,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part2,Vertical Bars/Wires  ,rods,0.5,partial
+ParRoT,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part2,Horizontal Bars/Wires  ,rods,0.5,partial
+ParRoT,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part3,Dome Top,top,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part4,Door,door,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part4,Latch or Lock,door,0.5,partial
+ParRoT,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part5,Perch  ,rods,0.5,partial
+ParRoT,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part6,Feeding Bowl,food tray,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part7,Drinking Bowl,-,0,missing
+ParRoT,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part8,Tray,metal tray,1,exact
+ParRoT,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part9,Seed Guard  ,-,0,missing
+ParRoT,Few,part,chair,Chair,Chair,chair_part1,legs,legs,1,exact
+ParRoT,Few,part,chair,Chair,Chair,chair_part2,seat,seat,1,exact
+ParRoT,Few,part,chair,Chair,Chair,chair_part3,backrest,back,1,exact
+ParRoT,Few,part,chair,Chair,Chair,chair_part4,armrests,-,0,missing
+ParRoT,Zero,part,chair,Chair,Club Armchair,chair_part1,Seat  ,seat,1,exact
+ParRoT,Zero,part,chair,Chair,Club Armchair,chair_part2,Backrest  ,back,1,exact
+ParRoT,Zero,part,chair,Chair,Club Armchair,chair_part3,Armrests  ,-,0,missing
+ParRoT,Zero,part,chair,Chair,Club Armchair,chair_part4,Legs  ,legs,1,exact
+ParRoT,Zero,part,chair,Chair,Club Armchair,chair_part5,Frame  ,apron / cross rail,0.5,partial
+ParRoT,Few,part,coffee maker,Coffeemaker,Drip coffeemaker,coffee maker_part1,water reservoir  ,reservoir,1,exact
+ParRoT,Few,part,coffee maker,Coffeemaker,Drip coffeemaker,coffee maker_part2,filter basket  ,filter basket,1,exact
+ParRoT,Few,part,coffee maker,Coffeemaker,Drip coffeemaker,coffee maker_part3,heating element  ,-,0,missing
+ParRoT,Few,part,coffee maker,Coffeemaker,Drip coffeemaker,coffee maker_part4,carafe  ,carafe,1,exact
+ParRoT,Few,part,coffee maker,Coffeemaker,Drip coffeemaker,coffee maker_part5,hot plate  ,warming plate,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part1,Water reservoir  ,reservoir,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part2,Heating element  ,-,0,missing
+ParRoT,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part3,Drip area  ,-,0,missing
+ParRoT,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part4,Filter basket  ,filter basket,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part4,Coffee filter  ,filter,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part5,Carafe or pot  ,carafe,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part6,Warming plate  ,warming plate,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part7,On/off switch  ,switch,1,exact
+ParRoT,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part8,Power cord  ,-,0,missing
+ParRoT,Few,part,digital camera,Digital camera,Digital camera,digital camera_part1,body  ,-,0,missing
+ParRoT,Few,part,digital camera,Digital camera,Digital camera,digital camera_part2,lens  ,lens,1,exact
+ParRoT,Few,part,digital camera,Digital camera,Digital camera,digital camera_part3,image sensor  ,-,0,missing
+ParRoT,Few,part,digital camera,Digital camera,Digital camera,digital camera_part4,screen  ,display,1,exact
+ParRoT,Few,part,digital camera,Digital camera,Digital camera,digital camera_part5,viewfinder  ,-,0,missing
+ParRoT,Few,part,digital camera,Digital camera,Digital camera,digital camera_part6,controls  ,main dial / mode dial / focus switch mode / lens release / flash button / shutter button,1,exact
+ParRoT,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part1,Camera Body  ,-,0,missing
+ParRoT,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part1,Memory Card Slot  ,-,0,missing
+ParRoT,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part1,Battery Compartment  ,-,0,missing
+ParRoT,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part1,Tripod Mount  ,-,0,missing
+ParRoT,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part2,Image Sensor  ,-,0,missing
+ParRoT,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part3,Electronic Viewfinder  ,-,0,missing
+ParRoT,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part4,LCD Screen  ,display,1,exact
+ParRoT,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part5,Control Dials and Buttons  ,main dial / mode dial / focus switch mode / lens release / flash button / shutter button,1,exact
+ParRoT,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part6,Electronic Contacts  ,-,0,missing
+ParRoT,Few,part,digital clinical thermometer,Electronic medical thermometer,Electronic medical thermometer,digital clinical thermometer_part1,display,display window,1,exact
+ParRoT,Few,part,digital clinical thermometer,Electronic medical thermometer,Electronic medical thermometer,digital clinical thermometer_part2,sensor,sensor,1,exact
+ParRoT,Few,part,digital clinical thermometer,Electronic medical thermometer,Electronic medical thermometer,digital clinical thermometer_part3,casing,body,1,exact
+ParRoT,Few,part,digital clinical thermometer,Electronic medical thermometer,Electronic medical thermometer,digital clinical thermometer_part4,battery,-,0,missing
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part1,Display screen  ,display window,1,exact
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part2,Flexible tip  ,sensor,1,exact
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part3,Power button  ,on/off button,1,exact
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part4,Battery compartment  ,battery cover,1,exact
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part4,Outer casing  ,body,1,exact
+ParRoT,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part5,Speaker or beeper  ,-,0,missing
+ParRoT,Few,part,earphone,Headphones,In-ear headphones,earphone_part1,earbud tips,sleeves/covers,1,exact
+ParRoT,Few,part,earphone,Headphones,In-ear headphones,earphone_part2,drivers,drivers,1,exact
+ParRoT,Few,part,earphone,Headphones,In-ear headphones,earphone_part3,cable,cable,1,exact
+ParRoT,Few,part,earphone,Headphones,In-ear headphones,earphone_part4,audio connector,plug,1,exact
+ParRoT,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part1,Earbud Housing  ,housing,1,exact
+ParRoT,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part2,Speaker Driver  ,drivers,1,exact
+ParRoT,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part3,Ear Tips  ,sleeves/covers,1,exact
+ParRoT,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part4,Cable  ,cable,1,exact
+ParRoT,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part4,Strain Reliefs  ,-,0,missing
+ParRoT,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part4,In-line Remote  ,-,0,missing
+ParRoT,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part5,Plug  ,plug,1,exact
+ParRoT,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part6,Microphone  ,-,0,missing
+ParRoT,Few,part,electric stove,Electric stove,Electric coil stove,electric stove_part1,cooktop,cooktop,1,exact
+ParRoT,Few,part,electric stove,Electric stove,Electric coil stove,electric stove_part2,control knob,control knob,1,exact
+ParRoT,Few,part,electric stove,Electric stove,Electric coil stove,electric stove_part3,heating elements,surface element,1,exact
+ParRoT,Few,part,electric stove,Electric stove,Electric coil stove,electric stove_part4,drip pans,-,0,missing
+ParRoT,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part1,Control Panel  ,control panel,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part2,Cooktop Surface  ,cooktop,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part3,Induction Coils  ,surface element,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part4,Oven  ,oven,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part5,Oven Rack  ,rack,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part6,Oven Door  ,oven,0.5,partial
+ParRoT,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part7,Storage Drawer  ,drawer,1,exact
+ParRoT,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part8,Power Cord  ,-,0,missing
+ParRoT,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part9,Leveling Legs,-,0,missing
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,Cartridge operated fire extinguisher,fire extinguisher_part1,cylinder  ,cylindrical tank,1,exact
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,Cartridge operated fire extinguisher,fire extinguisher_part2,valve  ,valve assembly,1,exact
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,Cartridge operated fire extinguisher,fire extinguisher_part3,hose or nozzle  ,hose,1,exact
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,Cartridge operated fire extinguisher,fire extinguisher_part4,pressure cartridge  ,propellant,1,exact
+ParRoT,Few,part,fire extinguisher,Fire extinguisher,Cartridge operated fire extinguisher,fire extinguisher_part4,extinguishing agent tank  ,extinguishing agent,1,container
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part1,Cylinder  ,cylindrical tank,1,exact
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part1,Base,cylindrical tank,0.5,partial
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part2,Siphon tube  ,-,0,missing
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part3,Handle and lever  ,handle / release lever,1,exact
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part4,Discharge nozzle  ,hose,0.5,partial
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part5,Pressure gauge  ,-,0,missing
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part6,Valve assembly  ,valve assembly,1,exact
+ParRoT,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part6,Safety pin  ,pull pin,1,exact
+ParRoT,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part1,body  ,case,1,exact
+ParRoT,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part2,reflector  ,reflector,1,exact
+ParRoT,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part3,lens,protective glass,1,exact
+ParRoT,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part4,LED or lamp  ,bulb,1,exact
+ParRoT,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part5,built-in rechargeable battery  ,batteries,1,exact
+ParRoT,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part6,switch,switch,1,exact
+ParRoT,Zero,part,flashlight,Flashlight,Incandescent Bulb Handheld Flashlight,flashlight_part1,Body  ,case,1,exact
+ParRoT,Zero,part,flashlight,Flashlight,Incandescent Bulb Handheld Flashlight,flashlight_part2,Reflector  ,reflector,1,exact
+ParRoT,Zero,part,flashlight,Flashlight,Incandescent Bulb Handheld Flashlight,flashlight_part3,Lens  ,protective glass,1,exact
+ParRoT,Zero,part,flashlight,Flashlight,Incandescent Bulb Handheld Flashlight,flashlight_part4,Switch  ,switch,1,exact
+ParRoT,Zero,part,flashlight,Flashlight,Incandescent Bulb Handheld Flashlight,flashlight_part5,Light Bulb  ,bulb,1,exact
+ParRoT,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part1,body  ,barrel / fan housing / air-inlet grill / handle,1,exact
+ParRoT,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part2,motor  ,-,0,missing
+ParRoT,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part3,fan blade  ,fan blades,1,exact
+ParRoT,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part4,heating element  ,heating coils,1,exact
+ParRoT,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part5,nozzle  ,-,0,missing
+ParRoT,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part6,cord  ,power cord,1,exact
+ParRoT,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part7,switch  ,speed selector switch / heat selector switch,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part1,Body Casing  ,barrel / fan housing / air-inlet grill / handle,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part2,Airflow Vents  ,air-outlet grille,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part3,Motor  ,-,0,missing
+ParRoT,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part4,Fan  ,fan blades,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part5,Heating Element  ,heating coils,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part6,On/Off Switch  ,power switch,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part6,Heat/Speed Settings  ,heat selector switch / speed selector switch,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part7,Power Cord  ,power cord,1,exact
+ParRoT,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part8,Nozzle  ,-,0,missing
+ParRoT,Few,part,humidifier,Humidifier,Ultrasonic humidifier,humidifier_part1,water tank,water tank,1,exact
+ParRoT,Few,part,humidifier,Humidifier,Ultrasonic humidifier,humidifier_part2,vibrating diaphragm,nebulizer,1,exact
+ParRoT,Few,part,humidifier,Humidifier,Ultrasonic humidifier,humidifier_part3,mist outlet,nozzle,0.5,partial
+ParRoT,Few,part,humidifier,Humidifier,Ultrasonic humidifier,humidifier_part4,Control Panel  ,-,0,missing
+ParRoT,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part1,Water tank  ,water tank,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part2,Ultrasonic vibrating plate  ,nebulizer,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part3,Mist nozzle  ,nozzle,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part4,Water basin  ,resevoir,1,exact
+ParRoT,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part5,Control panel  ,-,0,missing
+ParRoT,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part5,LED light  ,-,0,missing
+ParRoT,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part6,Power cord  ,-,0,missing
+ParRoT,Few,part,kite,Kite,Diamond kite,kite_part1,cross frame,spine / cross spar,1,exact
+ParRoT,Few,part,kite,Kite,Diamond kite,kite_part2,bridle,bridle,1,exact
+ParRoT,Few,part,kite,Kite,Diamond kite,kite_part3,cover,kite sail,1,exact
+ParRoT,Few,part,kite,Kite,Diamond kite,kite_part4,tethering line,kite line,1,exact
+ParRoT,Zero,part,kite,Kite,Diamond kite,kite_part1,Frame Spars  ,spine / cross spar,1,exact
+ParRoT,Zero,part,kite,Kite,Diamond kite,kite_part2,Sail  ,kite sail,1,exact
+ParRoT,Zero,part,kite,Kite,Diamond kite,kite_part3,Bridle  ,bridle,1,exact
+ParRoT,Zero,part,kite,Kite,Diamond kite,kite_part4,Tails  ,tail,1,exact
+ParRoT,Zero,part,kite,Kite,Diamond kite,kite_part5,Flying Line  ,kite line,1,exact
+ParRoT,Zero,part,kite,Kite,Diamond kite,kite_part6,Reel  ,kite spool,1,exact
+ParRoT,Few,part,microwave,Microwave oven,Microwave oven,microwave_part1,cabinet  ,-,0,missing
+ParRoT,Few,part,microwave,Microwave oven,Microwave oven,microwave_part2,door  ,door,1,exact
+ParRoT,Few,part,microwave,Microwave oven,Microwave oven,microwave_part3,control panel  ,-,0,missing
+ParRoT,Few,part,microwave,Microwave oven,Microwave oven,microwave_part4,microwave generator  ,magnetron,1,exact
+ParRoT,Few,part,microwave,Microwave oven,Microwave oven,microwave_part4,waveguide  ,waveguide,1,exact
+ParRoT,Few,part,microwave,Microwave oven,Microwave oven,microwave_part5,cooking chamber  ,cooking cavity,1,exact
+ParRoT,Few,part,microwave,Microwave oven,Microwave oven,microwave_part6,light  ,-,0,missing
+ParRoT,Few,part,microwave,Microwave oven,Microwave oven,microwave_part7,power supply  ,power,1,exact
+ParRoT,Few,part,microwave,Microwave oven,Microwave oven,microwave_part8,turntable  ,turntable,1,exact
+ParRoT,Few,part,microwave,Microwave oven,Microwave oven,microwave_part8,turntable motor  ,-,0,missing
+ParRoT,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part1,Door  ,door,1,exact
+ParRoT,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part2,Control panel  ,-,0,missing
+ParRoT,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part3,Turntable  ,turntable,1,exact
+ParRoT,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part3,Glass tray  ,-,0,missing
+ParRoT,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part4,Cooking cavity  ,cooking cavity,1,exact
+ParRoT,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part5,Power cord  ,power,1,exact
+ParRoT,Few,part,pencil,Pencil,Wood-cased pencil,pencil_part1,wood casing,wood,1,exact
+ParRoT,Few,part,pencil,Pencil,Wood-cased pencil,pencil_part2,graphite core,lead,1,exact
+ParRoT,Few,part,pencil,Pencil,Wood-cased pencil,pencil_part3,easer,eraser,1,exact
+ParRoT,Zero,part,pencil,Pencil,Graphite pencil,pencil_part1,Core,lead,1,exact
+ParRoT,Zero,part,pencil,Pencil,Graphite pencil,pencil_part2,Wood casing,wood,1,exact
+ParRoT,Zero,part,pencil,Pencil,Graphite pencil,pencil_part3,Ferrule,ferrule,1,exact
+ParRoT,Zero,part,pencil,Pencil,Graphite pencil,pencil_part4,Eraser,eraser,1,exact
+ParRoT,Few,-,rice cooker,-,-,-,-,-,-,-
+ParRoT,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part1,Main body  ,outer pot,1,exact
+ParRoT,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part2,Inner pot  ,inner pot,1,exact
+ParRoT,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part3,Lid  ,lid,1,exact
+ParRoT,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part4,Heating element  ,heating element,1,exact
+ParRoT,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part4,Thermal sensor  ,-,0,missing
+ParRoT,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part5,Power cord  ,power cord,1,exact
+ParRoT,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part6,Control panel  ,power switch,0.5,partial
+ParRoT,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part7,Steam vent  ,-,0,missing
+ParRoT,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part8,Steaming tray  ,steam rack,1,exact
+ParRoT,Few,part,suitcase,Suitcase,Suitcase,suitcase_part1,body,front shell / back shell,0.5,partial
+ParRoT,Few,part,suitcase,Suitcase,Suitcase,suitcase_part2,handle,trolley handle / top handle / side carry handle,1,exact
+ParRoT,Few,part,suitcase,Suitcase,Suitcase,suitcase_part3,wheels  ,wheel,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part1,Shell  ,shell,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part2,Zipper  ,zipper,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part2,Expansion zipper  ,zipper,0.5,partial
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part3,Telescoping handle  ,trolley handle,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part4,Top and side handles  ,top handle / side carry handle,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part5,Wheels  ,wheel,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part5,Wheel housing  ,wheel fork,1,exact
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part6,Lining  ,-,0,missing
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part6,Compression straps  ,-,0,missing
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part7,Front pockets  ,-,0,missing
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part7,ID tag holder  ,-,0,missing
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part8,Side feet,-,0,missing
+ParRoT,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part9,Lock  ,zipper lock,1,specific
+ParRoT,Few,part,tent,Tent,Tent,tent_part1,poles,poles,1,exact
+ParRoT,Few,part,tent,Tent,Tent,tent_part2,fabric cover,waterproof flysheet,1,specific
+ParRoT,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part1,Tent fabric  ,inner tent / waterproof flysheet,0.5,partial
+ParRoT,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part1,Tent floor  ,inner tent,0.5,partial
+ParRoT,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part2,Rain fly  ,waterproof flysheet,1,exact
+ParRoT,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part3,Poles  ,poles,1,exact
+ParRoT,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part4,Zippers  ,-,0,missing
+ParRoT,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part5,Mesh panels  ,insect proof mesh door,0.5,partial
+ParRoT,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part6,Storage pockets  ,-,0,missing
+ParRoT,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part7,Loops or hooks  ,peg loops,1,exact
+ParRoT,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part1,body  ,frame,1,exact
+ParRoT,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part2,top lid  ,lid,1,exact
+ParRoT,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part3,wash drum  ,drum,1,exact
+ParRoT,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part4,agitator  ,agitator,1,exact
+ParRoT,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part5,control panel  ,controls,1,exact
+ParRoT,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part6,water inlet valve  ,water inlet waves,1,exact
+ParRoT,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part7,drain pump  ,water pump,0.5,partial
+ParRoT,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part8,motor  ,motor,1,exact
+ParRoT,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part8,water level sensor  ,-,0,missing
+ParRoT,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part1,Drum  ,drum,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part2,Control panel  ,controls,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part3,Detergent drawer  ,-,0,missing
+ParRoT,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part4,Water inlet valve  ,water inlet waves,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part5,Drain pump  ,water pump,0.5,partial
+ParRoT,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part5,Hoses  ,drain hose,0.5,partial
+ParRoT,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part6,Door  ,lid,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part6,Gasket,lid,0.5,partial
+ParRoT,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part7,Motor  ,motor,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part8,Power cable  ,power supply,1,exact
+ParRoT,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part9,Leveling feet  ,leveling feet,1,exact
+CSLB,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part1,wings,wings,1,exact
+CSLB,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part2,cockpit,cockpit,1,exact
+CSLB,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part3,landing gear,wheels,0.5,partial
+CSLB,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part4,engines,engine,1,exact
+CSLB,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part5,fuselage,nose,0.5,partial
+CSLB,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part6,tail,tail,1,exact
+CSLB,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part7,cabin,seats,0.5,partial
+CSLB,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part1,Wings,wings,1,exact
+CSLB,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part2,Cockpit,cockpit,1,exact
+CSLB,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part3,Landing gear,wheels,0.5,partial
+CSLB,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part4,Engines,engine,1,exact
+CSLB,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part5,Fuselage,nose,0.5,partial
+CSLB,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part6,Propeller,propeller,1,exact
+CSLB,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part7,Windows,windows,1,exact
+CSLB,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part8,Control surfaces,wings / tail,0.5,partial
+CSLB,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part8,Empennage,tail,0.5,partial
+CSLB,Few,part,bell,Bell,Handbell,bell_part1,dome,-,0,missing
+CSLB,Few,part,bell,Bell,Handbell,bell_part2,clapper,clapper,1,exact
+CSLB,Few,part,bell,Bell,Handbell,bell_part3,handle,handle,1,exact
+CSLB,Zero,part,bell,Bell,English Handbell,bell_part1,Bell Casting  ,-,0,missing
+CSLB,Zero,part,bell,Bell,English Handbell,bell_part2,Clapper  ,clapper,1,exact
+CSLB,Zero,part,bell,Bell,English Handbell,bell_part2,Clapper Head  ,clapper,0.5,partial
+CSLB,Zero,part,bell,Bell,English Handbell,bell_part2,Clapper Shaft  ,clapper,0.5,partial
+CSLB,Zero,part,bell,Bell,English Handbell,bell_part3,Handle  ,handle,1,exact
+CSLB,Few,part,boots,Boot,Work boots,boots_part1,sole  ,sole,1,exact
+CSLB,Few,part,boots,Boot,Work boots,boots_part2,heel  ,heel,1,exact
+CSLB,Few,part,boots,Boot,Work boots,boots_part3,insole  ,-,0,missing
+CSLB,Few,part,boots,Boot,Work boots,boots_part4,vamp  ,toes,0.5,partial
+CSLB,Few,part,boots,Boot,Work boots,boots_part4,toe cap,toes,0.5,partial
+CSLB,Few,part,boots,Boot,Work boots,boots_part5,quarter  ,-,0,missing
+CSLB,Few,part,boots,Boot,Work boots,boots_part6,lining  ,-,0,missing
+CSLB,Few,part,boots,Boot,Work boots,boots_part7,laces  ,laces,1,exact
+CSLB,Few,part,boots,Boot,Work boots,boots_part8,tongue  ,tongue,1,exact
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part1,Upper  ,-,0,missing
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part1,Padded Collar  ,-,0,missing
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part2,Laces  ,laces,1,exact
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part3,Eyelets,-,0,missing
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part4,Tongue  ,tongue,1,exact
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part5,Sole  ,sole,1,exact
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part6,Heel  ,heel,1,exact
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part7,Toe Cap  ,toes,0.5,partial
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part8,Insole  ,-,0,missing
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part9,Lining  ,-,0,missing
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part10,Pull Tab  ,-,0,missing
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part11,Zipper  ,zip,1,exact
+CSLB,Zero,part,boots,Boot,Lace-Up Ankle Boot,boots_part12,Outsole  ,sole,0,missing
+CSLB,Few,part,bucket,Bucket,Bucket,bucket_part1,walls,sides,1,exact
+CSLB,Few,part,bucket,Bucket,Bucket,bucket_part2,bottom,base,1,exact
+CSLB,Few,part,bucket,Bucket,Bucket,bucket_part3,handle,handle,1,exact
+CSLB,Zero,part,bucket,Bucket,Multi-Purpose Bucket,bucket_part1,Bucket Body  ,sides / base,1,exact
+CSLB,Zero,part,bucket,Bucket,Multi-Purpose Bucket,bucket_part2,Handle  ,handle,1,exact
+CSLB,Zero,part,bucket,Bucket,Multi-Purpose Bucket,bucket_part3,Base  ,base,1,exact
+CSLB,Zero,part,bucket,Bucket,Multi-Purpose Bucket,bucket_part4,Rim  ,rim,1,exact
+CSLB,Zero,part,bucket,Bucket,Multi-Purpose Bucket,bucket_part4,Spout  ,lip,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part1,frame  ,-,0,missing
+CSLB,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part2,wheels  ,wheels,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part3,body  ,-,0,missing
+CSLB,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part4,windows,windows,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part5,door,door,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part6,hitch  ,towbar,1,exact
+CSLB,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part7,kitchen galley  ,kitchen,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part1,Body,-,0,missing
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part1,Roof Vent  ,-,0,missing
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part2,Frame  ,-,0,missing
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part3,Wheels  ,wheels,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part3,Axle,-,0,missing
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part4,Hitch  ,towbar,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part5,Tail Lights,-,0,missing
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part6,Door  ,door,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part7,Windows  ,windows,1,exact
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part8,Sleeping Area  ,bed,0.5,partial
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part9,Storage Compartments  ,-,0,missing
+CSLB,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part10,Kitchen Area  ,kitchen,1,exact
+CSLB,Few,-,castenets,-,-,-,-,-,-,-
+CSLB,Zero,part,castenets,Castanets,Castanets (Percussion instrument),castenets_part1,Shell  ,two halves,1,exact
+CSLB,Zero,part,castenets,Castanets,Castanets (Percussion instrument),castenets_part2,Loop or String,string,1,exact
+CSLB,Few,part,dressing_gown,Dressing gown,Dressing gown,dressing_gown_part1,body,-,0,missing
+CSLB,Few,part,dressing_gown,Dressing gown,Dressing gown,dressing_gown_part2,sleeves,sleeves,1,exact
+CSLB,Few,part,dressing_gown,Dressing gown,Dressing gown,dressing_gown_part3,collar,-,0,missing
+CSLB,Few,part,dressing_gown,Dressing gown,Dressing gown,dressing_gown_part4,belt,belt,1,exact
+CSLB,Zero,part,dressing_gown,Dressing gown,Hooded dressing gown,dressing_gown_part1,Body,-,0,missing
+CSLB,Zero,part,dressing_gown,Dressing gown,Hooded dressing gown,dressing_gown_part2,Sleeves,sleeves,1,exact
+CSLB,Zero,part,dressing_gown,Dressing gown,Hooded dressing gown,dressing_gown_part3,Hood,hood,1,exact
+CSLB,Zero,part,dressing_gown,Dressing gown,Hooded dressing gown,dressing_gown_part4,Belt,belt,1,exact
+CSLB,Zero,part,dressing_gown,Dressing gown,Hooded dressing gown,dressing_gown_part5,Pockets,pockets,1,exact
+CSLB,Zero,part,dressing_gown,Dressing gown,Hooded dressing gown,dressing_gown_part6,Trim,-,0,missing
+CSLB,Few,part,ferry,Ferry,Foot ferry,ferry_part1,hull  ,hull,1,exact
+CSLB,Few,part,ferry,Ferry,Foot ferry,ferry_part2,engine  ,engine,1,exact
+CSLB,Few,part,ferry,Ferry,Foot ferry,ferry_part3,rudder  ,-,0,missing
+CSLB,Few,part,ferry,Ferry,Foot ferry,ferry_part4,deck  ,deck,1,exact
+CSLB,Few,part,ferry,Ferry,Foot ferry,ferry_part5,seats or benches  ,seats,1,exact
+CSLB,Few,part,ferry,Ferry,Foot ferry,ferry_part6,passenger amenities  ,cabins,0,partial
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part1,Hull  ,hull,1,exact
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part2,Deck  ,deck,1,exact
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part2,Safety rails,-,0,missing
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part3,Rudder  ,-,0,missing
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part3,Propellers  ,propeller,1,exact
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part4,Bridge  ,-,0,missing
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part5,Passenger seats  ,seats,1,exact
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part6,Life jackets  ,-,0,missing
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part7,Windows  ,windows,1,exact
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part8,Doors  ,door,1,exact
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part8,Emergency exits  ,-,0,missing
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part9,Anchor  ,anchor,1,exact
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part11,Restrooms  ,-,0,missing
+CSLB,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part12,Boarding ramps  ,-,0,missing
+CSLB,Few,part,harp,Harp,Pedal harp,harp_part1,body  ,-,0,missing
+CSLB,Few,part,harp,Harp,Pedal harp,harp_part1,soundboard  ,-,0,missing
+CSLB,Few,part,harp,Harp,Pedal harp,harp_part2,strings  ,strings,1,exact
+CSLB,Few,part,harp,Harp,Pedal harp,harp_part3,base  ,frame,0.5,partial
+CSLB,Few,part,harp,Harp,Pedal harp,harp_part4,neck  ,frame,0.5,partial
+CSLB,Few,part,harp,Harp,Pedal harp,harp_part5,pedals  ,pedals,1,exact
+CSLB,Few,part,harp,Harp,Pedal harp,harp_part6,column  ,frame,0.5,partial
+CSLB,Zero,part,harp,Harp,Pedal Harp,harp_part1,Soundboard  ,-,0,missing
+CSLB,Zero,part,harp,Harp,Pedal Harp,harp_part2,Strings  ,strings,1,exact
+CSLB,Zero,part,harp,Harp,Pedal Harp,harp_part3,Base  ,frame,0.5,partial
+CSLB,Zero,part,harp,Harp,Pedal Harp,harp_part4,Pillar  ,frame,0.5,partial
+CSLB,Zero,part,harp,Harp,Pedal Harp,harp_part4,Crown  ,-,0,missing
+CSLB,Zero,part,harp,Harp,Pedal Harp,harp_part5,Neck  ,frame,0.5,partial
+CSLB,Zero,part,harp,Harp,Pedal Harp,harp_part5,Tuning pins  ,-,0,missing
+CSLB,Zero,part,harp,Harp,Pedal Harp,harp_part6,pedals  ,pedals,1,exact
+CSLB,Few,part,helmet,Helmet,Motorcycle helmet,helmet_part1,shell  ,shell,1,exact
+CSLB,Few,part,helmet,Helmet,Motorcycle helmet,helmet_part2,comfort padding  ,-,0,missing
+CSLB,Few,part,helmet,Helmet,Motorcycle helmet,helmet_part2,impact-absorbing liner  ,-,0,missing
+CSLB,Few,part,helmet,Helmet,Motorcycle helmet,helmet_part3,chin strap  ,chin strap,1,exact
+CSLB,Few,part,helmet,Helmet,Motorcycle helmet,helmet_part4,visor  ,visor,1,exact
+CSLB,Zero,part,helmet,Helmet,Full-Face Helmet,helmet_part1,Shell  ,shell,1,exact
+CSLB,Zero,part,helmet,Helmet,Full-Face Helmet,helmet_part2,Liner  ,-,0,missing
+CSLB,Zero,part,helmet,Helmet,Full-Face Helmet,helmet_part2,Cheek pads  ,-,0,missing
+CSLB,Zero,part,helmet,Helmet,Full-Face Helmet,helmet_part3,Visor  ,visor,1,exact
+CSLB,Zero,part,helmet,Helmet,Full-Face Helmet,helmet_part4,Chin strap  ,chin strap,1,exact
+CSLB,Few,part,jacket,Jacket,Windbreaker,jacket_part1,hood  ,hood,1,exact
+CSLB,Few,part,jacket,Jacket,Windbreaker,jacket_part2,sleeves  ,sleeves,1,exact
+CSLB,Few,part,jacket,Jacket,Windbreaker,jacket_part3,cuffs  ,sleeves,0.5,partial
+CSLB,Few,part,jacket,Jacket,Windbreaker,jacket_part4,waistband  ,-,0,missing
+CSLB,Few,part,jacket,Jacket,Windbreaker,jacket_part5,body  ,-,0,missing
+CSLB,Few,part,jacket,Jacket,Windbreaker,jacket_part6,zipper  ,zipper,1,exact
+CSLB,Few,part,jacket,Jacket,Windbreaker,jacket_part7,pockets  ,pockets,1,exact
+CSLB,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part1,Hood  ,hood,1,exact
+CSLB,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part2,Collar  ,collar,1,exact
+CSLB,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part3,Sleeves  ,sleeves,1,exact
+CSLB,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part4,Cuffs  ,sleeves,0.5,partial
+CSLB,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part5,Body  ,-,0,missing
+CSLB,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part6,Liner  ,-,0,missing
+CSLB,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part7,Buttons  ,buttons,1,exact
+CSLB,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part8,Pockets  ,pockets,1,exact
+CSLB,Few,part,key,Key (instrument),Key (instrument),key_part1,blade  ,teeth / notches,0.5,partial
+CSLB,Few,part,key,Key (instrument),Key (instrument),key_part2,tip  ,point,1,exact
+CSLB,Few,part,key,Key (instrument),Key (instrument),key_part3,bow  ,handle,1,exact
+CSLB,Few,part,key,Key (instrument),Key (instrument),key_part4,shoulder  ,-,0,missing
+CSLB,Zero,part,key,Key (instrument),Key (instrument),key_part1,Bow  ,handle,1,exact
+CSLB,Zero,part,key,Key (instrument),Key (instrument),key_part2,Shaft  ,-,0,missing
+CSLB,Zero,part,key,Key (instrument),Key (instrument),key_part2,Bit  ,teeth,0.5,partial
+CSLB,Zero,part,key,Key (instrument),Key (instrument),key_part2,Ward notches  ,notches,1,exact
+CSLB,Zero,part,key,Key (instrument),Key (instrument),key_part3,Tip  ,point,1,exact
+CSLB,Few,part,mop,Mop,String mop,mop_part1,handle,handle,1,exact
+CSLB,Few,part,mop,Mop,String mop,mop_part2,mop head,head,1,exact
+CSLB,Few,part,mop,Mop,String mop,mop_part3,strings,tassels,1,exact
+CSLB,Zero,part,mop,Mop,Cut-end string mop,mop_part1,Mop Head  ,head,1,exact
+CSLB,Zero,part,mop,Mop,Cut-end string mop,mop_part2,Mop Strings  ,tassels,1,exact
+CSLB,Zero,part,mop,Mop,Cut-end string mop,mop_part3,Handle  ,handle,1,exact
+CSLB,Zero,part,mop,Mop,Cut-end string mop,mop_part3,Mop End Cap  ,handle,0.5,partial
+CSLB,Zero,part,mop,Mop,Cut-end string mop,mop_part4,Connector  ,-,0,missing
+CSLB,Few,part,saw,Saw,Hand saw,saw_part1,blade,blade,1,exact
+CSLB,Few,part,saw,Saw,Hand saw,saw_part2,handle,handle,1,exact
+CSLB,Zero,part,saw,Saw,Crosscut hand saw,saw_part1,Blade,blade,1,exact
+CSLB,Zero,part,saw,Saw,Crosscut hand saw,saw_part1,Teeth,teeth,1,exact
+CSLB,Zero,part,saw,Saw,Crosscut hand saw,saw_part2,Handle,handle,1,exact
+CSLB,Zero,part,saw,Saw,Crosscut hand saw,saw_part3,Back,-,0,missing
+CSLB,Few,part,scissors,Scissors,General-purpose scissors,scissors_part1,handle,handle,1,exact
+CSLB,Few,part,scissors,Scissors,General-purpose scissors,scissors_part2,blades,blades,1,exact
+CSLB,Zero,part,scissors,Scissors,Tailor's Shears,scissors_part1,Blades,blades,1,exact
+CSLB,Zero,part,scissors,Scissors,Tailor's Shears,scissors_part2,Handle,handle,1,exact
+CSLB,Zero,part,scissors,Scissors,Tailor's Shears,scissors_part2,Finger Rings,fingerholes,1,exact
+CSLB,Few,part,sock,Sock,Sock,sock_part1,leg,-,0,missing
+CSLB,Few,part,sock,Sock,Sock,sock_part2,foot,-,0,missing
+CSLB,Few,part,sock,Sock,Sock,sock_part3,toe,toes,1,exact
+CSLB,Few,part,sock,Sock,Sock,sock_part4,heel,heel,1,exact
+CSLB,Zero,part,sock,Sock,Sock,sock_part1,Cuff,-,0,missing
+CSLB,Zero,part,sock,Sock,Sock,sock_part2,Leg,-,0,missing
+CSLB,Zero,part,sock,Sock,Sock,sock_part3,Heel,heel,1,exact
+CSLB,Zero,part,sock,Sock,Sock,sock_part4,Sole  ,-,0,missing
+CSLB,Zero,part,sock,Sock,Sock,sock_part4,Arch support,-,0,missing
+CSLB,Zero,part,sock,Sock,Sock,sock_part5,Toe,toes,1,exact
+CSLB,Few,part,stove,Stove,Gas stove,stove_part1,burners,heating plates,1,exact
+CSLB,Few,part,stove,Stove,Gas stove,stove_part2,stove tops,hob,1,exact
+CSLB,Few,part,stove,Stove,Gas stove,stove_part3,control knobs,dial,1,exact
+CSLB,Few,part,stove,Stove,Gas stove,stove_part4,oven,-,0,missing
+CSLB,Few,part,stove,Stove,Gas stove,stove_part5,broiler,-,0,missing
+CSLB,Zero,part,stove,Stove,Slide-in gas range,stove_part1,Cooktop surface,hob,1,exact
+CSLB,Zero,part,stove,Stove,Slide-in gas range,stove_part2,Control knobs,dial,1,exact
+CSLB,Zero,part,stove,Stove,Slide-in gas range,stove_part3,Oven door,door,1,exact
+CSLB,Zero,part,stove,Stove,Slide-in gas range,stove_part4,Oven racks,shelf,1,exact
+CSLB,Zero,part,stove,Stove,Slide-in gas range,stove_part5,Broiler,-,0,missing
+CSLB,Zero,part,stove,Stove,Slide-in gas range,stove_part6,Storage drawer,-,0,missing
+CSLB,Zero,part,stove,Stove,Slide-in gas range,stove_part7,Display panel,-,0,missing
+CSLB,Zero,part,stove,Stove,Slide-in gas range,stove_part8,Burner grates,-,0,missing
+CSLB,Zero,part,stove,Stove,Slide-in gas range,stove_part9,Gas burners,heating plates,1,exact
+CSLB,Few,part,taxi,Taxi,Taxi,taxi_part1,Chassis,-,0,missing
+CSLB,Few,part,taxi,Taxi,Taxi,taxi_part1,body,-,0,missing
+CSLB,Few,part,taxi,Taxi,Taxi,taxi_part2,wheels,wheels,1,exact
+CSLB,Few,part,taxi,Taxi,Taxi,taxi_part3,engine,engine,1,exact
+CSLB,Few,part,taxi,Taxi,Taxi,taxi_part4,passenger compartment,seat/seats,0.5,partial
+CSLB,Few,part,taxi,Taxi,Taxi,taxi_part4,driver's compartment,seat/seats,0.5,partial
+CSLB,Few,part,taxi,Taxi,Taxi,taxi_part5,taxi meter,meter,1,exact
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part1,Body  ,-,0,missing
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part1,Bumpers  ,-,0,missing
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part2,Wheels  ,wheels,1,exact
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part3,Windows  ,-,0,missing
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part4,Doors  ,door/doors,1,exact
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part5,Seats  ,seat/seats,1,exact
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part6,Engine  ,engine,1,exact
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part7,Steering Wheel  ,-,0,missing
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part7,Horn  ,-,0,missing
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part8,Brakes  ,-,0,missing
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part9,Lights  ,light,1,exact
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part10,Taxi Sign  ,sign,1,exact
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part11,Trunk  ,-,0,missing
+CSLB,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part12,Mirrors  ,-,0,missing
+CSLB,Few,part,thimble,Thimble,Thimble,-,-,-,-,-
+CSLB,Zero,part,thimble,Thimble,Thimble,-,-,-,-,-
+CSLB,Few,part,window,Window,Sash window,window_part1,frame  ,frame,1,exact
+CSLB,Few,part,window,Window,Sash window,window_part1,sill  ,sill,1,exact
+CSLB,Few,part,window,Window,Sash window,window_part2,sash  ,-,0,missing
+CSLB,Few,part,window,Window,Sash window,window_part2,stiles  ,-,0,missing
+CSLB,Few,part,window,Window,Sash window,window_part2,rails  ,-,0,missing
+CSLB,Few,part,window,Window,Sash window,window_part3,glass pane  ,panes,1,exact
+CSLB,Few,part,window,Window,Sash window,window_part4,muntins  ,-,0,missing
+CSLB,Zero,part,window,Window,Single-hung window,window_part1,Frame  ,frame,1,exact
+CSLB,Zero,part,window,Window,Single-hung window,window_part1,Sill  ,sill,1,exact
+CSLB,Zero,part,window,Window,Single-hung window,window_part1,Jambs  ,frame,1,exact
+CSLB,Zero,part,window,Window,Single-hung window,window_part1,Head  ,frame,1,exact
+CSLB,Zero,part,window,Window,Single-hung window,window_part1,Weatherstripping  ,-,0,missing
+CSLB,Zero,part,window,Window,Single-hung window,window_part2,Sash  ,-,0,missing
+CSLB,Zero,part,window,Window,Single-hung window,window_part3,Glass Pane  ,panes,1,exact
+CSLB,Zero,part,window,Window,Single-hung window,window_part4,Lock  ,lock,1,exact
+CSLB,Zero,part,window,Window,Single-hung window,window_part4,Lift Handle  ,handle,1,exact
+McRae,Few,part,apron,Apron,Bib apron,apron_part1,body,-,0,missing
+McRae,Few,part,apron,Apron,Bib apron,apron_part2,neck strap,strings,0.5,partial
+McRae,Few,part,apron,Apron,Bib apron,apron_part3,waist ties,strings,0.5,partial
+McRae,Zero,part,apron,Apron,Kitchen apron,apron_part1,Body  ,-,0,missing
+McRae,Zero,part,apron,Apron,Kitchen apron,apron_part2,Neck Strap  ,strings,0.5,partial
+McRae,Zero,part,apron,Apron,Kitchen apron,apron_part3,Waist Ties  ,strings,0.5,partial
+McRae,Zero,part,apron,Apron,Kitchen apron,apron_part4,Pockets  ,-,0,missing
+McRae,Few,part,bench,Bench (furniture),Garden bench,bench_part1,legs,legs,1,exact
+McRae,Few,part,bench,Bench (furniture),Garden bench,bench_part2,seat,-,0,missing
+McRae,Few,part,bench,Bench (furniture),Garden bench,bench_part3,backrest,backrest,1,exact
+McRae,Few,part,bench,Bench (furniture),Garden bench,bench_part4,armrest,-,0,missing
+McRae,Zero,part,bench,Bench (furniture),Garden bench,bench_part1,Seat  ,-,0,missing
+McRae,Zero,part,bench,Bench (furniture),Garden bench,bench_part2,Backrest  ,backrest,1,exact
+McRae,Zero,part,bench,Bench (furniture),Garden bench,bench_part3,Legs  ,legs,1,exact
+McRae,Zero,part,bench,Bench (furniture),Garden bench,bench_part4,Armrests  ,-,0,missing
+McRae,Zero,part,bench,Bench (furniture),Garden bench,bench_part5,Supports  ,legs / backrest,0.5,partial
+McRae,Few,part,buckle,Buckle,Frame-style buckle,buckle_part1,frame,-,0,missing
+McRae,Few,part,buckle,Buckle,Frame-style buckle,buckle_part2,prong,-,0,missing
+McRae,Zero,part,buckle,Buckle,Roller Frame Buckle,buckle_part1,Frame,-,0,missing
+McRae,Zero,part,buckle,Buckle,Roller Frame Buckle,buckle_part1,Roller,-,0,missing
+McRae,Zero,part,buckle,Buckle,Roller Frame Buckle,buckle_part2,Tongue,-,0,missing
+McRae,Zero,part,buckle,Buckle,Roller Frame Buckle,buckle_part2,Prong,-,0,missing
+McRae,Few,part,bullet,Bullet,Full metal jacket (FMJ) bullet,bullet_part1,jacket,-,0,missing
+McRae,Few,part,bullet,Bullet,Full metal jacket (FMJ) bullet,bullet_part2,core,-,0,missing
+McRae,Few,part,bullet,Bullet,Full metal jacket (FMJ) bullet,bullet_part3,case,-,0,missing
+McRae,Zero,part,bullet,Bullet,Full Metal Jacket Bullet,bullet_part1,Bullet,-,0,missing
+McRae,Zero,part,bullet,Bullet,Full Metal Jacket Bullet,bullet_part2,Casing,-,0,missing
+McRae,Zero,part,bullet,Bullet,Full Metal Jacket Bullet,bullet_part3,Gunpowder,-,0,missing
+McRae,Zero,part,bullet,Bullet,Full Metal Jacket Bullet,bullet_part4,Primer,-,0,missing
+McRae,Few,part,cart,Cart,Shopping cart,cart_part1,frame,-,0,missing
+McRae,Few,part,cart,Cart,Shopping cart,cart_part2,wheels,wheels,1,exact
+McRae,Few,part,cart,Cart,Shopping cart,cart_part3,basket,-,0,missing
+McRae,Few,part,cart,Cart,Shopping cart,cart_part4,handle,-,0,missing
+McRae,Zero,part,cart,Cart,Manual Push Shopping Cart,cart_part1,Frame  ,-,0,missing
+McRae,Zero,part,cart,Cart,Manual Push Shopping Cart,cart_part1,Corner Bumpers  ,-,0,missing
+McRae,Zero,part,cart,Cart,Manual Push Shopping Cart,cart_part2,Wheels  ,wheels,1,exact
+McRae,Zero,part,cart,Cart,Manual Push Shopping Cart,cart_part2,Axles,-,0,missing
+McRae,Zero,part,cart,Cart,Manual Push Shopping Cart,cart_part3,Handle  ,-,0,missing
+McRae,Zero,part,cart,Cart,Manual Push Shopping Cart,cart_part4,Basket  ,-,0,missing
+McRae,Zero,part,cart,Cart,Manual Push Shopping Cart,cart_part4,Bottom Tray  ,-,0,missing
+McRae,Few,part,cloak,Cloak,Cloak,cloak_part1,body,-,0,missing
+McRae,Few,part,cloak,Cloak,Cloak,cloak_part2,fastener,-,0,missing
+McRae,Zero,part,cloak,Cloak,Trench-style rain cloak,cloak_part1,Shell  ,-,0,missing
+McRae,Zero,part,cloak,Cloak,Trench-style rain cloak,cloak_part2,Hood  ,hood,1,exact
+McRae,Zero,part,cloak,Cloak,Trench-style rain cloak,cloak_part3,Buttons or Zipper  ,-,0,missing
+McRae,Zero,part,cloak,Cloak,Trench-style rain cloak,cloak_part4,Lining  ,-,0,missing
+McRae,Few,part,fan_(appliance),Fan (machine),Axial fan,fan_(appliance)_part1,blades,blades,1,exact
+McRae,Few,part,fan_(appliance),Fan (machine),Axial fan,fan_(appliance)_part2,hub,-,0,missing
+McRae,Few,part,fan_(appliance),Fan (machine),Axial fan,fan_(appliance)_part3,motor,-,0,missing
+McRae,Few,part,fan_(appliance),Fan (machine),Axial fan,fan_(appliance)_part4,casing,-,0,missing
+McRae,Zero,part,fan_(appliance),Fan (machine),Single window fan,fan_(appliance)_part1,Fan Blades  ,blades,1,exact
+McRae,Zero,part,fan_(appliance),Fan (machine),Single window fan,fan_(appliance)_part2,Motor  ,-,0,missing
+McRae,Zero,part,fan_(appliance),Fan (machine),Single window fan,fan_(appliance)_part3,Grill or Guard  ,guard,1,exact
+McRae,Zero,part,fan_(appliance),Fan (machine),Single window fan,fan_(appliance)_part4,Housing  ,-,0,missing
+McRae,Zero,part,fan_(appliance),Fan (machine),Single window fan,fan_(appliance)_part5,Controls  ,-,0,missing
+McRae,Zero,part,fan_(appliance),Fan (machine),Single window fan,fan_(appliance)_part6,Power Cord  ,-,0,missing
+McRae,Few,part,gate,Gate,Swinging Gate,gate_part1,posts,-,0,missing
+McRae,Few,part,gate,Gate,Swinging Gate,gate_part2,hinges,hinges,1,exact
+McRae,Few,part,gate,Gate,Swinging Gate,gate_part3,frame,-,0,missing
+McRae,Few,part,gate,Gate,Swinging Gate,gate_part4,latch,latch,1,exact
+McRae,Few,part,harp,Harp,Pedal harp,harp_part1,body  ,-,0,missing
+McRae,Few,part,harp,Harp,Pedal harp,harp_part1,soundboard  ,-,0,missing
+McRae,Few,part,harp,Harp,Pedal harp,harp_part2,strings  ,strings,1,exact
+McRae,Few,part,harp,Harp,Pedal harp,harp_part3,base  ,-,0,missing
+McRae,Few,part,harp,Harp,Pedal harp,harp_part4,neck  ,-,0,missing
+McRae,Few,part,harp,Harp,Pedal harp,harp_part5,pedals  ,-,0,missing
+McRae,Few,part,harp,Harp,Pedal harp,harp_part6,column  ,-,0,missing
+McRae,Zero,part,harp,Harp,Pedal Harp,harp_part1,Soundboard  ,-,0,missing
+McRae,Zero,part,harp,Harp,Pedal Harp,harp_part2,Strings  ,strings,1,exact
+McRae,Zero,part,harp,Harp,Pedal Harp,harp_part3,Base  ,-,0,missing
+McRae,Zero,part,harp,Harp,Pedal Harp,harp_part4,Pillar  ,-,0,missing
+McRae,Zero,part,harp,Harp,Pedal Harp,harp_part4,Crown  ,-,0,missing
+McRae,Zero,part,harp,Harp,Pedal Harp,harp_part5,Neck  ,-,0,missing
+McRae,Zero,part,harp,Harp,Pedal Harp,harp_part5,Tuning pins  ,-,0,missing
+McRae,Zero,part,harp,Harp,Pedal Harp,harp_part6,pedals  ,-,0,missing
+McRae,Few,part,hut,Hut,Nipa hut,hut_part1,stilts,-,0,missing
+McRae,Few,part,hut,Hut,Nipa hut,hut_part2,floor,-,0,missing
+McRae,Few,part,hut,Hut,Nipa hut,hut_part3,walls,-,0,missing
+McRae,Few,part,hut,Hut,Nipa hut,hut_part4,thatched roof,-,0,missing
+McRae,Zero,part,hut,Hut,Timber-framed Roundhouse,hut_part1,Sill Plate  ,-,0,missing
+McRae,Zero,part,hut,Hut,Timber-framed Roundhouse,hut_part1,Vertical Posts  ,-,0,missing
+McRae,Zero,part,hut,Hut,Timber-framed Roundhouse,hut_part1,Roof Beams  ,-,0,missing
+McRae,Zero,part,hut,Hut,Timber-framed Roundhouse,hut_part2,Roof Covering  ,-,0,missing
+McRae,Zero,part,hut,Hut,Timber-framed Roundhouse,hut_part3,Wall Panels  ,-,0,missing
+McRae,Zero,part,hut,Hut,Timber-framed Roundhouse,hut_part4,Door  ,-,0,missing
+McRae,Zero,part,hut,Hut,Timber-framed Roundhouse,hut_part5,Hearth  ,-,0,missing
+McRae,Few,part,knife,Knife,Chef's knife,knife_part1,handle,handle,1,exact
+McRae,Few,part,knife,Knife,Chef's knife,knife_part2,blade,blade,1,exact
+McRae,Few,part,knife,Knife,Chef's knife,knife_part3,bolster,-,0,missing
+McRae,Zero,part,knife,Knife,Chef's knife,knife_part1,Blade  ,blade,1,exact
+McRae,Zero,part,knife,Knife,Chef's knife,knife_part1,Edge,blade,0.5,partial
+McRae,Zero,part,knife,Knife,Chef's knife,knife_part1,Spine,blade,0.5,partial
+McRae,Zero,part,knife,Knife,Chef's knife,knife_part1,Heel,blade,0.5,partial
+McRae,Zero,part,knife,Knife,Chef's knife,knife_part2,Tang  ,-,0,missing
+McRae,Zero,part,knife,Knife,Chef's knife,knife_part3,Bolster  ,-,0,missing
+McRae,Zero,part,knife,Knife,Chef's knife,knife_part4,Handle  ,handle,1,exact
+McRae,Zero,part,knife,Knife,Chef's knife,knife_part4,Butt,handle,0.5,partial
+McRae,Few,part,lantern,Lantern,Candle lantern,lantern_part1,frame,-,0,missing
+McRae,Few,part,lantern,Lantern,Candle lantern,lantern_part2,candle holder,-,0,missing
+McRae,Few,part,lantern,Lantern,Candle lantern,lantern_part3,protective glass,-,0,missing
+McRae,Few,part,lantern,Lantern,Candle lantern,lantern_part4,vents,-,0,missing
+McRae,Few,part,lantern,Lantern,Candle lantern,lantern_part5,handle,-,0,missing
+McRae,Zero,part,lantern,Lantern,Floating Candle Lantern,lantern_part1,Base,-,0,missing
+McRae,Zero,part,lantern,Lantern,Floating Candle Lantern,lantern_part1,Body,-,0,missing
+McRae,Zero,part,lantern,Lantern,Floating Candle Lantern,lantern_part2,Candle holder,-,0,missing
+McRae,Zero,part,lantern,Lantern,Floating Candle Lantern,lantern_part3,Candle,candle,1,exact
+McRae,Zero,part,lantern,Lantern,Floating Candle Lantern,lantern_part4,Flame-protector,-,0,missing
+McRae,Few,part,level,Spirit level,Spirit level,level_part1,body,-,0,missing
+McRae,Few,part,level,Spirit level,Spirit level,level_part2,vials,-,0,missing
+McRae,Zero,part,level,Spirit level,Spirit level,level_part1,Liquid,-,0,missing
+McRae,Zero,part,level,Spirit level,Spirit level,level_part1,Bubble,bubble,1,exact
+McRae,Zero,part,level,Spirit level,Spirit level,level_part2,Body,-,0,missing
+McRae,Zero,part,level,Spirit level,Spirit level,level_part3,End Caps,-,0,missing
+McRae,Zero,part,level,Spirit level,Spirit level,level_part4,Vials,-,0,missing
+McRae,Few,part,mug,Mug,Standard mug,mug_part1,body,-,0,missing
+McRae,Few,part,mug,Mug,Standard mug,mug_part2,handle,handle,1,exact
+McRae,Zero,part,mug,Mug,Standard Coffee Mug,mug_part1,Body,-,0,missing
+McRae,Zero,part,mug,Mug,Standard Coffee Mug,mug_part1,Bottom,-,0,missing
+McRae,Zero,part,mug,Mug,Standard Coffee Mug,mug_part2,Handle,handle,1,exact
+McRae,Zero,part,mug,Mug,Standard Coffee Mug,mug_part3,Rim,-,0,missing
+McRae,Few,part,ruler,Ruler,Ruler,ruler_part1,body,-,0,missing
+McRae,Few,part,ruler,Ruler,Ruler,ruler_part2,measuring scale,number,0.5,partial
+McRae,Zero,part,ruler,Ruler,Flexible Steel Ruler,ruler_part1,Measuring Scale,number,0.5,partial
+McRae,Zero,part,ruler,Ruler,Flexible Steel Ruler,ruler_part2,Body,-,0,missing
+McRae,Few,part,shovel,Shovel,Digging shovel,shovel_part1,handle,handle,1,exact
+McRae,Few,part,shovel,Shovel,Digging shovel,shovel_part2,blade,an end,0.5,partial
+McRae,Zero,part,shovel,Shovel,Spade Trench Shovel,shovel_part1,Blade,an end,0.5,partial
+McRae,Zero,part,shovel,Shovel,Spade Trench Shovel,shovel_part1,Step,-,0,missing
+McRae,Zero,part,shovel,Shovel,Spade Trench Shovel,shovel_part2,Socket or Collar,-,0,missing
+McRae,Zero,part,shovel,Shovel,Spade Trench Shovel,shovel_part3,Handle,handle,1,exact
+McRae,Zero,part,shovel,Shovel,Spade Trench Shovel,shovel_part4,Grip,-,0,missing
+McRae,Few,-,skillet,-,-,-,-,-,-,-
+McRae,Zero,part,skillet,Skillet (Frying pan),Deep Skillet,skillet_part1,Body,-,0,missing
+McRae,Zero,part,skillet,Skillet (Frying pan),Deep Skillet,skillet_part2,Handle,handle,1,exact
+McRae,Zero,part,skillet,Skillet (Frying pan),Deep Skillet,skillet_part3,Lid,-,0,missing
+McRae,Zero,part,skillet,Skillet (Frying pan),Deep Skillet,skillet_part4,Knob,-,0,missing
+McRae,Few,part,skis,Ski,Ski,skis_part1,top sheet,-,0,missing
+McRae,Few,part,skis,Ski,Ski,skis_part2,core,-,0,missing
+McRae,Few,part,skis,Ski,Ski,skis_part3,edge,-,0,missing
+McRae,Few,part,skis,Ski,Ski,skis_part4,sidewall,-,0,missing
+McRae,Few,part,skis,Ski,Ski,skis_part4,base,-,0,missing
+McRae,Few,part,skis,Ski,Ski,skis_part5,binding,bindings,1,exact
+McRae,Zero,part,skis,Ski,Alpine Skis,skis_part1,Ski Top Sheet  ,-,0,missing
+McRae,Zero,part,skis,Ski,Alpine Skis,skis_part2,Core  ,-,0,missing
+McRae,Zero,part,skis,Ski,Alpine Skis,skis_part3,Edge  ,-,0,missing
+McRae,Zero,part,skis,Ski,Alpine Skis,skis_part4,Base  ,-,0,missing
+McRae,Zero,part,skis,Ski,Alpine Skis,skis_part4,Sidewall  ,-,0,missing
+McRae,Zero,part,skis,Ski,Alpine Skis,skis_part5,Binding Interface  ,bindings,1,exact
+McRae,Zero,part,skis,Ski,Alpine Skis,skis_part6,Tail  ,-,0,missing
+McRae,Zero,part,skis,Ski,Alpine Skis,skis_part6,Tip  ,-,0,missing
+McRae,Few,part,trombone,Trombone,Trombone,trombone_part1,bell,-,0,missing
+McRae,Few,part,trombone,Trombone,Trombone,trombone_part2,slide,slide valve,1,exact
+McRae,Few,part,trombone,Trombone,Trombone,trombone_part3,mouthpiece,mouth-piece,1,exact
+McRae,Few,part,trombone,Trombone,Trombone,trombone_part4,tuning slide,-,0,missing
+McRae,Zero,part,trombone,Trombone,Slide Trombone,trombone_part1,Bell,-,0,missing
+McRae,Zero,part,trombone,Trombone,Slide Trombone,trombone_part2,Slide,slide valve,1,exact
+McRae,Zero,part,trombone,Trombone,Slide Trombone,trombone_part3,mouthpiece,mouth-piece,1,exact
+McRae,Zero,part,trombone,Trombone,Slide Trombone,trombone_part4,Tuning Slide,-,0,missing
+McRae,Zero,part,trombone,Trombone,Slide Trombone,trombone_part5,Water Key,-,0,missing
+McRae,Zero,part,trombone,Trombone,Slide Trombone,trombone_part6,Braces,-,0,missing
+McRae,Few,part,vest,Waistcoat,Single-breasted waistcoat,vest_part1,body,-,0,missing
+McRae,Few,part,vest,Waistcoat,Single-breasted waistcoat,vest_part1,shoulders,-,0,missing
+McRae,Few,part,vest,Waistcoat,Single-breasted waistcoat,vest_part2,buttons,buttons,1,exact
+McRae,Few,part,vest,Waistcoat,Single-breasted waistcoat,vest_part3,pockets,-,0,missing
+McRae,Few,part,vest,Waistcoat,Single-breasted waistcoat,vest_part4,adjustable rear strap,-,0,missing
+McRae,Zero,part,vest,Waistcoat,Single-breasted waistcoat,vest_part1,Front Panels  ,-,0,missing
+McRae,Zero,part,vest,Waistcoat,Single-breasted waistcoat,vest_part2,Back Panel  ,-,0,missing
+McRae,Zero,part,vest,Waistcoat,Single-breasted waistcoat,vest_part3,Lining  ,-,0,missing
+McRae,Zero,part,vest,Waistcoat,Single-breasted waistcoat,vest_part4,Buttons  ,buttons,1,exact
+McRae,Zero,part,vest,Waistcoat,Single-breasted waistcoat,vest_part5,Pockets  ,-,0,missing
+McRae,Zero,part,vest,Waistcoat,Single-breasted waistcoat,vest_part6,Waist Adjuster  ,-,0,missing
+McRae,Few,part,socks,Sock,Sock,socks_part1,leg,-,0,missing
+McRae,Few,part,socks,Sock,Sock,socks_part2,foot,-,0,missing
+McRae,Few,part,socks,Sock,Sock,socks_part3,toe,-,0,missing
+McRae,Few,part,socks,Sock,Sock,socks_part4,heel,-,0,missing
+McRae,Zero,part,socks,Sock,Sock,socks_part1,Cuff,-,0,missing
+McRae,Zero,part,socks,Sock,Sock,socks_part2,Leg,-,0,missing
+McRae,Zero,part,socks,Sock,Sock,socks_part3,Heel,-,0,missing
+McRae,Zero,part,socks,Sock,Sock,socks_part4,Sole  ,-,0,missing
+McRae,Zero,part,socks,Sock,Sock,socks_part4,Arch support,-,0,missing
+McRae,Zero,part,socks,Sock,Sock,socks_part5,Toe,-,0,missing
+WordNet,Few,part,air_gun.01,Air gun,CO2 air gun,air_gun.01_part1,barrel,barrel,1,exact
+WordNet,Few,part,air_gun.01,Air gun,CO2 air gun,air_gun.01_part2,CO2 cartridge,-,0,missing
+WordNet,Few,part,air_gun.01,Air gun,CO2 air gun,air_gun.01_part3,valve,-,0,missing
+WordNet,Few,part,air_gun.01,Air gun,CO2 air gun,air_gun.01_part4,trigger,gun trigger,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,CO2 powered air gun,air_gun.01_part1,Barrel  ,barrel,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,CO2 powered air gun,air_gun.01_part1,Muzzle  ,gun muzzle,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,CO2 powered air gun,air_gun.01_part2,Trigger  ,gun trigger,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,CO2 powered air gun,air_gun.01_part3,CO2 Cartridge Holder  ,cartridge holder,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,CO2 powered air gun,air_gun.01_part4,Stock  ,stock,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,CO2 powered air gun,air_gun.01_part4,Grip  ,-,0,missing
+WordNet,Zero,part,air_gun.01,Air gun,CO2 powered air gun,air_gun.01_part5,Sight  ,gunsight,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,CO2 powered air gun,air_gun.01_part6,Safety Switch  ,safety catch,1,exact
+WordNet,Zero,part,air_gun.01,Air gun,CO2 powered air gun,air_gun.01_part7,Magazine or Pellet Clip  ,-,0,missing
+WordNet,Few,part,barrel.02,Barrel,Barrel,barrel.02_part1,staves,stave,1,exact
+WordNet,Few,part,barrel.02,Barrel,Barrel,barrel.02_part2,head,base,0.5,partial
+WordNet,Few,part,barrel.02,Barrel,Barrel,barrel.02_part3,hoops,hoop,1,exact
+WordNet,Few,part,barrel.02,Barrel,Barrel,barrel.02_part4,bung,bung,1,exact
+WordNet,Zero,part,barrel.02,Barrel,Wine barrel,barrel.02_part1,Staves,stave,1,exact
+WordNet,Zero,part,barrel.02,Barrel,Wine barrel,barrel.02_part2,Hoops,hoop,1,exact
+WordNet,Zero,part,barrel.02,Barrel,Wine barrel,barrel.02_part3,Head,base,0.5,partial
+WordNet,Zero,part,barrel.02,Barrel,Wine barrel,barrel.02_part4,Bung,bung,1,exact
+WordNet,Few,part,cassette_deck.01,Cassette deck,Single cassette deck,cassette_deck.01_part1,cassette holder  ,-,0,missing
+WordNet,Few,part,cassette_deck.01,Cassette deck,Single cassette deck,cassette_deck.01_part2,heads  ,tape drive,0.5,partial
+WordNet,Few,part,cassette_deck.01,Cassette deck,Single cassette deck,cassette_deck.01_part3,capstan  ,tape drive,0.5,partial
+WordNet,Few,part,cassette_deck.01,Cassette deck,Single cassette deck,cassette_deck.01_part3,rollers  ,tape drive,0.5,partial
+WordNet,Few,part,cassette_deck.01,Cassette deck,Single cassette deck,cassette_deck.01_part4,motor  ,-,0,missing
+WordNet,Few,part,cassette_deck.01,Cassette deck,Single cassette deck,cassette_deck.01_part4,electronics  ,-,0,missing
+WordNet,Few,part,cassette_deck.01,Cassette deck,Single cassette deck,cassette_deck.01_part5,output jacks  ,-,0,missing
+WordNet,Zero,part,cassette_deck.01,Cassette deck,Cassette deck,cassette_deck.01_part1,Cassette holder  ,-,0,missing
+WordNet,Zero,part,cassette_deck.01,Cassette deck,Cassette deck,cassette_deck.01_part2,Play/Record/Stop/Eject buttons  ,-,0,missing
+WordNet,Zero,part,cassette_deck.01,Cassette deck,Cassette deck,cassette_deck.01_part3,Head unit  ,tape drive,0.5,partial
+WordNet,Zero,part,cassette_deck.01,Cassette deck,Cassette deck,cassette_deck.01_part4,Capstan and pinch roller  ,tape drive,0.5,partial
+WordNet,Zero,part,cassette_deck.01,Cassette deck,Cassette deck,cassette_deck.01_part4,Belts  ,tape drive,0.5,partial
+WordNet,Zero,part,cassette_deck.01,Cassette deck,Cassette deck,cassette_deck.01_part5,Motor  ,-,0,missing
+WordNet,Zero,part,cassette_deck.01,Cassette deck,Cassette deck,cassette_deck.01_part5,Power supply connector  ,-,0,missing
+WordNet,Zero,part,cassette_deck.01,Cassette deck,Cassette deck,cassette_deck.01_part6,Outputs/Inputs sockets  ,-,0,missing
+WordNet,Zero,part,cassette_deck.01,Cassette deck,Cassette deck,cassette_deck.01_part7,Volume control  ,-,0,missing
+WordNet,Zero,part,cassette_deck.01,Cassette deck,Cassette deck,cassette_deck.01_part8,Display  ,-,0,missing
+WordNet,Few,part,chest.02,Chest (furniture),Hope chest,chest.02_part1,frame,base,0.5,partial
+WordNet,Few,part,chest.02,Chest (furniture),Hope chest,chest.02_part2,storage compartment,-,0,missing
+WordNet,Few,part,chest.02,Chest (furniture),Hope chest,chest.02_part3,lid,lid,1,exact
+WordNet,Few,part,chest.02,Chest (furniture),Hope chest,chest.02_part4,lock,-,0,missing
+WordNet,Zero,part,chest.02,Chest (furniture),Hope chest,chest.02_part1,Box Body,base,0.5,partial
+WordNet,Zero,part,chest.02,Chest (furniture),Hope chest,chest.02_part2,Lid,lid,1,exact
+WordNet,Zero,part,chest.02,Chest (furniture),Hope chest,chest.02_part3,Lock,-,0,missing
+WordNet,Zero,part,chest.02,Chest (furniture),Hope chest,chest.02_part4,Handles,-,0,missing
+WordNet,Few,part,can.01,Drink can,Pull-tab can,can.01_part1,body  ,-,0,missing
+WordNet,Few,part,can.01,Drink can,Pull-tab can,can.01_part2,lid,-,0,missing
+WordNet,Few,part,can.01,Drink can,Pull-tab can,can.01_part3,pull-tab,-,0,missing
+WordNet,Zero,part,can.01,Drink can,Pull Tab Can,can.01_part1,Lid,-,0,missing
+WordNet,Zero,part,can.01,Drink can,Pull Tab Can,can.01_part1,Score,-,0,missing
+WordNet,Zero,part,can.01,Drink can,Pull Tab Can,can.01_part2,Pull tab,-,0,missing
+WordNet,Zero,part,can.01,Drink can,Pull Tab Can,can.01_part2,Rivet,-,0,missing
+WordNet,Few,part,felt-tip_pen.01,Marker pen,Marker pen,felt-tip_pen.01_part1,body ,-,0,missing
+WordNet,Few,part,felt-tip_pen.01,Marker pen,Marker pen,felt-tip_pen.01_part2,cap,-,0,missing
+WordNet,Few,part,felt-tip_pen.01,Marker pen,Marker pen,felt-tip_pen.01_part3,nib,nib,1,exact
+WordNet,Few,part,felt-tip_pen.01,Marker pen,Marker pen,felt-tip_pen.01_part4,internal reservoir,indelible ink,1,container
+WordNet,Zero,part,felt-tip_pen.01,Marker pen,Highlighter pen,felt-tip_pen.01_part1,Cap  ,-,0,missing
+WordNet,Zero,part,felt-tip_pen.01,Marker pen,Highlighter pen,felt-tip_pen.01_part1,Clip  ,-,0,missing
+WordNet,Zero,part,felt-tip_pen.01,Marker pen,Highlighter pen,felt-tip_pen.01_part2,Body  ,-,0,missing
+WordNet,Zero,part,felt-tip_pen.01,Marker pen,Highlighter pen,felt-tip_pen.01_part3,Nib  ,nib,1,exact
+WordNet,Zero,part,felt-tip_pen.01,Marker pen,Highlighter pen,felt-tip_pen.01_part4,Reservoir  ,indelible ink,1,container
+WordNet,Zero,part,felt-tip_pen.01,Marker pen,Highlighter pen,felt-tip_pen.01_part4,Ink  ,indelible ink,1,exact
+WordNet,Zero,part,felt-tip_pen.01,Marker pen,Highlighter pen,felt-tip_pen.01_part5,End cap  ,-,0,missing
+WordNet,Few,part,hawaiian_guitar.01,Steel guitar,Console steel guitar,hawaiian_guitar.01_part1,body,-,0,missing
+WordNet,Few,part,hawaiian_guitar.01,Steel guitar,Console steel guitar,hawaiian_guitar.01_part2,strings,strings,1,exact
+WordNet,Few,part,hawaiian_guitar.01,Steel guitar,Console steel guitar,hawaiian_guitar.01_part3,necks,fingerboard,0.5,partial
+WordNet,Few,part,hawaiian_guitar.01,Steel guitar,Console steel guitar,hawaiian_guitar.01_part4,pickup,-,0,missing
+WordNet,Few,part,hawaiian_guitar.01,Steel guitar,Console steel guitar,hawaiian_guitar.01_part5,tuning pegs,-,0,missing
+WordNet,Zero,part,hawaiian_guitar.01,Steel guitar,Lap Steel Guitar,hawaiian_guitar.01_part1,Body  ,-,0,missing
+WordNet,Zero,part,hawaiian_guitar.01,Steel guitar,Lap Steel Guitar,hawaiian_guitar.01_part2,Strings  ,strings,1,exact
+WordNet,Zero,part,hawaiian_guitar.01,Steel guitar,Lap Steel Guitar,hawaiian_guitar.01_part3,Bridge  ,-,0,missing
+WordNet,Zero,part,hawaiian_guitar.01,Steel guitar,Lap Steel Guitar,hawaiian_guitar.01_part4,Tuning Pegs  ,-,0,missing
+WordNet,Zero,part,hawaiian_guitar.01,Steel guitar,Lap Steel Guitar,hawaiian_guitar.01_part5,Nut  ,-,0,missing
+WordNet,Zero,part,hawaiian_guitar.01,Steel guitar,Lap Steel Guitar,hawaiian_guitar.01_part5,Fretboard  ,fingerboard,1,exact
+WordNet,Zero,part,hawaiian_guitar.01,Steel guitar,Lap Steel Guitar,hawaiian_guitar.01_part6,Pickup  ,-,0,missing
+WordNet,Zero,part,hawaiian_guitar.01,Steel guitar,Lap Steel Guitar,hawaiian_guitar.01_part7,Volume and Tone Controls  ,-,0,missing
+WordNet,Zero,part,hawaiian_guitar.01,Steel guitar,Lap Steel Guitar,hawaiian_guitar.01_part8,Output Jack  ,-,0,missing
+WordNet,Few,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part1,frame  ,-,0,missing
+WordNet,Few,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part2,legs  ,-,0,missing
+WordNet,Few,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part3,backrest  ,-,0,missing
+WordNet,Few,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part4,armrest  ,-,0,missing
+WordNet,Few,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part5,seat cushion  ,-,0,missing
+WordNet,Few,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part5,back cushion  ,-,0,missing
+WordNet,Zero,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part1,Frame  ,-,0,missing
+WordNet,Zero,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part2,Backrest  ,-,0,missing
+WordNet,Zero,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part3,Seat Cushions  ,-,0,missing
+WordNet,Zero,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part3,Back Cushions  ,-,0,missing
+WordNet,Zero,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part4,Arms  ,-,0,missing
+WordNet,Zero,part,love_seat.01,Loveseat,Loveseat,love_seat.01_part5,Legs  ,-,0,missing
+WordNet,Few,part,mortarboard.02,Square academic cap,Square academic cap,mortarboard.02_part1,mortarboard,flat square,1,exact
+WordNet,Few,part,mortarboard.02,Square academic cap,Square academic cap,mortarboard.02_part2,skullcap,-,0,missing
+WordNet,Few,part,mortarboard.02,Square academic cap,Square academic cap,mortarboard.02_part3,tassel,tassel,1,exact
+WordNet,Zero,part,mortarboard.02,Square academic cap,Square academic cap,mortarboard.02_part1,Mortarboard,flat square,1,exact
+WordNet,Zero,part,mortarboard.02,Square academic cap,Square academic cap,mortarboard.02_part2,Skull cap,-,0,missing
+WordNet,Zero,part,mortarboard.02,Square academic cap,Square academic cap,mortarboard.02_part2,Headband or elastic strap,-,0,missing
+WordNet,Zero,part,mortarboard.02,Square academic cap,Square academic cap,mortarboard.02_part3,Tassel,tassel,1,exact
+WordNet,Zero,part,mortarboard.02,Square academic cap,Square academic cap,mortarboard.02_part3,Tassel attachment button,-,0,missing
+WordNet,Few,part,paddle.04,Paddle,Paddle,paddle.04_part1,blade,blade,1,exact
+WordNet,Few,part,paddle.04,Paddle,Paddle,paddle.04_part2,shaft,-,0,missing
+WordNet,Few,part,paddle.04,Paddle,Paddle,paddle.04_part3,grip,-,0,missing
+WordNet,Zero,part,paddle.04,Paddle,Canoe paddle,paddle.04_part1,Grip,-,0,missing
+WordNet,Zero,part,paddle.04,Paddle,Canoe paddle,paddle.04_part2,Shaft,-,0,missing
+WordNet,Zero,part,paddle.04,Paddle,Canoe paddle,paddle.04_part2,Throat,-,0,missing
+WordNet,Zero,part,paddle.04,Paddle,Canoe paddle,paddle.04_part3,Blade,blade,1,exact
+WordNet,Zero,part,paddle.04,Paddle,Canoe paddle,paddle.04_part3,Tip,blade,0.5,partial
+WordNet,Few,part,pencil_box.01,Pencil case,Pencil case,pencil_box.01_part1,body,base,0.5,partial
+WordNet,Few,part,pencil_box.01,Pencil case,Pencil case,pencil_box.01_part2,zipper,-,0,missing
+WordNet,Few,part,pencil_box.01,Pencil case,Pencil case,pencil_box.01_part2,button,-,0,missing
+WordNet,Few,part,pencil_box.01,Pencil case,Pencil case,pencil_box.01_part3,velcro,-,0,missing
+WordNet,Few,part,pencil_box.01,Pencil case,Pencil case,pencil_box.01_part4,compartment,-,0,missing
+WordNet,Zero,part,pencil_box.01,Pencil case,Hinged-lid pencil case,pencil_box.01_part1,Lid,lid,1,exact
+WordNet,Zero,part,pencil_box.01,Pencil case,Hinged-lid pencil case,pencil_box.01_part2,Base,base,0.5,partial
+WordNet,Zero,part,pencil_box.01,Pencil case,Hinged-lid pencil case,pencil_box.01_part3,Latch or Clasp,-,0,missing
+WordNet,Few,part,quill.01,Quill,Quill,quill.01_part1,barrel,-,0,missing
+WordNet,Few,part,quill.01,Quill,Quill,quill.01_part2,nib,nib,1,exact
+WordNet,Few,part,quill.01,Quill,Quill,quill.01_part3,feather,-,0,missing
+WordNet,Zero,part,quill.01,Quill,Quill,quill.01_part1,Barrel,-,0,missing
+WordNet,Zero,part,quill.01,Quill,Quill,quill.01_part1,Hollow shaft,-,0,missing
+WordNet,Zero,part,quill.01,Quill,Quill,quill.01_part2,Nib,nib,1,exact
+WordNet,Few,part,raincoat.01,Raincoat,Raincoat (Coat),raincoat.01_part1,collar  ,-,0,missing
+WordNet,Few,part,raincoat.01,Raincoat,Raincoat (Coat),raincoat.01_part2,front  ,-,0,missing
+WordNet,Few,part,raincoat.01,Raincoat,Raincoat (Coat),raincoat.01_part3,sleeves  ,sleeves,1,exact
+WordNet,Few,part,raincoat.01,Raincoat,Raincoat (Coat),raincoat.01_part4,pockets  ,pockets,1,exact
+WordNet,Few,part,raincoat.01,Raincoat,Raincoat (Coat),raincoat.01_part5,hood  ,-,0,missing
+WordNet,Few,part,raincoat.01,Raincoat,Raincoat (Coat),raincoat.01_part6,lining  ,lining,1,exact
+WordNet,Zero,part,raincoat.01,Raincoat,Single-breasted Macintosh raincoat,raincoat.01_part1,Shell,-,0,missing
+WordNet,Zero,part,raincoat.01,Raincoat,Single-breasted Macintosh raincoat,raincoat.01_part1,Back vent,-,0,missing
+WordNet,Zero,part,raincoat.01,Raincoat,Single-breasted Macintosh raincoat,raincoat.01_part2,Collar  ,-,0,missing
+WordNet,Zero,part,raincoat.01,Raincoat,Single-breasted Macintosh raincoat,raincoat.01_part3,Lining  ,lining,1,exact
+WordNet,Zero,part,raincoat.01,Raincoat,Single-breasted Macintosh raincoat,raincoat.01_part4,Sleeves  ,sleeves,1,exact
+WordNet,Zero,part,raincoat.01,Raincoat,Single-breasted Macintosh raincoat,raincoat.01_part5,Cuffs  ,sleeves,0.5,partial
+WordNet,Zero,part,raincoat.01,Raincoat,Single-breasted Macintosh raincoat,raincoat.01_part6,Buttons  ,buttons,1,exact
+WordNet,Zero,part,raincoat.01,Raincoat,Single-breasted Macintosh raincoat,raincoat.01_part7,Pockets  ,pockets,1,exact
+WordNet,Zero,part,raincoat.01,Raincoat,Single-breasted Macintosh raincoat,raincoat.01_part8,Shoulder straps  ,-,0,missing
+WordNet,Zero,part,raincoat.01,Raincoat,Single-breasted Macintosh raincoat,raincoat.01_part9,Belt,belt,1,exact
+WordNet,Few,part,shovel.01,Shovel,Scoop shovel,shovel.01_part1,handle,handle,1,exact
+WordNet,Few,part,shovel.01,Shovel,Scoop shovel,shovel.01_part2,scoop,curved container or scoop,1,exact
+WordNet,Zero,part,shovel.01,Shovel,Grain Scoop Shovel,shovel.01_part1,Scoop Blade,curved container or scoop,1,exact
+WordNet,Zero,part,shovel.01,Shovel,Grain Scoop Shovel,shovel.01_part2,Handle,handle,1,exact
+WordNet,Zero,part,shovel.01,Shovel,Grain Scoop Shovel,shovel.01_part3,D-grip,handle,0.5,partial
+WordNet,Few,part,spectacles.01,Glasses,Single vision glasses,spectacles.01_part1,frame  ,frame,1,exact
+WordNet,Few,part,spectacles.01,Glasses,Single vision glasses,spectacles.01_part2,lenses  ,lens,1,exact
+WordNet,Few,part,spectacles.01,Glasses,Single vision glasses,spectacles.01_part3,nose pads  ,-,0,missing
+WordNet,Few,part,spectacles.01,Glasses,Single vision glasses,spectacles.01_part4,temples  ,-,0,missing
+WordNet,Few,part,spectacles.01,Glasses,Single vision glasses,spectacles.01_part4,temple tips  ,-,0,missing
+WordNet,Zero,part,spectacles.01,Glasses,Full-rim glasses,spectacles.01_part1,Frame Front  ,frame,0.5,partial
+WordNet,Zero,part,spectacles.01,Glasses,Full-rim glasses,spectacles.01_part1,End Pieces  ,frame,0.5,partial
+WordNet,Zero,part,spectacles.01,Glasses,Full-rim glasses,spectacles.01_part2,Nose Pads  ,-,0,missing
+WordNet,Zero,part,spectacles.01,Glasses,Full-rim glasses,spectacles.01_part3,Lenses  ,lens,1,exact
+WordNet,Zero,part,spectacles.01,Glasses,Full-rim glasses,spectacles.01_part4,Temples  ,-,0,missing
+WordNet,Zero,part,spectacles.01,Glasses,Full-rim glasses,spectacles.01_part4,Temple Tips  ,-,0,missing
+WordNet,Few,part,sweat_pants.01,Sweatpants,Sweatpants,sweat_pants.01_part1,waistband,-,0,missing
+WordNet,Few,part,sweat_pants.01,Sweatpants,Sweatpants,sweat_pants.01_part2,leg,pant leg,1,exact
+WordNet,Few,part,sweat_pants.01,Sweatpants,Sweatpants,sweat_pants.01_part3,pockets,hip pocket,0.5,partial
+WordNet,Few,part,sweat_pants.01,Sweatpants,Sweatpants,sweat_pants.01_part4,cuffs,trouser cuff,1,exact
+WordNet,Zero,part,sweat_pants.01,Sweatpants,Cuffed Hem Joggers,sweat_pants.01_part1,Waistband  ,-,0,missing
+WordNet,Zero,part,sweat_pants.01,Sweatpants,Cuffed Hem Joggers,sweat_pants.01_part1,Drawstring  ,-,0,missing
+WordNet,Zero,part,sweat_pants.01,Sweatpants,Cuffed Hem Joggers,sweat_pants.01_part2,Pockets  ,hip pocket,0.5,partial
+WordNet,Zero,part,sweat_pants.01,Sweatpants,Cuffed Hem Joggers,sweat_pants.01_part3,Cuffs  ,trouser cuff,1,exact
+WordNet,Zero,part,sweat_pants.01,Sweatpants,Cuffed Hem Joggers,sweat_pants.01_part4,Main body  ,lap / pant leg / seat,0.5,partial
+WordNet,Zero,part,sweat_pants.01,Sweatpants,Cuffed Hem Joggers,sweat_pants.01_part5,Zipper  ,slide fastener,1,exact
+WordNet,Few,part,toboggan.01,Toboggan,Toboggan,toboggan.01_part1,body,board,1,exact
+WordNet,Few,part,toboggan.01,Toboggan,Toboggan,toboggan.01_part2,curved front,board,0.5,partial
+WordNet,Zero,part,toboggan.01,Toboggan,Toboggan,toboggan.01_part1,Sled Deck  ,board,1,exact
+WordNet,Zero,part,toboggan.01,Toboggan,Toboggan,toboggan.01_part2,Runners  ,runner,1,exact
+WordNet,Zero,part,toboggan.01,Toboggan,Toboggan,toboggan.01_part3,Crossbars  ,-,0,missing
+WordNet,Zero,part,toboggan.01,Toboggan,Toboggan,toboggan.01_part3,Bracing Blocks,-,0,missing
+WordNet,Zero,part,toboggan.01,Toboggan,Toboggan,toboggan.01_part4,Curled Front  ,board,0.5,partial
+WordNet,Zero,part,toboggan.01,Toboggan,Toboggan,toboggan.01_part5,Steering Rope  ,-,0,missing
+WordNet,Few,part,toothbrush.01,Toothbrush,Toothbrush,toothbrush.01_part1,handle,handle,1,exact
+WordNet,Few,part,toothbrush.01,Toothbrush,Toothbrush,toothbrush.01_part2,head,head,1,exact
+WordNet,Few,part,toothbrush.01,Toothbrush,Toothbrush,toothbrush.01_part3,bristles,bristle,1,exact
+WordNet,Zero,part,toothbrush.01,Toothbrush,Manual Toothbrush,toothbrush.01_part1,Handle,handle,1,exact
+WordNet,Zero,part,toothbrush.01,Toothbrush,Manual Toothbrush,toothbrush.01_part2,Bristles,bristle,1,exact
+WordNet,Zero,part,toothbrush.01,Toothbrush,Manual Toothbrush,toothbrush.01_part3,Head,head,1,exact
+WordNet,Zero,part,toothbrush.01,Toothbrush,Manual Toothbrush,toothbrush.01_part3,Tongue cleaner,-,0,missing
+WordNet,Zero,part,toothbrush.01,Toothbrush,Manual Toothbrush,toothbrush.01_part4,Neck,-,0,missing
+WordNet,Few,part,umbrella.01,Umbrella,stick umbrella,umbrella.01_part1,canopy  ,covering,1,exact
+WordNet,Few,part,umbrella.01,Umbrella,stick umbrella,umbrella.01_part2,shaft  ,-,0,missing
+WordNet,Few,part,umbrella.01,Umbrella,stick umbrella,umbrella.01_part3,handle  ,handle,1,exact
+WordNet,Few,part,umbrella.01,Umbrella,stick umbrella,umbrella.01_part4,spike  ,-,0,missing
+WordNet,Zero,part,umbrella.01,Umbrella,Stick umbrella,umbrella.01_part1,Canopy  ,covering,1,exact
+WordNet,Zero,part,umbrella.01,Umbrella,Stick umbrella,umbrella.01_part2,Ribs  ,rib,1,exact
+WordNet,Zero,part,umbrella.01,Umbrella,Stick umbrella,umbrella.01_part2,Tip  ,rib,0.5,partial
+WordNet,Zero,part,umbrella.01,Umbrella,Stick umbrella,umbrella.01_part3,Stretchers  ,-,0,missing
+WordNet,Zero,part,umbrella.01,Umbrella,Stick umbrella,umbrella.01_part4,Runner  ,-,0,missing
+WordNet,Zero,part,umbrella.01,Umbrella,Stick umbrella,umbrella.01_part5,Shaft  ,-,0,missing
+WordNet,Zero,part,umbrella.01,Umbrella,Stick umbrella,umbrella.01_part5,Top cap  ,-,0,missing
+WordNet,Zero,part,umbrella.01,Umbrella,Stick umbrella,umbrella.01_part6,Handle  ,handle,1,exact
+WordNet,Few,part,weathervane.01,Weather vane,Weather vane,weathervane.01_part1,ornament,vane,1,exact
+WordNet,Few,part,weathervane.01,Weather vane,Weather vane,weathervane.01_part2,directionals,-,0,missing
+WordNet,Few,part,weathervane.01,Weather vane,Weather vane,weathervane.01_part3,rod,-,0,missing
+WordNet,Few,part,weathervane.01,Weather vane,Weather vane,weathervane.01_part4,mount,-,0,missing
+WordNet,Zero,part,weathervane.01,Weather vane,Weather vane,weathervane.01_part1,Pointer,vane,0.5,partial
+WordNet,Zero,part,weathervane.01,Weather vane,Weather vane,weathervane.01_part2,Mounting rod,-,0,missing
+WordNet,Zero,part,weathervane.01,Weather vane,Weather vane,weathervane.01_part3,Directional arms,-,0,missing
+WordNet,Zero,part,weathervane.01,Weather vane,Weather vane,weathervane.01_part4,End ornament,vane,0.5,partial
+WordNet,Few,part,cupboard.01,Cupboard,Cupboard,cupboard.01_part1,body,-,0,missing
+WordNet,Few,part,cupboard.01,Cupboard,Cupboard,cupboard.01_part2,shelves,-,0,missing
+WordNet,Few,part,cupboard.01,Cupboard,Cupboard,cupboard.01_part3,doors,-,0,missing
+WordNet,Few,part,cupboard.01,Cupboard,Cupboard,cupboard.01_part3,knobs or handles,-,0,missing
+WordNet,Zero,part,cupboard.01,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard.01_part1,Cabinet Frame  ,-,0,missing
+WordNet,Zero,part,cupboard.01,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard.01_part1,Base  ,-,0,missing
+WordNet,Zero,part,cupboard.01,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard.01_part2,Back Panel  ,-,0,missing
+WordNet,Zero,part,cupboard.01,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard.01_part3,Glass Panels  ,-,0,missing
+WordNet,Zero,part,cupboard.01,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard.01_part4,Shelves  ,-,0,missing
+WordNet,Zero,part,cupboard.01,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard.01_part5,Door  ,-,0,missing
+WordNet,Zero,part,cupboard.01,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard.01_part5,Lock  ,-,0,missing
+WordNet,Few,part,brace.07,Dental braces,Traditional metal braces,brace.07_part1,brackets,-,0,missing
+WordNet,Few,part,brace.07,Dental braces,Traditional metal braces,brace.07_part2,archwire,-,0,missing
+WordNet,Few,part,brace.07,Dental braces,Traditional metal braces,brace.07_part3,o-ring bands,-,0,missing
+WordNet,Zero,part,brace.07,Dental braces,Metal Braces,brace.07_part1,Brackets  ,-,0,missing
+WordNet,Zero,part,brace.07,Dental braces,Metal Braces,brace.07_part1,Buccal tube  ,-,0,missing
+WordNet,Zero,part,brace.07,Dental braces,Metal Braces,brace.07_part1,Hooks  ,-,0,missing
+WordNet,Zero,part,brace.07,Dental braces,Metal Braces,brace.07_part1,Bands  ,-,0,missing
+WordNet,Zero,part,brace.07,Dental braces,Metal Braces,brace.07_part2,Archwire  ,-,0,missing
+WordNet,Zero,part,brace.07,Dental braces,Metal Braces,brace.07_part2,Springs  ,-,0,missing
+WordNet,Zero,part,brace.07,Dental braces,Metal Braces,brace.07_part3,Ligature ties  ,-,0,missing
+WordNet,Zero,part,brace.07,Dental braces,Metal Braces,brace.07_part3,Power chains  ,-,0,missing
+WordNet,Zero,part,brace.07,Dental braces,Metal Braces,brace.07_part4,Elastics  ,-,0,missing
+WordNet,Few,part,inhaler.01,Inhaler,Metered-dose inhaler,inhaler.01_part1,canister,-,0,missing
+WordNet,Few,part,inhaler.01,Inhaler,Metered-dose inhaler,inhaler.01_part2,actuator,-,0,missing
+WordNet,Few,part,inhaler.01,Inhaler,Metered-dose inhaler,inhaler.01_part3,mouthpiece,-,0,missing
+WordNet,Few,part,inhaler.01,Inhaler,Metered-dose inhaler,inhaler.01_part4,dose counter,-,0,missing
+WordNet,Zero,part,inhaler.01,Inhaler,Metered-Dose Inhaler,inhaler.01_part1,Canister,-,0,missing
+WordNet,Zero,part,inhaler.01,Inhaler,Metered-Dose Inhaler,inhaler.01_part2,Mouthpiece,-,0,missing
+WordNet,Zero,part,inhaler.01,Inhaler,Metered-Dose Inhaler,inhaler.01_part3,Cap,-,0,missing
+WordNet,Zero,part,inhaler.01,Inhaler,Metered-Dose Inhaler,inhaler.01_part4,actuator,-,0,missing
+WordNet,Zero,part,inhaler.01,Inhaler,Metered-Dose Inhaler,inhaler.01_part5,Dose counter,-,0,missing
+WordNet,Few,part,nightshirt.01,Nightshirt,Traditional nightshirt,nightshirt.01_part1,body  ,-,0,missing
+WordNet,Few,part,nightshirt.01,Nightshirt,Traditional nightshirt,nightshirt.01_part2,sleeves  ,-,0,missing
+WordNet,Few,part,nightshirt.01,Nightshirt,Traditional nightshirt,nightshirt.01_part3,collar  ,-,0,missing
+WordNet,Few,part,nightshirt.01,Nightshirt,Traditional nightshirt,nightshirt.01_part3,placket,-,0,missing
+WordNet,Zero,part,nightshirt.01,Nightshirt,Nightshirt,nightshirt.01_part1,Body ,-,0,missing
+WordNet,Zero,part,nightshirt.01,Nightshirt,Nightshirt,nightshirt.01_part2,Sleeves,-,0,missing
+WordNet,Zero,part,nightshirt.01,Nightshirt,Nightshirt,nightshirt.01_part3,Collar,-,0,missing
+WordNet,Zero,part,nightshirt.01,Nightshirt,Nightshirt,nightshirt.01_part4,Cuffs,-,0,missing
+WordNet,Zero,part,nightshirt.01,Nightshirt,Nightshirt,nightshirt.01_part5,Buttons,-,0,missing
+WordNet,Few,part,webcam.01,Webcam,Standalone webcam,webcam.01_part1,lens  ,-,0,missing
+WordNet,Few,part,webcam.01,Webcam,Standalone webcam,webcam.01_part2,shell  ,-,0,missing
+WordNet,Few,part,webcam.01,Webcam,Standalone webcam,webcam.01_part3,circuit board  ,-,0,missing
+WordNet,Few,part,webcam.01,Webcam,Standalone webcam,webcam.01_part3,sensor  ,-,0,missing
+WordNet,Few,part,webcam.01,Webcam,Standalone webcam,webcam.01_part4,USB cable  ,-,0,missing
+WordNet,Few,part,webcam.01,Webcam,Standalone webcam,webcam.01_part5,mount  ,-,0,missing
+WordNet,Zero,part,webcam.01,Webcam,USB Webcam,webcam.01_part1,Camera lens  ,-,0,missing
+WordNet,Zero,part,webcam.01,Webcam,USB Webcam,webcam.01_part2,Image sensor  ,-,0,missing
+WordNet,Zero,part,webcam.01,Webcam,USB Webcam,webcam.01_part3,USB cable  ,-,0,missing
+WordNet,Zero,part,webcam.01,Webcam,USB Webcam,webcam.01_part4,Mounting clip or stand  ,-,0,missing
+WordNet,Zero,part,webcam.01,Webcam,USB Webcam,webcam.01_part5,Microphone  ,-,0,missing
+WordNet,Zero,part,webcam.01,Webcam,USB Webcam,webcam.01_part6,Housing  ,-,0,missing
+ConceptNet,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part1,wings,wing,1,exact
+ConceptNet,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part2,cockpit,cockpit,1,exact
+ConceptNet,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part3,landing gear,landing gear,1,exact
+ConceptNet,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part4,engines,-,0,missing
+ConceptNet,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part5,fuselage,-,0,missing
+ConceptNet,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part6,tail,rudder,0.5,partial
+ConceptNet,Few,part,aeroplane,Airplane,Commercial airliner,aeroplane_part7,cabin,-,0,missing
+ConceptNet,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part1,Wings,wing,1,exact
+ConceptNet,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part2,Cockpit,cockpit,1,exact
+ConceptNet,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part3,Landing gear,landing gear,1,exact
+ConceptNet,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part4,Engines,-,0,missing
+ConceptNet,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part5,Fuselage,-,0,missing
+ConceptNet,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part6,Propeller,propellers,1,exact
+ConceptNet,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part7,Windows,-,0,missing
+ConceptNet,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part8,Control surfaces,rudder,0.5,partial
+ConceptNet,Zero,part,aeroplane,Airplane,High-Wing Monoplane,aeroplane_part8,Empennage,rudder,0.5,partial
+ConceptNet,Few,part,bell,Bell,Handbell,bell_part1,dome,bell,1,exact
+ConceptNet,Few,part,bell,Bell,Handbell,bell_part2,clapper,clapper,1,exact
+ConceptNet,Few,part,bell,Bell,Handbell,bell_part3,handle,-,0,missing
+ConceptNet,Zero,part,bell,Bell,English Handbell,bell_part1,Bell Casting  ,bell,1,exact
+ConceptNet,Zero,part,bell,Bell,English Handbell,bell_part2,Clapper  ,clapper,1,exact
+ConceptNet,Zero,part,bell,Bell,English Handbell,bell_part2,Clapper Head  ,clapper,0.5,partial
+ConceptNet,Zero,part,bell,Bell,English Handbell,bell_part2,Clapper Shaft  ,clapper,0.5,partial
+ConceptNet,Zero,part,bell,Bell,English Handbell,bell_part3,Handle  ,-,0,missing
+ConceptNet,Few,part,bucket,Bucket,Bucket,bucket_part1,walls,-,0,missing
+ConceptNet,Few,part,bucket,Bucket,Bucket,bucket_part2,bottom,-,0,missing
+ConceptNet,Few,part,bucket,Bucket,Bucket,bucket_part3,handle,handle,1,exact
+ConceptNet,Zero,part,bucket,Bucket,Multi-Purpose Bucket,bucket_part1,Bucket Body  ,-,0,missing
+ConceptNet,Zero,part,bucket,Bucket,Multi-Purpose Bucket,bucket_part2,Handle  ,handle,1,exact
+ConceptNet,Zero,part,bucket,Bucket,Multi-Purpose Bucket,bucket_part3,Base  ,-,0,missing
+ConceptNet,Zero,part,bucket,Bucket,Multi-Purpose Bucket,bucket_part4,Rim  ,-,0,missing
+ConceptNet,Zero,part,bucket,Bucket,Multi-Purpose Bucket,bucket_part4,Spout  ,-,0,missing
+ConceptNet,Few,part,buckle,Buckle,Frame-style buckle,buckle_part1,frame,-,0,missing
+ConceptNet,Few,part,buckle,Buckle,Frame-style buckle,buckle_part2,prong,-,0,missing
+ConceptNet,Zero,part,buckle,Buckle,Roller Frame Buckle,buckle_part1,Frame,-,0,missing
+ConceptNet,Zero,part,buckle,Buckle,Roller Frame Buckle,buckle_part1,Roller,-,0,missing
+ConceptNet,Zero,part,buckle,Buckle,Roller Frame Buckle,buckle_part2,Tongue,-,0,missing
+ConceptNet,Zero,part,buckle,Buckle,Roller Frame Buckle,buckle_part2,Prong,-,0,missing
+ConceptNet,Few,part,bullet,Bullet,Full metal jacket (FMJ) bullet,bullet_part1,jacket,-,0,missing
+ConceptNet,Few,part,bullet,Bullet,Full metal jacket (FMJ) bullet,bullet_part2,core,-,0,missing
+ConceptNet,Few,part,bullet,Bullet,Full metal jacket (FMJ) bullet,bullet_part3,case,-,0,missing
+ConceptNet,Zero,part,bullet,Bullet,Full Metal Jacket Bullet,bullet_part1,Bullet,-,0,missing
+ConceptNet,Zero,part,bullet,Bullet,Full Metal Jacket Bullet,bullet_part2,Casing,-,0,missing
+ConceptNet,Zero,part,bullet,Bullet,Full Metal Jacket Bullet,bullet_part3,Gunpowder,-,0,missing
+ConceptNet,Zero,part,bullet,Bullet,Full Metal Jacket Bullet,bullet_part4,Primer,-,0,missing
+ConceptNet,Few,part,can,Drink can,Pull-tab can,can_part1,body  ,-,0,missing
+ConceptNet,Few,part,can,Drink can,Pull-tab can,can_part2,lid,-,0,missing
+ConceptNet,Few,part,can,Drink can,Pull-tab can,can_part3,pull-tab,-,0,missing
+ConceptNet,Zero,part,can,Drink can,Pull Tab Can,can_part1,Lid,-,0,missing
+ConceptNet,Zero,part,can,Drink can,Pull Tab Can,can_part1,Score,-,0,missing
+ConceptNet,Zero,part,can,Drink can,Pull Tab Can,can_part2,Pull tab,-,0,missing
+ConceptNet,Zero,part,can,Drink can,Pull Tab Can,can_part2,Rivet,-,0,missing
+ConceptNet,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part1,frame  ,-,0,missing
+ConceptNet,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part2,wheels  ,new tires,0.5,partial
+ConceptNet,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part3,body  ,-,0,missing
+ConceptNet,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part4,windows,-,0,missing
+ConceptNet,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part5,door,-,0,missing
+ConceptNet,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part6,hitch  ,-,0,missing
+ConceptNet,Few,part,caravan,Caravan (trailer),Teardrop caravan,caravan_part7,kitchen galley  ,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part1,Body,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part1,Roof Vent  ,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part2,Frame  ,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part3,Wheels  ,new tires,0.5,partial
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part3,Axle,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part4,Hitch  ,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part5,Tail Lights,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part6,Door  ,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part7,Windows  ,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part8,Sleeping Area  ,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part9,Storage Compartments  ,-,0,missing
+ConceptNet,Zero,part,caravan,Caravan (trailer),Teardrop trailer,caravan_part10,Kitchen Area  ,-,0,missing
+ConceptNet,Few,part,chair,Chair,Chair,chair_part1,legs,legs,1,exact
+ConceptNet,Few,part,chair,Chair,Chair,chair_part2,seat,-,0,missing
+ConceptNet,Few,part,chair,Chair,Chair,chair_part3,backrest,back,1,exact
+ConceptNet,Few,part,chair,Chair,Chair,chair_part4,armrests,arm,1,exact
+ConceptNet,Zero,part,chair,Chair,Club Armchair,chair_part1,Seat  ,-,0,missing
+ConceptNet,Zero,part,chair,Chair,Club Armchair,chair_part2,Backrest  ,back,1,exact
+ConceptNet,Zero,part,chair,Chair,Club Armchair,chair_part3,Armrests  ,arm,1,exact
+ConceptNet,Zero,part,chair,Chair,Club Armchair,chair_part4,Legs  ,legs,1,exact
+ConceptNet,Zero,part,chair,Chair,Club Armchair,chair_part5,Frame  ,legs / backrest,0.5,partial
+ConceptNet,Few,part,cupboard,Cupboard,Cupboard,cupboard_part1,body,-,0,missing
+ConceptNet,Few,part,cupboard,Cupboard,Cupboard,cupboard_part2,shelves,-,0,missing
+ConceptNet,Few,part,cupboard,Cupboard,Cupboard,cupboard_part3,doors,door,1,exact
+ConceptNet,Few,part,cupboard,Cupboard,Cupboard,cupboard_part3,knobs or handles,door,0.5,partial
+ConceptNet,Zero,part,cupboard,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard_part1,Cabinet Frame  ,-,0,missing
+ConceptNet,Zero,part,cupboard,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard_part1,Base  ,-,0,missing
+ConceptNet,Zero,part,cupboard,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard_part2,Back Panel  ,-,0,missing
+ConceptNet,Zero,part,cupboard,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard_part3,Glass Panels  ,-,0,missing
+ConceptNet,Zero,part,cupboard,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard_part4,Shelves  ,-,0,missing
+ConceptNet,Zero,part,cupboard,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard_part5,Door  ,door,1,exact
+ConceptNet,Zero,part,cupboard,Cupboard,Glass-Fronted Wall Display Cabinet,cupboard_part5,Lock  ,door with lock,1,exact
+ConceptNet,Few,part,glasses,Glasses,Single vision glasses,glasses_part1,frame  ,frame,1,exact
+ConceptNet,Few,part,glasses,Glasses,Single vision glasses,glasses_part2,lenses  ,lens,1,exact
+ConceptNet,Few,part,glasses,Glasses,Single vision glasses,glasses_part3,nose pads  ,-,0,missing
+ConceptNet,Few,part,glasses,Glasses,Single vision glasses,glasses_part4,temples  ,earpiece,1,exact
+ConceptNet,Few,part,glasses,Glasses,Single vision glasses,glasses_part4,temple tips  ,earpiece,0.5,partial
+ConceptNet,Zero,part,glasses,Glasses,Full-rim glasses,glasses_part1,Frame Front  ,frame,0.5,partial
+ConceptNet,Zero,part,glasses,Glasses,Full-rim glasses,glasses_part1,End Pieces  ,frame,0.5,partial
+ConceptNet,Zero,part,glasses,Glasses,Full-rim glasses,glasses_part2,Nose Pads  ,-,0,missing
+ConceptNet,Zero,part,glasses,Glasses,Full-rim glasses,glasses_part3,Lenses  ,lens,1,exact
+ConceptNet,Zero,part,glasses,Glasses,Full-rim glasses,glasses_part4,Temples  ,earpiece,1,exact
+ConceptNet,Zero,part,glasses,Glasses,Full-rim glasses,glasses_part4,Temple Tips  ,earpiece,0.5,partial
+ConceptNet,Few,part,harp,Harp,Pedal harp,harp_part1,body  ,-,0,missing
+ConceptNet,Few,part,harp,Harp,Pedal harp,harp_part1,soundboard  ,-,0,missing
+ConceptNet,Few,part,harp,Harp,Pedal harp,harp_part2,strings  ,strings,1,exact
+ConceptNet,Few,part,harp,Harp,Pedal harp,harp_part3,base  ,-,0,missing
+ConceptNet,Few,part,harp,Harp,Pedal harp,harp_part4,neck  ,-,0,missing
+ConceptNet,Few,part,harp,Harp,Pedal harp,harp_part5,pedals  ,-,0,missing
+ConceptNet,Few,part,harp,Harp,Pedal harp,harp_part6,column  ,-,0,missing
+ConceptNet,Zero,part,harp,Harp,Pedal Harp,harp_part1,Soundboard  ,-,0,missing
+ConceptNet,Zero,part,harp,Harp,Pedal Harp,harp_part2,Strings  ,strings,1,exact
+ConceptNet,Zero,part,harp,Harp,Pedal Harp,harp_part3,Base  ,-,0,missing
+ConceptNet,Zero,part,harp,Harp,Pedal Harp,harp_part4,Pillar  ,-,0,missing
+ConceptNet,Zero,part,harp,Harp,Pedal Harp,harp_part4,Crown  ,-,0,missing
+ConceptNet,Zero,part,harp,Harp,Pedal Harp,harp_part5,Neck  ,-,0,missing
+ConceptNet,Zero,part,harp,Harp,Pedal Harp,harp_part5,Tuning pins  ,-,0,missing
+ConceptNet,Zero,part,harp,Harp,Pedal Harp,harp_part6,pedals  ,-,0,missing
+ConceptNet,Few,part,jacket,Jacket,Windbreaker,jacket_part1,hood  ,-,0,missing
+ConceptNet,Few,part,jacket,Jacket,Windbreaker,jacket_part2,sleeves  ,-,0,missing
+ConceptNet,Few,part,jacket,Jacket,Windbreaker,jacket_part3,cuffs  ,-,0,missing
+ConceptNet,Few,part,jacket,Jacket,Windbreaker,jacket_part4,waistband  ,-,0,missing
+ConceptNet,Few,part,jacket,Jacket,Windbreaker,jacket_part5,body  ,-,0,missing
+ConceptNet,Few,part,jacket,Jacket,Windbreaker,jacket_part6,zipper  ,zipper,1,exact
+ConceptNet,Few,part,jacket,Jacket,Windbreaker,jacket_part7,pockets  ,-,0,missing
+ConceptNet,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part1,Hood  ,-,0,missing
+ConceptNet,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part2,Collar  ,-,0,missing
+ConceptNet,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part3,Sleeves  ,-,0,missing
+ConceptNet,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part4,Cuffs  ,-,0,missing
+ConceptNet,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part5,Body  ,-,0,missing
+ConceptNet,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part6,Liner  ,-,0,missing
+ConceptNet,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part7,Buttons  ,buttons,1,exact
+ConceptNet,Zero,part,jacket,Jacket,Hooded peacoat,jacket_part8,Pockets  ,-,0,missing
+ConceptNet,Few,part,kite,Kite,Diamond kite,kite_part1,cross frame,-,0,missing
+ConceptNet,Few,part,kite,Kite,Diamond kite,kite_part2,bridle,string,0.5,partial
+ConceptNet,Few,part,kite,Kite,Diamond kite,kite_part3,cover,-,0,missing
+ConceptNet,Few,part,kite,Kite,Diamond kite,kite_part4,tethering line,string,0.5,partial
+ConceptNet,Zero,part,kite,Kite,Diamond Kite,kite_part1,Frame Spars  ,-,0,missing
+ConceptNet,Zero,part,kite,Kite,Diamond Kite,kite_part2,Sail  ,-,0,missing
+ConceptNet,Zero,part,kite,Kite,Diamond Kite,kite_part3,Bridle  ,string,0.5,partial
+ConceptNet,Zero,part,kite,Kite,Diamond Kite,kite_part4,Tails  ,tail,1,exact
+ConceptNet,Zero,part,kite,Kite,Diamond Kite,kite_part5,Flying Line  ,string,0.5,partial
+ConceptNet,Zero,part,kite,Kite,Diamond Kite,kite_part6,Reel  ,-,0,missing
+ConceptNet,Few,part,pencil,Pencil,Wood-cased pencil,pencil_part1,wood casing,-,0,missing
+ConceptNet,Few,part,pencil,Pencil,Wood-cased pencil,pencil_part2,graphite core,lead,1,exact
+ConceptNet,Few,part,pencil,Pencil,Wood-cased pencil,pencil_part3,easer,-,0,missing
+ConceptNet,Zero,part,pencil,Pencil,Graphite pencil,pencil_part1,Core,lead,1,exact
+ConceptNet,Zero,part,pencil,Pencil,Graphite pencil,pencil_part2,Wood casing,-,0,missing
+ConceptNet,Zero,part,pencil,Pencil,Graphite pencil,pencil_part3,Ferrule,-,0,missing
+ConceptNet,Zero,part,pencil,Pencil,Graphite pencil,pencil_part4,Eraser,-,0,missing
+ConceptNet,Few,part,saw,Saw,Hand saw,saw_part1,blade,blade,1,exact
+ConceptNet,Few,part,saw,Saw,Hand saw,saw_part2,handle,-,0,missing
+ConceptNet,Zero,part,saw,Saw,Crosscut hand saw,saw_part1,Blade,blade,1,exact
+ConceptNet,Zero,part,saw,Saw,Crosscut hand saw,saw_part1,Teeth,-,0,missing
+ConceptNet,Zero,part,saw,Saw,Crosscut hand saw,saw_part2,Handle,-,0,missing
+ConceptNet,Zero,part,saw,Saw,Crosscut hand saw,saw_part3,Back,-,0,missing
+ConceptNet,Few,part,scissors,Scissors,General-purpose scissors,scissors_part1,handle,-,0,missing
+ConceptNet,Few,part,scissors,Scissors,General-purpose scissors,scissors_part2,blades,-,0,missing
+ConceptNet,Zero,part,scissors,Scissors,Tailor's Shears,scissors_part1,Blades,-,0,missing
+ConceptNet,Zero,part,scissors,Scissors,Tailor's Shears,scissors_part2,Handle,-,0,missing
+ConceptNet,Zero,part,scissors,Scissors,Tailor's Shears,scissors_part2,Finger Rings,-,0,missing
+ConceptNet,Few,part,shovel,Shovel,Digging shovel,shovel_part1,handle,handle,1,exact
+ConceptNet,Few,part,shovel,Shovel,Digging shovel,shovel_part2,blade,-,0,missing
+ConceptNet,Zero,part,shovel,Shovel,Spade Trench Shovel,shovel_part1,Blade,-,0,missing
+ConceptNet,Zero,part,shovel,Shovel,Spade Trench Shovel,shovel_part1,Step,-,0,missing
+ConceptNet,Zero,part,shovel,Shovel,Spade Trench Shovel,shovel_part2,Socket or Collar,-,0,missing
+ConceptNet,Zero,part,shovel,Shovel,Spade Trench Shovel,shovel_part3,Handle,handle,1,exact
+ConceptNet,Zero,part,shovel,Shovel,Spade Trench Shovel,shovel_part4,Grip,-,0,missing
+ConceptNet,Few,part,toothbrush,Toothbrush,Toothbrush,toothbrush_part1,handle,-,0,missing
+ConceptNet,Few,part,toothbrush,Toothbrush,Toothbrush,toothbrush_part2,head,-,0,missing
+ConceptNet,Few,part,toothbrush,Toothbrush,Toothbrush,toothbrush_part3,bristles,bristles,1,exact
+ConceptNet,Zero,part,toothbrush,Toothbrush,Manual Toothbrush,toothbrush_part1,Handle  ,-,0,missing
+ConceptNet,Zero,part,toothbrush,Toothbrush,Manual Toothbrush,toothbrush_part2,Neck  ,-,0,missing
+ConceptNet,Zero,part,toothbrush,Toothbrush,Manual Toothbrush,toothbrush_part3,Head  ,-,0,missing
+ConceptNet,Zero,part,toothbrush,Toothbrush,Manual Toothbrush,toothbrush_part3,Tongue cleaner  ,-,0,missing
+ConceptNet,Zero,part,toothbrush,Toothbrush,Manual Toothbrush,toothbrush_part4,Bristles  ,bristles,1,exact
+ConceptNet,Few,part,umbrella,Umbrella,stick umbrella,umbrella_part1,canopy  ,-,0,missing
+ConceptNet,Few,part,umbrella,Umbrella,stick umbrella,umbrella_part2,shaft  ,-,0,missing
+ConceptNet,Few,part,umbrella,Umbrella,stick umbrella,umbrella_part3,handle  ,-,0,missing
+ConceptNet,Few,part,umbrella,Umbrella,stick umbrella,umbrella_part4,spike  ,-,0,missing
+ConceptNet,Zero,part,umbrella,Umbrella,Stick umbrella,umbrella_part1,Canopy  ,-,0,missing
+ConceptNet,Zero,part,umbrella,Umbrella,Stick umbrella,umbrella_part2,Ribs  ,spokes,1,exact
+ConceptNet,Zero,part,umbrella,Umbrella,Stick umbrella,umbrella_part2,Tip  ,spokes,0.5,partial
+ConceptNet,Zero,part,umbrella,Umbrella,Stick umbrella,umbrella_part3,Stretchers  ,-,0,missing
+ConceptNet,Zero,part,umbrella,Umbrella,Stick umbrella,umbrella_part4,Runner  ,-,0,missing
+ConceptNet,Zero,part,umbrella,Umbrella,Stick umbrella,umbrella_part5,Shaft  ,-,0,missing
+ConceptNet,Zero,part,umbrella,Umbrella,Stick umbrella,umbrella_part5,Top cap  ,-,0,missing
+ConceptNet,Zero,part,umbrella,Umbrella,Stick umbrella,umbrella_part6,Handle  ,-,0,missing
+ConceptNet,Few,part,window,Window,Sash window,window_part1,frame  ,frame,1,exact
+ConceptNet,Few,part,window,Window,Sash window,window_part1,sill  ,frame,0.5,partial
+ConceptNet,Few,part,window,Window,Sash window,window_part2,sash  ,-,0,missing
+ConceptNet,Few,part,window,Window,Sash window,window_part2,stiles  ,-,0,missing
+ConceptNet,Few,part,window,Window,Sash window,window_part2,rails  ,-,0,missing
+ConceptNet,Few,part,window,Window,Sash window,window_part3,glass pane  ,glass pane,1,exact
+ConceptNet,Few,part,window,Window,Sash window,window_part4,muntins  ,-,0,missing
+ConceptNet,Zero,part,window,Window,Single-hung window,window_part1,Frame  ,frame,1,exact
+ConceptNet,Zero,part,window,Window,Single-hung window,window_part1,Sill  ,frame,0.5,partial
+ConceptNet,Zero,part,window,Window,Single-hung window,window_part1,Jambs  ,frame,0.5,partial
+ConceptNet,Zero,part,window,Window,Single-hung window,window_part1,Head  ,frame,0.5,partial
+ConceptNet,Zero,part,window,Window,Single-hung window,window_part1,Weatherstripping  ,-,0,missing
+ConceptNet,Zero,part,window,Window,Single-hung window,window_part2,Sash  ,-,0,missing
+ConceptNet,Zero,part,window,Window,Single-hung window,window_part3,Glass Pane  ,glass pane,1,exact
+ConceptNet,Zero,part,window,Window,Single-hung window,window_part4,Lock  ,-,0,missing
+ConceptNet,Zero,part,window,Window,Single-hung window,window_part4,Lift Handle  ,-,0,missing
+ConceptNet,Few,-,castanets,-,-,-,-,-,-,-
+ConceptNet,Zero,part,castanets,Castanets,Castanets (Percussion instrument),castenets_part1,-,-,0,missing
+ConceptNet,Zero,part,castanets,Castanets,Castanets (Percussion instrument),castenets_part2,-,-,0,missing
+ConceptNet,Few,-,rice cooker,-,-,-,-,-,-,-
+ConceptNet,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part1,Main body  ,outer pot,1,exact
+ConceptNet,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part2,Inner pot  ,inner pot,1,exact
+ConceptNet,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part3,Lid  ,lid,1,exact
+ConceptNet,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part4,Heating element  ,heating element,1,exact
+ConceptNet,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part4,Thermal sensor  ,-,0,missing
+ConceptNet,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part5,Power cord  ,power cord,1,exact
+ConceptNet,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part6,Control panel  ,power switch,0.5,partial
+ConceptNet,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part7,Steam vent  ,-,0,missing
+ConceptNet,Zero,part,rice cooker,Rice cooker,Electric Rice Cooker,rice cooker_part8,Steaming tray  ,steam rack,1,exact
+ConceptNet,Few,part,air gun,Air gun,CO2 air gun,air gun_part1,barrel,-,0,missing
+ConceptNet,Few,part,air gun,Air gun,CO2 air gun,air gun_part2,CO2 cartridge,-,0,missing
+ConceptNet,Few,part,air gun,Air gun,CO2 air gun,air gun_part3,valve,-,0,missing
+ConceptNet,Few,part,air gun,Air gun,CO2 air gun,air gun_part4,trigger,-,0,missing
+ConceptNet,Zero,part,air gun,Air gun,CO2 powered air gun,air gun_part1,Barrel  ,-,0,missing
+ConceptNet,Zero,part,air gun,Air gun,CO2 powered air gun,air gun_part1,Muzzle  ,-,0,missing
+ConceptNet,Zero,part,air gun,Air gun,CO2 powered air gun,air gun_part2,Trigger  ,-,0,missing
+ConceptNet,Zero,part,air gun,Air gun,CO2 powered air gun,air gun_part3,CO2 Cartridge Holder  ,-,0,missing
+ConceptNet,Zero,part,air gun,Air gun,CO2 powered air gun,air gun_part4,Stock  ,-,0,missing
+ConceptNet,Zero,part,air gun,Air gun,CO2 powered air gun,air gun_part4,Grip  ,-,0,missing
+ConceptNet,Zero,part,air gun,Air gun,CO2 powered air gun,air gun_part5,Sight  ,-,0,missing
+ConceptNet,Zero,part,air gun,Air gun,CO2 powered air gun,air gun_part6,Safety Switch  ,-,0,missing
+ConceptNet,Zero,part,air gun,Air gun,CO2 powered air gun,air gun_part7,Magazine or Pellet Clip  ,-,0,missing
+ConceptNet,Few,part,apron,Apron,Bib apron,apron_part1,body,-,0,missing
+ConceptNet,Few,part,apron,Apron,Bib apron,apron_part2,neck strap,-,0,missing
+ConceptNet,Few,part,apron,Apron,Bib apron,apron_part3,waist ties,-,0,missing
+ConceptNet,Zero,part,apron,Apron,Kitchen apron,apron_part1,Body  ,-,0,missing
+ConceptNet,Zero,part,apron,Apron,Kitchen apron,apron_part2,Neck Strap  ,-,0,missing
+ConceptNet,Zero,part,apron,Apron,Kitchen apron,apron_part3,Waist Ties  ,-,0,missing
+ConceptNet,Zero,part,apron,Apron,Kitchen apron,apron_part4,Pockets  ,-,0,missing
+ConceptNet,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part1,body  ,-,0,missing
+ConceptNet,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part2,grate  ,-,0,missing
+ConceptNet,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part3,burners  ,-,0,missing
+ConceptNet,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part4,lid  ,-,0,missing
+ConceptNet,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part5,knobs  ,-,0,missing
+ConceptNet,Few,part,barbeque grill,Barbecue grill,Gas grill,barbeque grill_part6,starter  ,-,0,missing
+ConceptNet,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part1,Grill Body  ,-,0,missing
+ConceptNet,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part1,Side Shelves  ,-,0,missing
+ConceptNet,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part2,Burners  ,-,0,missing
+ConceptNet,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part3,Cooking Grates  ,-,0,missing
+ConceptNet,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part4,Ignition System  ,-,0,missing
+ConceptNet,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part5,Control Knobs  ,-,0,missing
+ConceptNet,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part6,Thermometer  ,-,0,missing
+ConceptNet,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part7,Drip Tray  ,-,0,missing
+ConceptNet,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part8,Lid  ,-,0,missing
+ConceptNet,Zero,part,barbeque grill,Barbecue grill,Propane Gas Grill,barbeque grill_part9,Wheels  ,-,0,missing
+ConceptNet,Few,part,barrel,Barrel,Barrel,barrel_part1,staves,-,0,missing
+ConceptNet,Few,part,barrel,Barrel,Barrel,barrel_part2,head,-,0,missing
+ConceptNet,Few,part,barrel,Barrel,Barrel,barrel_part3,hoops,-,0,missing
+ConceptNet,Few,part,barrel,Barrel,Barrel,barrel_part4,bung,-,0,missing
+ConceptNet,Zero,part,barrel,Barrel,Wine barrel,barrel_part1,Staves,-,0,missing
+ConceptNet,Zero,part,barrel,Barrel,Wine barrel,barrel_part2,Hoops,-,0,missing
+ConceptNet,Zero,part,barrel,Barrel,Wine barrel,barrel_part3,Head,-,0,missing
+ConceptNet,Zero,part,barrel,Barrel,Wine barrel,barrel_part4,Bung,-,0,missing
+ConceptNet,Few,part,bench,Bench (furniture),Garden bench,bench_part1,legs,-,0,missing
+ConceptNet,Few,part,bench,Bench (furniture),Garden bench,bench_part2,seat,-,0,missing
+ConceptNet,Few,part,bench,Bench (furniture),Garden bench,bench_part3,backrest,-,0,missing
+ConceptNet,Few,part,bench,Bench (furniture),Garden bench,bench_part4,armrest,-,0,missing
+ConceptNet,Zero,part,bench,Bench (furniture),Garden bench,bench_part1,Seat  ,-,0,missing
+ConceptNet,Zero,part,bench,Bench (furniture),Garden bench,bench_part2,Backrest  ,-,0,missing
+ConceptNet,Zero,part,bench,Bench (furniture),Garden bench,bench_part3,Legs  ,-,0,missing
+ConceptNet,Zero,part,bench,Bench (furniture),Garden bench,bench_part4,Armrests  ,-,0,missing
+ConceptNet,Zero,part,bench,Bench (furniture),Garden bench,bench_part5,Supports  ,-,0,missing
+ConceptNet,Few,part,binoculars,Binoculars,Porro prism binoculars,binoculars_part1,body  ,-,0,missing
+ConceptNet,Few,part,binoculars,Binoculars,Porro prism binoculars,binoculars_part2,objective lenses  ,-,0,missing
+ConceptNet,Few,part,binoculars,Binoculars,Porro prism binoculars,binoculars_part3,eyepiece lenses  ,-,0,missing
+ConceptNet,Few,part,binoculars,Binoculars,Porro prism binoculars,binoculars_part4,Porro prisms,-,0,missing
+ConceptNet,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part1,Body  ,-,0,missing
+ConceptNet,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part2,Objective Lenses  ,-,0,missing
+ConceptNet,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part3,Eyepiece Lenses  ,-,0,missing
+ConceptNet,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part4,Eyecups  ,-,0,missing
+ConceptNet,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part4,Diopter Adjustment  ,-,0,missing
+ConceptNet,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part5,Focus Wheel  ,-,0,missing
+ConceptNet,Zero,part,binoculars,Binoculars,Porro prism binoculars,binoculars_part6,Porro Prisms,-,0,missing
+ConceptNet,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part7,Neck Strap  ,-,0,missing
+ConceptNet,Zero,part,binoculars,Binoculars,Porro Prism Binoculars,binoculars_part8,Lens Caps  ,-,0,missing
+ConceptNet,Few,part,bird cage,Birdcage,Travel cage,bird cage_part1,base  ,-,0,missing
+ConceptNet,Few,part,bird cage,Birdcage,Travel cage,bird cage_part2,vertical bars  ,-,0,missing
+ConceptNet,Few,part,bird cage,Birdcage,Travel cage,bird cage_part2,horizontal bars  ,-,0,missing
+ConceptNet,Few,part,bird cage,Birdcage,Travel cage,bird cage_part3,door  ,-,0,missing
+ConceptNet,Few,part,bird cage,Birdcage,Travel cage,bird cage_part4,perch  ,-,0,missing
+ConceptNet,Few,part,bird cage,Birdcage,Travel cage,bird cage_part5,handle  ,-,0,missing
+ConceptNet,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part1,Cage Grill/Base  ,-,0,missing
+ConceptNet,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part2,Vertical Bars/Wires  ,-,0,missing
+ConceptNet,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part2,Horizontal Bars/Wires  ,-,0,missing
+ConceptNet,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part3,Dome Top,-,0,missing
+ConceptNet,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part4,Door,-,0,missing
+ConceptNet,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part4,Latch or Lock,-,0,missing
+ConceptNet,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part5,Perch  ,-,0,missing
+ConceptNet,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part6,Feeding Bowl,-,0,missing
+ConceptNet,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part7,Drinking Bowl,-,0,missing
+ConceptNet,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part8,Tray,-,0,missing
+ConceptNet,Zero,part,bird cage,Birdcage,Dome Top Birdcage,bird cage_part9,Seed Guard  ,-,0,missing
+ConceptNet,Few,part,boot,Boot,Work boots,boots_part1,sole  ,-,0,missing
+ConceptNet,Few,part,boot,Boot,Work boots,boots_part2,heel  ,-,0,missing
+ConceptNet,Few,part,boot,Boot,Work boots,boots_part3,insole  ,-,0,missing
+ConceptNet,Few,part,boot,Boot,Work boots,boots_part4,vamp  ,-,0,missing
+ConceptNet,Few,part,boot,Boot,Work boots,boots_part4,toe cap,-,0,missing
+ConceptNet,Few,part,boot,Boot,Work boots,boots_part5,quarter  ,-,0,missing
+ConceptNet,Few,part,boot,Boot,Work boots,boots_part6,lining  ,-,0,missing
+ConceptNet,Few,part,boot,Boot,Work boots,boots_part7,laces  ,-,0,missing
+ConceptNet,Few,part,boot,Boot,Work boots,boots_part8,tongue  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part1,Upper  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part1,Padded Collar  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part2,Laces  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part3,Eyelets,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part4,Tongue  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part5,Sole  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part6,Heel  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part7,Toe Cap  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part8,Insole  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part9,Lining  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part10,Pull Tab  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part11,Zipper  ,-,0,missing
+ConceptNet,Zero,part,boot,Boot,Lace-Up Ankle Boot,boots_part12,Outsole  ,-,0,missing
+ConceptNet,Few,part,cassette deck,Cassette deck,Single cassette deck,cassette deck_part1,cassette holder  ,-,0,missing
+ConceptNet,Few,part,cassette deck,Cassette deck,Single cassette deck,cassette deck_part2,heads  ,-,0,missing
+ConceptNet,Few,part,cassette deck,Cassette deck,Single cassette deck,cassette deck_part3,capstan  ,-,0,missing
+ConceptNet,Few,part,cassette deck,Cassette deck,Single cassette deck,cassette deck_part3,rollers  ,-,0,missing
+ConceptNet,Few,part,cassette deck,Cassette deck,Single cassette deck,cassette deck_part4,motor  ,-,0,missing
+ConceptNet,Few,part,cassette deck,Cassette deck,Single cassette deck,cassette deck_part4,electronics  ,-,0,missing
+ConceptNet,Few,part,cassette deck,Cassette deck,Single cassette deck,cassette deck_part5,output jacks  ,-,0,missing
+ConceptNet,Zero,part,cassette deck,Cassette deck,Cassette deck,cassette deck_part1,Cassette holder  ,-,0,missing
+ConceptNet,Zero,part,cassette deck,Cassette deck,Cassette deck,cassette deck_part2,Play/Record/Stop/Eject buttons  ,-,0,missing
+ConceptNet,Zero,part,cassette deck,Cassette deck,Cassette deck,cassette deck_part3,Head unit  ,-,0,missing
+ConceptNet,Zero,part,cassette deck,Cassette deck,Cassette deck,cassette deck_part4,Capstan and pinch roller  ,-,0,missing
+ConceptNet,Zero,part,cassette deck,Cassette deck,Cassette deck,cassette deck_part4,Belts  ,-,0,missing
+ConceptNet,Zero,part,cassette deck,Cassette deck,Cassette deck,cassette deck_part5,Motor  ,-,0,missing
+ConceptNet,Zero,part,cassette deck,Cassette deck,Cassette deck,cassette deck_part5,Power supply connector  ,-,0,missing
+ConceptNet,Zero,part,cassette deck,Cassette deck,Cassette deck,cassette deck_part6,Outputs/Inputs sockets  ,-,0,missing
+ConceptNet,Zero,part,cassette deck,Cassette deck,Cassette deck,cassette deck_part7,Volume control  ,-,0,missing
+ConceptNet,Zero,part,cassette deck,Cassette deck,Cassette deck,cassette deck_part8,Display  ,-,0,missing
+ConceptNet,Few,part,chest,Chest (furniture),Hope chest,chest_part1,frame,-,0,missing
+ConceptNet,Few,part,chest,Chest (furniture),Hope chest,chest_part2,storage compartment,-,0,missing
+ConceptNet,Few,part,chest,Chest (furniture),Hope chest,chest_part3,lid,-,0,missing
+ConceptNet,Few,part,chest,Chest (furniture),Hope chest,chest_part4,lock,-,0,missing
+ConceptNet,Zero,part,chest,Chest (furniture),Hope chest,chest_part1,Box Body,-,0,missing
+ConceptNet,Zero,part,chest,Chest (furniture),Hope chest,chest_part2,Lid,-,0,missing
+ConceptNet,Zero,part,chest,Chest (furniture),Hope chest,chest_part3,Lock,-,0,missing
+ConceptNet,Zero,part,chest,Chest (furniture),Hope chest,chest_part4,Handles,-,0,missing
+ConceptNet,Few,part,coffee maker,Coffeemaker,Drip coffeemaker,coffee maker_part1,water reservoir  ,-,0,missing
+ConceptNet,Few,part,coffee maker,Coffeemaker,Drip coffeemaker,coffee maker_part2,filter basket  ,-,0,missing
+ConceptNet,Few,part,coffee maker,Coffeemaker,Drip coffeemaker,coffee maker_part3,heating element  ,-,0,missing
+ConceptNet,Few,part,coffee maker,Coffeemaker,Drip coffeemaker,coffee maker_part4,carafe  ,-,0,missing
+ConceptNet,Few,part,coffee maker,Coffeemaker,Drip coffeemaker,coffee maker_part5,hot plate  ,-,0,missing
+ConceptNet,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part1,Water reservoir  ,-,0,missing
+ConceptNet,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part2,Heating element  ,-,0,missing
+ConceptNet,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part3,Drip area  ,-,0,missing
+ConceptNet,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part4,Filter basket  ,-,0,missing
+ConceptNet,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part4,Coffee filter  ,-,0,missing
+ConceptNet,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part5,Carafe or pot  ,-,0,missing
+ConceptNet,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part6,Warming plate  ,-,0,missing
+ConceptNet,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part7,On/off switch  ,-,0,missing
+ConceptNet,Zero,part,coffee maker,Coffeemaker,Electric Drip Coffee Maker,coffee maker_part8,Power cord  ,-,0,missing
+ConceptNet,Few,part,dental braces,Dental braces,Traditional metal braces,dental braces_part1,brackets,-,0,missing
+ConceptNet,Few,part,dental braces,Dental braces,Traditional metal braces,dental braces_part2,archwire,-,0,missing
+ConceptNet,Few,part,dental braces,Dental braces,Traditional metal braces,dental braces_part3,o-ring bands,-,0,missing
+ConceptNet,Zero,part,dental braces,Dental braces,Metal Braces,dental braces_part1,Brackets  ,-,0,missing
+ConceptNet,Zero,part,dental braces,Dental braces,Metal Braces,dental braces_part1,Buccal tube  ,-,0,missing
+ConceptNet,Zero,part,dental braces,Dental braces,Metal Braces,dental braces_part1,Hooks  ,-,0,missing
+ConceptNet,Zero,part,dental braces,Dental braces,Metal Braces,dental braces_part1,Bands  ,-,0,missing
+ConceptNet,Zero,part,dental braces,Dental braces,Metal Braces,dental braces_part2,Archwire  ,-,0,missing
+ConceptNet,Zero,part,dental braces,Dental braces,Metal Braces,dental braces_part2,Springs  ,-,0,missing
+ConceptNet,Zero,part,dental braces,Dental braces,Metal Braces,dental braces_part3,Ligature ties  ,-,0,missing
+ConceptNet,Zero,part,dental braces,Dental braces,Metal Braces,dental braces_part3,Power chains  ,-,0,missing
+ConceptNet,Zero,part,dental braces,Dental braces,Metal Braces,dental braces_part4,Elastics  ,-,0,missing
+ConceptNet,Few,part,digital camera,Digital camera,Digital camera,digital camera_part1,body  ,-,0,missing
+ConceptNet,Few,part,digital camera,Digital camera,Digital camera,digital camera_part2,lens  ,-,0,missing
+ConceptNet,Few,part,digital camera,Digital camera,Digital camera,digital camera_part3,image sensor  ,-,0,missing
+ConceptNet,Few,part,digital camera,Digital camera,Digital camera,digital camera_part4,screen  ,-,0,missing
+ConceptNet,Few,part,digital camera,Digital camera,Digital camera,digital camera_part5,viewfinder  ,-,0,missing
+ConceptNet,Few,part,digital camera,Digital camera,Digital camera,digital camera_part6,controls  ,-,0,missing
+ConceptNet,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part1,Camera Body  ,-,0,missing
+ConceptNet,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part1,Memory Card Slot  ,-,0,missing
+ConceptNet,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part1,Battery Compartment  ,-,0,missing
+ConceptNet,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part1,Tripod Mount  ,-,0,missing
+ConceptNet,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part2,Image Sensor  ,-,0,missing
+ConceptNet,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part3,Electronic Viewfinder  ,-,0,missing
+ConceptNet,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part4,LCD Screen  ,-,0,missing
+ConceptNet,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part5,Control Dials and Buttons  ,-,0,missing
+ConceptNet,Zero,part,digital camera,Digital camera,Mirrorless Interchangeable Lens Camera,digital camera_part6,Electronic Contacts  ,-,0,missing
+ConceptNet,Few,part,digital clinical thermometer,Electronic medical thermometer,Electronic medical thermometer,digital clinical thermometer_part1,display,-,0,missing
+ConceptNet,Few,part,digital clinical thermometer,Electronic medical thermometer,Electronic medical thermometer,digital clinical thermometer_part2,sensor,-,0,missing
+ConceptNet,Few,part,digital clinical thermometer,Electronic medical thermometer,Electronic medical thermometer,digital clinical thermometer_part3,casing,-,0,missing
+ConceptNet,Few,part,digital clinical thermometer,Electronic medical thermometer,Electronic medical thermometer,digital clinical thermometer_part4,battery,-,0,missing
+ConceptNet,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part1,Display screen  ,-,0,missing
+ConceptNet,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part2,Flexible tip  ,-,0,missing
+ConceptNet,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part3,Power button  ,-,0,missing
+ConceptNet,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part4,Battery compartment  ,-,0,missing
+ConceptNet,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part4,Outer casing  ,-,0,missing
+ConceptNet,Zero,part,digital clinical thermometer,Digital stick thermometer,Flexible tip digital thermometer,digital clinical thermometer_part5,Speaker or beeper  ,-,0,missing
+ConceptNet,Few,part,dressing gown,Dressing gown,Dressing gown,dressing gown_part1,body,-,0,missing
+ConceptNet,Few,part,dressing gown,Dressing gown,Dressing gown,dressing gown_part2,sleeves,-,0,missing
+ConceptNet,Few,part,dressing gown,Dressing gown,Dressing gown,dressing gown_part3,collar,-,0,missing
+ConceptNet,Few,part,dressing gown,Dressing gown,Dressing gown,dressing gown_part4,belt,-,0,missing
+ConceptNet,Zero,part,dressing gown,Dressing gown,Hooded dressing gown,dressing gown_part1,Body,-,0,missing
+ConceptNet,Zero,part,dressing gown,Dressing gown,Hooded dressing gown,dressing gown_part2,Sleeves,-,0,missing
+ConceptNet,Zero,part,dressing gown,Dressing gown,Hooded dressing gown,dressing gown_part3,Hood,-,0,missing
+ConceptNet,Zero,part,dressing gown,Dressing gown,Hooded dressing gown,dressing gown_part4,Belt,-,0,missing
+ConceptNet,Zero,part,dressing gown,Dressing gown,Hooded dressing gown,dressing gown_part5,Pockets,-,0,missing
+ConceptNet,Zero,part,dressing gown,Dressing gown,Hooded dressing gown,dressing gown_part6,Trim,-,0,missing
+ConceptNet,Few,part,earphone,Headphones,In-ear headphones,earphone_part1,earbud tips,-,0,missing
+ConceptNet,Few,part,earphone,Headphones,In-ear headphones,earphone_part2,drivers,-,0,missing
+ConceptNet,Few,part,earphone,Headphones,In-ear headphones,earphone_part3,cable,-,0,missing
+ConceptNet,Few,part,earphone,Headphones,In-ear headphones,earphone_part4,audio connector,-,0,missing
+ConceptNet,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part1,Earbud Housing  ,-,0,missing
+ConceptNet,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part2,Speaker Driver  ,-,0,missing
+ConceptNet,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part3,Ear Tips  ,-,0,missing
+ConceptNet,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part4,Cable  ,-,0,missing
+ConceptNet,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part4,Strain Reliefs  ,-,0,missing
+ConceptNet,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part4,In-line Remote  ,-,0,missing
+ConceptNet,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part5,Plug  ,-,0,missing
+ConceptNet,Zero,part,earphone,Audio headset,Wired Earbuds,earphone_part6,Microphone  ,-,0,missing
+ConceptNet,Few,part,electric stove,Electric stove,Electric coil stove,electric stove_part1,cooktop,-,0,missing
+ConceptNet,Few,part,electric stove,Electric stove,Electric coil stove,electric stove_part2,control knob,-,0,missing
+ConceptNet,Few,part,electric stove,Electric stove,Electric coil stove,electric stove_part3,heating elements,-,0,missing
+ConceptNet,Few,part,electric stove,Electric stove,Electric coil stove,electric stove_part4,drip pans,-,0,missing
+ConceptNet,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part1,Control Panel  ,-,0,missing
+ConceptNet,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part2,Cooktop Surface  ,-,0,missing
+ConceptNet,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part3,Induction Coils  ,-,0,missing
+ConceptNet,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part4,Oven  ,-,0,missing
+ConceptNet,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part5,Oven Rack  ,-,0,missing
+ConceptNet,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part6,Oven Door  ,-,0,missing
+ConceptNet,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part7,Storage Drawer  ,-,0,missing
+ConceptNet,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part8,Power Cord  ,-,0,missing
+ConceptNet,Zero,part,electric stove,Electric stove,Freestanding induction range,electric stove_part9,Leveling Legs,-,0,missing
+ConceptNet,Few,part,ferry,Ferry,Foot ferry,ferry_part1,hull  ,-,0,missing
+ConceptNet,Few,part,ferry,Ferry,Foot ferry,ferry_part2,engine  ,-,0,missing
+ConceptNet,Few,part,ferry,Ferry,Foot ferry,ferry_part3,rudder  ,-,0,missing
+ConceptNet,Few,part,ferry,Ferry,Foot ferry,ferry_part4,deck  ,-,0,missing
+ConceptNet,Few,part,ferry,Ferry,Foot ferry,ferry_part5,seats or benches  ,-,0,missing
+ConceptNet,Few,part,ferry,Ferry,Foot ferry,ferry_part6,passenger amenities  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part1,Hull  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part2,Deck  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part2,Safety rails,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part3,Rudder  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part3,Propellers  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part4,Bridge  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part5,Passenger seats  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part6,Life jackets  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part7,Windows  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part8,Doors  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part8,Emergency exits  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part9,Anchor  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part11,Restrooms  ,-,0,missing
+ConceptNet,Zero,part,ferry,Ferry,High-speed catamaran car ferry,ferry_part12,Boarding ramps  ,-,0,missing
+ConceptNet,Few,part,fire extinguisher,Fire extinguisher,Cartridge operated fire extinguisher,fire extinguisher_part1,cylinder  ,-,0,missing
+ConceptNet,Few,part,fire extinguisher,Fire extinguisher,Cartridge operated fire extinguisher,fire extinguisher_part2,valve  ,-,0,missing
+ConceptNet,Few,part,fire extinguisher,Fire extinguisher,Cartridge operated fire extinguisher,fire extinguisher_part3,hose or nozzle  ,-,0,missing
+ConceptNet,Few,part,fire extinguisher,Fire extinguisher,Cartridge operated fire extinguisher,fire extinguisher_part4,pressure cartridge  ,-,0,missing
+ConceptNet,Few,part,fire extinguisher,Fire extinguisher,Cartridge operated fire extinguisher,fire extinguisher_part4,extinguishing agent tank  ,-,0,missing
+ConceptNet,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part1,Cylinder  ,-,0,missing
+ConceptNet,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part1,Base,-,0,missing
+ConceptNet,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part2,Siphon tube  ,-,0,missing
+ConceptNet,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part3,Handle and lever  ,-,0,missing
+ConceptNet,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part4,Discharge nozzle  ,-,0,missing
+ConceptNet,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part5,Pressure gauge  ,-,0,missing
+ConceptNet,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part6,Valve assembly  ,-,0,missing
+ConceptNet,Zero,part,fire extinguisher,Fire extinguisher,Carbon Dioxide Fire Extinguisher,fire extinguisher_part6,Safety pin  ,-,0,missing
+ConceptNet,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part1,body  ,-,0,missing
+ConceptNet,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part2,reflector  ,-,0,missing
+ConceptNet,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part3,lens,-,0,missing
+ConceptNet,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part4,LED or lamp  ,-,0,missing
+ConceptNet,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part5,built-in rechargeable battery  ,-,0,missing
+ConceptNet,Few,part,flashlight,Flashlight,Rechargeable flashlight,flashlight_part6,switch,-,0,missing
+ConceptNet,Zero,part,flashlight,Flashlight,Incandescent Bulb Handheld Flashlight,flashlight_part1,Body  ,-,0,missing
+ConceptNet,Zero,part,flashlight,Flashlight,Incandescent Bulb Handheld Flashlight,flashlight_part2,Reflector  ,-,0,missing
+ConceptNet,Zero,part,flashlight,Flashlight,Incandescent Bulb Handheld Flashlight,flashlight_part3,Lens  ,-,0,missing
+ConceptNet,Zero,part,flashlight,Flashlight,Incandescent Bulb Handheld Flashlight,flashlight_part4,Switch  ,-,0,missing
+ConceptNet,Zero,part,flashlight,Flashlight,Incandescent Bulb Handheld Flashlight,flashlight_part5,Light Bulb  ,-,0,missing
+ConceptNet,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part1,body  ,-,0,missing
+ConceptNet,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part2,motor  ,-,0,missing
+ConceptNet,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part3,fan blade  ,-,0,missing
+ConceptNet,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part4,heating element  ,-,0,missing
+ConceptNet,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part5,nozzle  ,-,0,missing
+ConceptNet,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part6,cord  ,-,0,missing
+ConceptNet,Few,part,hair dryer,Hair dryer,Handheld hair dryer,hair dryer_part7,switch  ,-,0,missing
+ConceptNet,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part1,Body Casing  ,-,0,missing
+ConceptNet,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part2,Airflow Vents  ,-,0,missing
+ConceptNet,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part3,Motor  ,-,0,missing
+ConceptNet,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part4,Fan  ,-,0,missing
+ConceptNet,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part5,Heating Element  ,-,0,missing
+ConceptNet,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part6,On/Off Switch  ,-,0,missing
+ConceptNet,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part6,Heat/Speed Settings  ,-,0,missing
+ConceptNet,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part7,Power Cord  ,-,0,missing
+ConceptNet,Zero,part,hair dryer,Hair dryer,Wall-mounted hair dryer,hair dryer_part8,Nozzle  ,-,0,missing
+ConceptNet,Few,part,helmet,Helmet,Motorcycle helmet,helmet_part1,shell  ,-,0,missing
+ConceptNet,Few,part,helmet,Helmet,Motorcycle helmet,helmet_part2,comfort padding  ,-,0,missing
+ConceptNet,Few,part,helmet,Helmet,Motorcycle helmet,helmet_part2,impact-absorbing liner  ,-,0,missing
+ConceptNet,Few,part,helmet,Helmet,Motorcycle helmet,helmet_part3,chin strap  ,-,0,missing
+ConceptNet,Few,part,helmet,Helmet,Motorcycle helmet,helmet_part4,visor  ,-,0,missing
+ConceptNet,Zero,part,helmet,Helmet,Full-Face Helmet,helmet_part1,Shell  ,-,0,missing
+ConceptNet,Zero,part,helmet,Helmet,Full-Face Helmet,helmet_part2,Liner  ,-,0,missing
+ConceptNet,Zero,part,helmet,Helmet,Full-Face Helmet,helmet_part2,Cheek pads  ,-,0,missing
+ConceptNet,Zero,part,helmet,Helmet,Full-Face Helmet,helmet_part3,Visor  ,-,0,missing
+ConceptNet,Zero,part,helmet,Helmet,Full-Face Helmet,helmet_part4,Chin strap  ,-,0,missing
+ConceptNet,Few,part,humidifier,Humidifier,Ultrasonic humidifier,humidifier_part1,water tank,-,0,missing
+ConceptNet,Few,part,humidifier,Humidifier,Ultrasonic humidifier,humidifier_part2,vibrating diaphragm,-,0,missing
+ConceptNet,Few,part,humidifier,Humidifier,Ultrasonic humidifier,humidifier_part3,mist outlet,-,0,missing
+ConceptNet,Few,part,humidifier,Humidifier,Ultrasonic humidifier,humidifier_part4,Control Panel  ,-,0,missing
+ConceptNet,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part1,Water tank  ,-,0,missing
+ConceptNet,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part2,Ultrasonic vibrating plate  ,-,0,missing
+ConceptNet,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part3,Mist nozzle  ,-,0,missing
+ConceptNet,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part4,Water basin  ,-,0,missing
+ConceptNet,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part5,Control panel  ,-,0,missing
+ConceptNet,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part5,LED light  ,-,0,missing
+ConceptNet,Zero,part,humidifier,Humidifier,Cool Mist Ultrasonic Humidifier,humidifier_part6,Power cord  ,-,0,missing
+ConceptNet,Few,part,inhaler,Inhaler,Metered-dose inhaler,inhaler_part1,canister,-,0,missing
+ConceptNet,Few,part,inhaler,Inhaler,Metered-dose inhaler,inhaler_part2,actuator,-,0,missing
+ConceptNet,Few,part,inhaler,Inhaler,Metered-dose inhaler,inhaler_part3,mouthpiece,-,0,missing
+ConceptNet,Few,part,inhaler,Inhaler,Metered-dose inhaler,inhaler_part4,dose counter,-,0,missing
+ConceptNet,Zero,part,inhaler,Inhaler,Metered-Dose Inhaler,inhaler_part1,Canister,-,0,missing
+ConceptNet,Zero,part,inhaler,Inhaler,Metered-Dose Inhaler,inhaler_part2,Mouthpiece,-,0,missing
+ConceptNet,Zero,part,inhaler,Inhaler,Metered-Dose Inhaler,inhaler_part3,Cap,-,0,missing
+ConceptNet,Zero,part,inhaler,Inhaler,Metered-Dose Inhaler,inhaler_part4,actuator,-,0,missing
+ConceptNet,Zero,part,inhaler,Inhaler,Metered-Dose Inhaler,inhaler_part5,Dose counter,-,0,missing
+ConceptNet,Few,part,loveseat,Loveseat,Loveseat,loveseat_part1,frame  ,-,0,missing
+ConceptNet,Few,part,loveseat,Loveseat,Loveseat,loveseat_part2,legs  ,-,0,missing
+ConceptNet,Few,part,loveseat,Loveseat,Loveseat,loveseat_part3,backrest  ,-,0,missing
+ConceptNet,Few,part,loveseat,Loveseat,Loveseat,loveseat_part4,armrest  ,-,0,missing
+ConceptNet,Few,part,loveseat,Loveseat,Loveseat,loveseat_part5,seat cushion  ,-,0,missing
+ConceptNet,Few,part,loveseat,Loveseat,Loveseat,loveseat_part5,back cushion  ,-,0,missing
+ConceptNet,Zero,part,loveseat,Loveseat,Loveseat,loveseat_part1,Frame  ,-,0,missing
+ConceptNet,Zero,part,loveseat,Loveseat,Loveseat,loveseat_part2,Backrest  ,-,0,missing
+ConceptNet,Zero,part,loveseat,Loveseat,Loveseat,loveseat_part3,Seat Cushions  ,-,0,missing
+ConceptNet,Zero,part,loveseat,Loveseat,Loveseat,loveseat_part3,Back Cushions  ,-,0,missing
+ConceptNet,Zero,part,loveseat,Loveseat,Loveseat,loveseat_part4,Arms  ,-,0,missing
+ConceptNet,Zero,part,loveseat,Loveseat,Loveseat,loveseat_part5,Legs  ,-,0,missing
+ConceptNet,Few,part,key,Key (instrument),Key (instrument),key_part1,blade  ,-,0,missing
+ConceptNet,Few,part,key,Key (instrument),Key (instrument),key_part2,tip  ,-,0,missing
+ConceptNet,Few,part,key,Key (instrument),Key (instrument),key_part3,bow  ,-,0,missing
+ConceptNet,Few,part,key,Key (instrument),Key (instrument),key_part4,shoulder  ,-,0,missing
+ConceptNet,Zero,part,key,Key (instrument),Key (instrument),key_part1,Bow  ,-,0,missing
+ConceptNet,Zero,part,key,Key (instrument),Key (instrument),key_part2,Shaft  ,-,0,missing
+ConceptNet,Zero,part,key,Key (instrument),Key (instrument),key_part2,Bit  ,-,0,missing
+ConceptNet,Zero,part,key,Key (instrument),Key (instrument),key_part2,Ward notches  ,-,0,missing
+ConceptNet,Zero,part,key,Key (instrument),Key (instrument),key_part3,Tip  ,-,0,missing
+ConceptNet,Few,part,marker pen,Marker pen,Marker pen,marker pen_part1,body ,-,0,missing
+ConceptNet,Few,part,marker pen,Marker pen,Marker pen,marker pen_part2,cap,-,0,missing
+ConceptNet,Few,part,marker pen,Marker pen,Marker pen,marker pen_part3,nib,-,0,missing
+ConceptNet,Few,part,marker pen,Marker pen,Marker pen,marker pen_part4,internal reservoir,-,0,missing
+ConceptNet,Zero,part,marker pen,Marker pen,Highlighter pen,marker pen_part1,Cap  ,-,0,missing
+ConceptNet,Zero,part,marker pen,Marker pen,Highlighter pen,marker pen_part1,Clip  ,-,0,missing
+ConceptNet,Zero,part,marker pen,Marker pen,Highlighter pen,marker pen_part2,Body  ,-,0,missing
+ConceptNet,Zero,part,marker pen,Marker pen,Highlighter pen,marker pen_part3,Nib  ,-,0,missing
+ConceptNet,Zero,part,marker pen,Marker pen,Highlighter pen,marker pen_part4,Reservoir  ,-,0,missing
+ConceptNet,Zero,part,marker pen,Marker pen,Highlighter pen,marker pen_part4,Ink  ,-,0,missing
+ConceptNet,Zero,part,marker pen,Marker pen,Highlighter pen,marker pen_part5,End cap  ,-,0,missing
+ConceptNet,Few,part,microwave,Microwave oven,Microwave oven,microwave_part1,cabinet  ,-,0,missing
+ConceptNet,Few,part,microwave,Microwave oven,Microwave oven,microwave_part2,door  ,-,0,missing
+ConceptNet,Few,part,microwave,Microwave oven,Microwave oven,microwave_part3,control panel  ,-,0,missing
+ConceptNet,Few,part,microwave,Microwave oven,Microwave oven,microwave_part4,microwave generator  ,-,0,missing
+ConceptNet,Few,part,microwave,Microwave oven,Microwave oven,microwave_part4,waveguide  ,-,0,missing
+ConceptNet,Few,part,microwave,Microwave oven,Microwave oven,microwave_part5,cooking chamber  ,-,0,missing
+ConceptNet,Few,part,microwave,Microwave oven,Microwave oven,microwave_part6,light  ,-,0,missing
+ConceptNet,Few,part,microwave,Microwave oven,Microwave oven,microwave_part7,power supply  ,-,0,missing
+ConceptNet,Few,part,microwave,Microwave oven,Microwave oven,microwave_part8,turntable  ,-,0,missing
+ConceptNet,Few,part,microwave,Microwave oven,Microwave oven,microwave_part8,turntable motor  ,-,0,missing
+ConceptNet,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part1,Door  ,-,0,missing
+ConceptNet,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part2,Control panel  ,-,0,missing
+ConceptNet,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part3,Turntable  ,-,0,missing
+ConceptNet,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part3,Glass tray  ,-,0,missing
+ConceptNet,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part4,Cooking cavity  ,-,0,missing
+ConceptNet,Zero,part,microwave,Microwave oven,Solo Microwave Oven,microwave_part5,Power cord  ,-,0,missing
+ConceptNet,Few,part,mop,Mop,String mop,mop_part1,handle,-,0,missing
+ConceptNet,Few,part,mop,Mop,String mop,mop_part2,mop head,-,0,missing
+ConceptNet,Few,part,mop,Mop,String mop,mop_part3,strings,-,0,missing
+ConceptNet,Zero,part,mop,Mop,Cut-end string mop,mop_part1,Mop Head  ,-,0,missing
+ConceptNet,Zero,part,mop,Mop,Cut-end string mop,mop_part2,Mop Strings  ,-,0,missing
+ConceptNet,Zero,part,mop,Mop,Cut-end string mop,mop_part3,Handle  ,-,0,missing
+ConceptNet,Zero,part,mop,Mop,Cut-end string mop,mop_part3,Mop End Cap  ,-,0,missing
+ConceptNet,Zero,part,mop,Mop,Cut-end string mop,mop_part4,Connector  ,-,0,missing
+ConceptNet,Few,part,mortarboard,Square academic cap,Square academic cap,mortarboard_part1,mortarboard,-,0,missing
+ConceptNet,Few,part,mortarboard,Square academic cap,Square academic cap,mortarboard_part2,skullcap,-,0,missing
+ConceptNet,Few,part,mortarboard,Square academic cap,Square academic cap,mortarboard_part3,tassel,-,0,missing
+ConceptNet,Zero,part,mortarboard,Square academic cap,Square academic cap,mortarboard_part1,Mortarboard,-,0,missing
+ConceptNet,Zero,part,mortarboard,Square academic cap,Square academic cap,mortarboard_part2,Skull cap,-,0,missing
+ConceptNet,Zero,part,mortarboard,Square academic cap,Square academic cap,mortarboard_part2,Headband or elastic strap,-,0,missing
+ConceptNet,Zero,part,mortarboard,Square academic cap,Square academic cap,mortarboard_part3,Tassel,-,0,missing
+ConceptNet,Zero,part,mortarboard,Square academic cap,Square academic cap,mortarboard_part3,Tassel attachment button,-,0,missing
+ConceptNet,Few,part,paddle,Paddle,Paddle,paddle_part1,blade,-,0,missing
+ConceptNet,Few,part,paddle,Paddle,Paddle,paddle_part2,shaft,-,0,missing
+ConceptNet,Few,part,paddle,Paddle,Paddle,paddle_part3,grip,-,0,missing
+ConceptNet,Zero,part,paddle,Paddle,Canoe paddle,paddle_part1,Grip,-,0,missing
+ConceptNet,Zero,part,paddle,Paddle,Canoe paddle,paddle_part2,Shaft,-,0,missing
+ConceptNet,Zero,part,paddle,Paddle,Canoe paddle,paddle_part2,Throat,-,0,missing
+ConceptNet,Zero,part,paddle,Paddle,Canoe paddle,paddle_part3,Blade,-,0,missing
+ConceptNet,Zero,part,paddle,Paddle,Canoe paddle,paddle_part3,Tip,-,0,missing
+ConceptNet,Few,part,pencil case,Pencil case,Pencil case,pencil case_part1,body,-,0,missing
+ConceptNet,Few,part,pencil case,Pencil case,Pencil case,pencil case_part2,zipper,-,0,missing
+ConceptNet,Few,part,pencil case,Pencil case,Pencil case,pencil case_part2,button,-,0,missing
+ConceptNet,Few,part,pencil case,Pencil case,Pencil case,pencil case_part3,velcro,-,0,missing
+ConceptNet,Few,part,pencil case,Pencil case,Pencil case,pencil case_part4,compartment,-,0,missing
+ConceptNet,Zero,part,pencil case,Pencil case,Hinged-lid pencil case,pencil case_part1,Lid,-,0,missing
+ConceptNet,Zero,part,pencil case,Pencil case,Hinged-lid pencil case,pencil case_part2,Base,-,0,missing
+ConceptNet,Zero,part,pencil case,Pencil case,Hinged-lid pencil case,pencil case_part3,Latch or Clasp,-,0,missing
+ConceptNet,Few,part,quill,Quill,Quill,quill_part1,barrel,-,0,missing
+ConceptNet,Few,part,quill,Quill,Quill,quill_part2,nib,-,0,missing
+ConceptNet,Few,part,quill,Quill,Quill,quill_part3,feather,-,0,missing
+ConceptNet,Zero,part,quill,Quill,Quill,quill_part1,Barrel,-,0,missing
+ConceptNet,Zero,part,quill,Quill,Quill,quill_part1,Hollow shaft,-,0,missing
+ConceptNet,Zero,part,quill,Quill,Quill,quill_part2,Nib,-,0,missing
+ConceptNet,Few,part,raincoat,Raincoat,Raincoat (Coat),raincoat_part1,collar  ,-,0,missing
+ConceptNet,Few,part,raincoat,Raincoat,Raincoat (Coat),raincoat_part2,front  ,-,0,missing
+ConceptNet,Few,part,raincoat,Raincoat,Raincoat (Coat),raincoat_part3,sleeves  ,-,0,missing
+ConceptNet,Few,part,raincoat,Raincoat,Raincoat (Coat),raincoat_part4,pockets  ,-,0,missing
+ConceptNet,Few,part,raincoat,Raincoat,Raincoat (Coat),raincoat_part5,hood  ,-,0,missing
+ConceptNet,Few,part,raincoat,Raincoat,Raincoat (Coat),raincoat_part6,lining  ,-,0,missing
+ConceptNet,Zero,part,raincoat,Raincoat,Single-breasted Macintosh raincoat,raincoat_part1,Shell,-,0,missing
+ConceptNet,Zero,part,raincoat,Raincoat,Single-breasted Macintosh raincoat,raincoat_part1,Back vent,-,0,missing
+ConceptNet,Zero,part,raincoat,Raincoat,Single-breasted Macintosh raincoat,raincoat_part2,Collar  ,-,0,missing
+ConceptNet,Zero,part,raincoat,Raincoat,Single-breasted Macintosh raincoat,raincoat_part3,Lining  ,-,0,missing
+ConceptNet,Zero,part,raincoat,Raincoat,Single-breasted Macintosh raincoat,raincoat_part4,Sleeves  ,-,0,missing
+ConceptNet,Zero,part,raincoat,Raincoat,Single-breasted Macintosh raincoat,raincoat_part5,Cuffs  ,-,0,missing
+ConceptNet,Zero,part,raincoat,Raincoat,Single-breasted Macintosh raincoat,raincoat_part6,Buttons  ,-,0,missing
+ConceptNet,Zero,part,raincoat,Raincoat,Single-breasted Macintosh raincoat,raincoat_part7,Pockets  ,-,0,missing
+ConceptNet,Zero,part,raincoat,Raincoat,Single-breasted Macintosh raincoat,raincoat_part8,Shoulder straps  ,-,0,missing
+ConceptNet,Zero,part,raincoat,Raincoat,Single-breasted Macintosh raincoat,raincoat_part9,Belt,-,0,missing
+ConceptNet,Few,part,sock,Sock,Sock,sock_part1,leg,-,0,missing
+ConceptNet,Few,part,sock,Sock,Sock,sock_part2,foot,-,0,missing
+ConceptNet,Few,part,sock,Sock,Sock,sock_part3,toe,-,0,missing
+ConceptNet,Few,part,sock,Sock,Sock,sock_part4,heel,-,0,missing
+ConceptNet,Zero,part,sock,Sock,Sock,sock_part1,Cuff,-,0,missing
+ConceptNet,Zero,part,sock,Sock,Sock,sock_part2,Leg,-,0,missing
+ConceptNet,Zero,part,sock,Sock,Sock,sock_part3,Heel,-,0,missing
+ConceptNet,Zero,part,sock,Sock,Sock,sock_part4,Sole  ,-,0,missing
+ConceptNet,Zero,part,sock,Sock,Sock,sock_part4,Arch support,-,0,missing
+ConceptNet,Zero,part,sock,Sock,Sock,sock_part5,Toe,-,0,missing
+ConceptNet,Few,part,steel guitar,Steel guitar,Console steel guitar,steel guitar_part1,body,-,0,missing
+ConceptNet,Few,part,steel guitar,Steel guitar,Console steel guitar,steel guitar_part2,strings,-,0,missing
+ConceptNet,Few,part,steel guitar,Steel guitar,Console steel guitar,steel guitar_part3,necks,-,0,missing
+ConceptNet,Few,part,steel guitar,Steel guitar,Console steel guitar,steel guitar_part4,pickup,-,0,missing
+ConceptNet,Few,part,steel guitar,Steel guitar,Console steel guitar,steel guitar_part5,tuning pegs,-,0,missing
+ConceptNet,Zero,part,steel guitar,Steel guitar,Lap Steel Guitar,steel guitar_part1,Body  ,-,0,missing
+ConceptNet,Zero,part,steel guitar,Steel guitar,Lap Steel Guitar,steel guitar_part2,Strings  ,-,0,missing
+ConceptNet,Zero,part,steel guitar,Steel guitar,Lap Steel Guitar,steel guitar_part3,Bridge  ,-,0,missing
+ConceptNet,Zero,part,steel guitar,Steel guitar,Lap Steel Guitar,steel guitar_part4,Tuning Pegs  ,-,0,missing
+ConceptNet,Zero,part,steel guitar,Steel guitar,Lap Steel Guitar,steel guitar_part5,Nut  ,-,0,missing
+ConceptNet,Zero,part,steel guitar,Steel guitar,Lap Steel Guitar,steel guitar_part5,Fretboard  ,-,0,missing
+ConceptNet,Zero,part,steel guitar,Steel guitar,Lap Steel Guitar,steel guitar_part6,Pickup  ,-,0,missing
+ConceptNet,Zero,part,steel guitar,Steel guitar,Lap Steel Guitar,steel guitar_part7,Volume and Tone Controls  ,-,0,missing
+ConceptNet,Zero,part,steel guitar,Steel guitar,Lap Steel Guitar,steel guitar_part8,Output Jack  ,-,0,missing
+ConceptNet,Few,part,stove,Stove,Gas stove,stove_part1,burners,-,0,missing
+ConceptNet,Few,part,stove,Stove,Gas stove,stove_part2,stove tops,-,0,missing
+ConceptNet,Few,part,stove,Stove,Gas stove,stove_part3,control knobs,-,0,missing
+ConceptNet,Few,part,stove,Stove,Gas stove,stove_part4,oven,-,0,missing
+ConceptNet,Few,part,stove,Stove,Gas stove,stove_part5,broiler,-,0,missing
+ConceptNet,Zero,part,stove,Stove,Slide-in gas range,stove_part1,Cooktop surface,-,0,missing
+ConceptNet,Zero,part,stove,Stove,Slide-in gas range,stove_part2,Control knobs,-,0,missing
+ConceptNet,Zero,part,stove,Stove,Slide-in gas range,stove_part3,Oven door,-,0,missing
+ConceptNet,Zero,part,stove,Stove,Slide-in gas range,stove_part4,Oven racks,-,0,missing
+ConceptNet,Zero,part,stove,Stove,Slide-in gas range,stove_part5,Broiler,-,0,missing
+ConceptNet,Zero,part,stove,Stove,Slide-in gas range,stove_part6,Storage drawer,-,0,missing
+ConceptNet,Zero,part,stove,Stove,Slide-in gas range,stove_part7,Display panel,-,0,missing
+ConceptNet,Zero,part,stove,Stove,Slide-in gas range,stove_part8,Burner grates,-,0,missing
+ConceptNet,Zero,part,stove,Stove,Slide-in gas range,stove_part9,Gas burners,-,0,missing
+ConceptNet,Few,part,suitcase,Suitcase,Suitcase,suitcase_part1,body,-,0,missing
+ConceptNet,Few,part,suitcase,Suitcase,Suitcase,suitcase_part2,handle,-,0,missing
+ConceptNet,Few,part,suitcase,Suitcase,Suitcase,suitcase_part3,wheels  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part1,Shell  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part2,Zipper  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part2,Expansion zipper  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part3,Telescoping handle  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part4,Top and side handles  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part5,Wheels  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part5,Wheel housing  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part6,Lining  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part6,Compression straps  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part7,Front pockets  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part7,ID tag holder  ,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part8,Side feet,-,0,missing
+ConceptNet,Zero,part,suitcase,Suitcase,Expandable Upright Suitcase,suitcase_part9,Lock  ,-,0,missing
+ConceptNet,Few,part,sweatpants,Sweatpants,Sweatpants,sweatpants_part1,waistband,-,0,missing
+ConceptNet,Few,part,sweatpants,Sweatpants,Sweatpants,sweatpants_part2,leg,-,0,missing
+ConceptNet,Few,part,sweatpants,Sweatpants,Sweatpants,sweatpants_part3,pockets,-,0,missing
+ConceptNet,Few,part,sweatpants,Sweatpants,Sweatpants,sweatpants_part4,cuffs,-,0,missing
+ConceptNet,Zero,part,sweatpants,Sweatpants,Cuffed Hem Joggers,sweatpants_part1,Waistband  ,-,0,missing
+ConceptNet,Zero,part,sweatpants,Sweatpants,Cuffed Hem Joggers,sweatpants_part1,Drawstring  ,-,0,missing
+ConceptNet,Zero,part,sweatpants,Sweatpants,Cuffed Hem Joggers,sweatpants_part2,Pockets  ,-,0,missing
+ConceptNet,Zero,part,sweatpants,Sweatpants,Cuffed Hem Joggers,sweatpants_part3,Cuffs  ,-,0,missing
+ConceptNet,Zero,part,sweatpants,Sweatpants,Cuffed Hem Joggers,sweatpants_part4,Main body  ,-,0,missing
+ConceptNet,Zero,part,sweatpants,Sweatpants,Cuffed Hem Joggers,sweatpants_part5,Zipper  ,-,0,missing
+ConceptNet,Few,part,taxi,Taxi,Taxi,taxi_part1,Chassis,-,0,missing
+ConceptNet,Few,part,taxi,Taxi,Taxi,taxi_part1,body,-,0,missing
+ConceptNet,Few,part,taxi,Taxi,Taxi,taxi_part2,wheels,-,0,missing
+ConceptNet,Few,part,taxi,Taxi,Taxi,taxi_part3,engine,-,0,missing
+ConceptNet,Few,part,taxi,Taxi,Taxi,taxi_part4,passenger compartment,-,0,missing
+ConceptNet,Few,part,taxi,Taxi,Taxi,taxi_part4,driver's compartment,-,0,missing
+ConceptNet,Few,part,taxi,Taxi,Taxi,taxi_part5,taxi meter,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part1,Body  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part1,Bumpers  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part2,Wheels  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part3,Windows  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part4,Doors  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part5,Seats  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part6,Engine  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part7,Steering Wheel  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part7,Horn  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part8,Brakes  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part9,Lights  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part10,Taxi Sign  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part11,Trunk  ,-,0,missing
+ConceptNet,Zero,part,taxi,Taxi,SUV-style taxi,taxi_part12,Mirrors  ,-,0,missing
+ConceptNet,Few,part,tent,Tent,Tent,tent_part1,poles,-,0,missing
+ConceptNet,Few,part,tent,Tent,Tent,tent_part2,fabric cover,-,0,missing
+ConceptNet,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part1,Tent fabric  ,-,0,missing
+ConceptNet,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part1,Tent floor  ,-,0,missing
+ConceptNet,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part2,Rain fly  ,-,0,missing
+ConceptNet,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part3,Poles  ,-,0,missing
+ConceptNet,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part4,Zippers  ,-,0,missing
+ConceptNet,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part5,Mesh panels  ,-,0,missing
+ConceptNet,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part6,Storage pockets  ,-,0,missing
+ConceptNet,Zero,part,tent,Tent,Freestanding Dome Tent,tent_part7,Loops or hooks  ,-,0,missing
+ConceptNet,Few,part,thimble,Thimble,Thimble,-,-,-,-,-
+ConceptNet,Zero,part,thimble,Thimble,Thimble,-,-,-,-,-
+ConceptNet,Few,part,toboggan,Toboggan,Toboggan,toboggan_part1,body,-,0,missing
+ConceptNet,Few,part,toboggan,Toboggan,Toboggan,toboggan_part2,curved front,-,0,missing
+ConceptNet,Zero,part,toboggan,Toboggan,Toboggan,toboggan_part1,Sled Deck  ,-,0,missing
+ConceptNet,Zero,part,toboggan,Toboggan,Toboggan,toboggan_part2,Runners  ,-,0,missing
+ConceptNet,Zero,part,toboggan,Toboggan,Toboggan,toboggan_part3,Crossbars  ,-,0,missing
+ConceptNet,Zero,part,toboggan,Toboggan,Toboggan,toboggan_part3,Bracing Blocks,-,0,missing
+ConceptNet,Zero,part,toboggan,Toboggan,Toboggan,toboggan_part4,Curled Front  ,-,0,missing
+ConceptNet,Zero,part,toboggan,Toboggan,Toboggan,toboggan_part5,Steering Rope  ,-,0,missing
+ConceptNet,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part1,body  ,-,0,missing
+ConceptNet,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part2,top lid  ,-,0,missing
+ConceptNet,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part3,wash drum  ,-,0,missing
+ConceptNet,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part4,agitator  ,-,0,missing
+ConceptNet,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part5,control panel  ,-,0,missing
+ConceptNet,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part6,water inlet valve  ,-,0,missing
+ConceptNet,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part7,drain pump  ,-,0,missing
+ConceptNet,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part8,motor  ,-,0,missing
+ConceptNet,Few,part,washing machine,Washing machine,Top-loading washing machine,washing machine_part8,water level sensor  ,-,0,missing
+ConceptNet,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part1,Drum  ,-,0,missing
+ConceptNet,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part2,Control panel  ,-,0,missing
+ConceptNet,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part3,Detergent drawer  ,-,0,missing
+ConceptNet,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part4,Water inlet valve  ,-,0,missing
+ConceptNet,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part5,Drain pump  ,-,0,missing
+ConceptNet,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part5,Hoses  ,-,0,missing
+ConceptNet,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part6,Door  ,-,0,missing
+ConceptNet,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part6,Gasket,-,0,missing
+ConceptNet,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part7,Motor  ,-,0,missing
+ConceptNet,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part8,Power cable  ,-,0,missing
+ConceptNet,Zero,part,washing machine,Washing machine,Front-loading Washing Machine (Electrical device),washing machine_part9,Leveling feet  ,-,0,missing
+ConceptNet,Few,part,weathervane,Weather vane,Weather vane,weathervane_part1,ornament,-,0,missing
+ConceptNet,Few,part,weathervane,Weather vane,Weather vane,weathervane_part2,directionals,-,0,missing
+ConceptNet,Few,part,weathervane,Weather vane,Weather vane,weathervane_part3,rod,-,0,missing
+ConceptNet,Few,part,weathervane,Weather vane,Weather vane,weathervane_part4,mount,-,0,missing
+ConceptNet,Zero,part,weathervane,Weather vane,Weather vane,weathervane_part1,Pointer,-,0,missing
+ConceptNet,Zero,part,weathervane,Weather vane,Weather vane,weathervane_part2,Mounting rod,-,0,missing
+ConceptNet,Zero,part,weathervane,Weather vane,Weather vane,weathervane_part3,Directional arms,-,0,missing
+ConceptNet,Zero,part,weathervane,Weather vane,Weather vane,weathervane_part4,End ornament,-,0,missing
+ConceptNet,Few,part,webcam,Webcam,Standalone webcam,webcam_part1,lens  ,-,0,missing
+ConceptNet,Few,part,webcam,Webcam,Standalone webcam,webcam_part2,shell  ,-,0,missing
+ConceptNet,Few,part,webcam,Webcam,Standalone webcam,webcam_part3,circuit board  ,-,0,missing
+ConceptNet,Few,part,webcam,Webcam,Standalone webcam,webcam_part3,sensor  ,-,0,missing
+ConceptNet,Few,part,webcam,Webcam,Standalone webcam,webcam_part4,USB cable  ,-,0,missing
+ConceptNet,Few,part,webcam,Webcam,Standalone webcam,webcam_part5,mount  ,-,0,missing
+ConceptNet,Zero,part,webcam,Webcam,USB Webcam,webcam_part1,Camera lens  ,-,0,missing
+ConceptNet,Zero,part,webcam,Webcam,USB Webcam,webcam_part2,Image sensor  ,-,0,missing
+ConceptNet,Zero,part,webcam,Webcam,USB Webcam,webcam_part3,USB cable  ,-,0,missing
+ConceptNet,Zero,part,webcam,Webcam,USB Webcam,webcam_part4,Mounting clip or stand  ,-,0,missing
+ConceptNet,Zero,part,webcam,Webcam,USB Webcam,webcam_part5,Microphone  ,-,0,missing
+ConceptNet,Zero,part,webcam,Webcam,USB Webcam,webcam_part6,Housing  ,-,0,missing
