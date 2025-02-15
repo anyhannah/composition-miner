@@ -5,8 +5,9 @@ This repository contains the dataset and source code for _Large Language Models 
 This repository is organized as follows:
 - `data/`:
   - `nounlist.txt`: The list of common physical objects used in experiments.
-  - `csv/`: Contains the few-shot and zero-shot datasets presented in the paper, including preprocessed and clean versions.
-  - `tsv/`: Includes raw and simplified human-annotated data
+  - `csv/`: Contains the few-shot and zero-shot datasets presented in the paper, with both raw responses and the preprocessed, cleaned versions.
+  - `annotation/`: Includes raw and simplified human-annotated data
+  - `eval/`: Indlucdes files that document external recall and inverse recall.
 - `src/`: Contains all the source code used for data processing and generation.
 
 ## Reproduce the Data
