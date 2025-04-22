@@ -1,4 +1,4 @@
-﻿external_dataset,our_dataset,part_material,external_entity,our_entity,external_group,extnerla_reference_item,our_target_item,target_specific_entity,score,reason
+﻿external_dataset,our_dataset,part_material,external_entity,our_entity,external_group,external_reference_item,our_target_item,target_specific_entity,score,reason
 ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part1,control knobs,knobs,Gas grill,1,exact
 ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part2,burner,burners,Gas grill,1,exact
 ParRoT,Few,part,barbeque grill,Barbecue grill,barbeque grill_part2,carryover tubes,burners,Gas grill,0.5,partial
@@ -478,7 +478,7 @@ CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material2,wool,wool 
 CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material3,silk,silk (body),n/a,1,exact
 CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material4,cotton,cotton (body),n/a,1,exact
 CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material5,towelling / flannel,"cotton, wool, or synthetic fiber (body)",n/a,1,exact
-CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material6,soft fabric,silk (body),n/a,1,other
+CSLB,Few,material,dressing_gown,Dressing gown,dressing_gown_material6,soft fabric,silk (body),n/a,0.5,other
 CSLB,Zero,part,dressing_gown,Dressing gown,dressing_gown_part1,sleeves,sleeves,Hooded dressing gown,1,exact
 CSLB,Zero,part,dressing_gown,Dressing gown,dressing_gown_part2,belt,belt,Hooded dressing gown,1,exact
 CSLB,Zero,part,dressing_gown,Dressing gown,dressing_gown_part3,hood,hood,Hooded dressing gown,1,exact
