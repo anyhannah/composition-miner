@@ -30,7 +30,6 @@ MODEL = "gpt-4-1106-preview"
 OPENAI_API_KEY = '[API_KEY]'
 CLIENT = OpenAI(api_key=OPENAI_API_KEY)
 
-
 def find_plural(word):
     # check whether the word is plural or singular
     # by lemmatizing the last token of the word
@@ -338,208 +337,226 @@ def extract_parts_materials(question_type, response):
         parts_optionality = '-: F'
         material_response = response.strip(".")
         materials = extract_material_str(response.strip("."))
+    else:
+        pre_list_text = re.split(r"(?=^\s*(?:\d+[.)]|-|<)\s*)", response, flags=re.MULTILINE)[0]
 
-    elif ("<Parts>\n" in response or "<Parts>\\n" in response) and re.search(r'<"?Materials"?>', response, re.IGNORECASE):
-        material_splitter = re.search(r'<"?Materials"?>', response, re.IGNORECASE)[0]
-        parts, material_par = response.split("<Parts>\n", 1)[-1].split("<Parts>\\n", 1)[-1].split(material_splitter, 1)
-        material_par = material_par.strip(': ')
+        if re.search(r"(doesn't have (a )?physical|don't have (a )?physical|not (have )?(a )?physical|not (a )?physical)",
+                     pre_list_text, re.IGNORECASE):
+            # If the pre-list descriptions include "not physical", assume the object in question is non-physical.
+            parts_optionality = '-'
+            materials = '-'
+            material_response = response
 
-        # materials
-        if material_par.strip().count("\n") < 1:
-            material_response = material_par.strip("-. \n")
-            material_str = extract_material_str(material_response)
-        else:
-            # put together the materials that were listed over multiple lines into one line
-            conjunctions = {' or '}
-            for material in material_par.strip().split('\n'):
-                material = material.strip('-. ')
-                if 'and/or ' in material:
-                    conjunctions.add(' and/or ')
-                if material.startswith('and ') or ' and ' in material:
-                    conjunctions.add(' and ')
-                material = material.lstrip('and/or ').lstrip('or ').lstrip('and ')
-                for indiv_material in re.split(r" or | and | and\/or ", material):
-                    material_str += indiv_material + ", "
-            material_str = material_str.rstrip(', ')
-            if ', ' in material_str:
-                conj = max(conjunctions, key=len)  # priority goes 'and/or' > 'and' > 'or'
-                if material_str.count(', ') == 1:
-                    material_str = conj.join(material_str.rstrip(', ').rsplit(", ", 1))
-                else:
-                    material_str = (',' + conj).join(material_str.rstrip(', ').rsplit(", ", 1))
-            material_response = material_str
+        elif ("<Parts>\n" in response or "<Parts>\\n" in response) and re.search(r'<"?Materials"?>', response, re.IGNORECASE):
+            if pre_list_text:
+                response = response.split(pre_list_text, 1)[-1].strip()
 
-        # parts
-        part_count = 1
-        for part_response in re.split(r"[0-9]+\. |[0-9]+\) ", parts.strip()):
-            part_response = part_response.strip()
-            if part_response and ':' in part_response:
-                try:
-                    part, optionality = part_response.split("- Optional: ", 1)
-                except:
-                    part = part_response.split(":", 1)[0]
-                    if '\n' in part_response and ':' in part_response.split("\n", 1)[1]:
-                        optionality = part_response.split("\n", 1)[1].split(":", 1)[1].strip()
+            material_splitter = re.search(r'<"?Materials"?>', response, re.IGNORECASE)[0]
+            parts, material_par = response.split("<Parts>\n", 1)[-1].split("<Parts>\\n", 1)[-1].split(material_splitter, 1)
+            material_par = material_par.strip(': ')
+
+            # materials
+            if material_par.strip().count("\n") < 1:
+                material_response = material_par.strip("-. \n")
+                material_str = extract_material_str(material_response)
+            else:
+                # put together the materials that were listed over multiple lines into one line
+                conjunctions = {' or '}
+                for material in material_par.strip().split('\n'):
+                    material = material.strip('-. ')
+                    if 'and/or ' in material:
+                        conjunctions.add(' and/or ')
+                    if material.startswith('and ') or ' and ' in material:
+                        conjunctions.add(' and ')
+                    material = material.lstrip('and/or ').lstrip('or ').lstrip('and ')
+                    for indiv_material in re.split(r" or | and | and\/or ", material):
+                        material_str += indiv_material + ", "
+                material_str = material_str.rstrip(', ')
+                if ', ' in material_str:
+                    conj = max(conjunctions, key=len)  # priority goes 'and/or' > 'and' > 'or'
+                    if material_str.count(', ') == 1:
+                        material_str = conj.join(material_str.rstrip(', ').rsplit(", ", 1))
                     else:
-                        optionality = 'no'
+                        material_str = (',' + conj).join(material_str.rstrip(', ').rsplit(", ", 1))
+                material_response = material_str
 
-                part = re.split(r'\:\s*(?![^()]*\))', part.strip(), 1)[0]
+            # parts
+            part_count = 1
+            for part_response in re.split(r"[0-9]+\. |[0-9]+\) ", parts.strip()):
+                part_response = part_response.strip()
+                if part_response and ':' in part_response:
+                    try:
+                        part, optionality = part_response.split("- Optional: ", 1)
+                    except:
+                        part = part_response.split(":", 1)[0]
+                        if '\n' in part_response and ':' in part_response.split("\n", 1)[1]:
+                            optionality = part_response.split("\n", 1)[1].split(":", 1)[1].strip()
+                        else:
+                            optionality = 'no'
+
+                    part = re.split(r'\:\s*(?![^()]*\))', part.strip(), 1)[0]
+                    if part.startswith('"') and part.endswith('"'):
+                        # If a part name is surrounded by quotation marks, remove them.
+                        part = re.sub(r"(^\")|(\"$)", "", part)
+                    part = re.sub(r"\*", "", part)  # remove asterisks
+                    if '\n' in part:  # remove part description in a new line
+                        part = part.split("\n", 1)[0]
+                    if ' (' in part:
+                        part_no_paren = re.sub(r' \([^)]*\)', '', part)
+                        if (part_no_paren.lower() == 'internal mechanism') and \
+                                all(('('+prep+' ') not in part for prep in ['if', 'for', 'to', 'like']):
+                            # e.g., 'Internal mechanism (HVAC system)' becomes 'HVAC system'
+                            # ignore additional descriptions within parentheses
+                            part = re.search(r' \([^)]*\)', part).group(0)[2:-1]
+                        elif len(re.findall(f'{part_no_paren} \\([a-zA-Z\\s]+\\):', parts)) > 1:
+                            # e.g., Prong (middle), Prong (left), Prong (right)
+                            # becomes Middle prong, Left prong, Right prong
+                            if re.search(r' [A-Z]', part_no_paren):
+                                part = re.search(r' \([^)]*\)', part).group(0)[2:-1] + ' ' + part_no_paren
+                                part = part[0].upper() + part[1:]
+                            else:
+                                part = re.search(r' \([^)]*\)', part).group(0)[2:-1] + ' ' + part_no_paren[
+                                    0].lower() + part_no_paren[1:]
+                                part = part[0].upper() + part[1:]
+                        else:
+                            # remove parentheses
+                            part = part_no_paren
+                    part = part.strip('. ')
+                    if optionality.lower().startswith('no'):
+                        optionality = 'F'
+                    else:
+                        # including 'sometimes', 'varies', etc.
+                        optionality = 'T'
+                    parts_optionality += f'{part}: {optionality}\n'
+                    materials += f'{part_count}. {part}: {material_str}\n'
+                    part_count += 1
+
+        elif any(any(paragraph.startswith(bullet) for bullet in {"- ", "1. ", "1) "}) for paragraph in response.split("\n\n")):
+            if pre_list_text:
+                response = response.split(pre_list_text, 1)[-1].strip()
+
+            response = re.sub(r'\n+', '\n', response)
+            part_count = 1
+            while re.search(r'[-|—][\s]+material[s]*:', response, re.IGNORECASE):
+                # encompasses the case variations of '- Materials:', '- Material:', '-  Materials:', '-\nMaterials:',
+                # but any other variations, such as, '- Blade Materials' and '- (Materials:',
+                # should have the prompt re-run in the earlier stage
+                material_splitter = re.search(r'[-|—][\s]+material[s]*:', response, re.IGNORECASE)[0]
+                first_par_ind = response.split(material_splitter)[0].count("\n") + 1 + material_splitter.count("\n")
+                paragraph = "\n".join(response.split("\n")[:first_par_ind])
+                response = "\n".join(response.split("\n")[first_par_ind:])
+                material_str = paragraph.split(material_splitter)[1].split("\n", 1)[0].strip(". ")
+                material_response += material_str + "\n"
+
+                if paragraph.count("\n") < 2:
+                    # erroneous lines; e.g., materials given without a part name
+                    continue
+
+                # the material is the same as another part's.
+                search_twin_part = re.search(r'(same [a-zA-Z\s]+ as )|(same as )', material_str, re.IGNORECASE)
+                if search_twin_part:
+                    new_material_str = ''
+                    new_material_conj = 'or'
+                    mentioned_material_str = material_str[:search_twin_part.start()]
+                    if any(mentioned_material_str.endswith(conj) or mentioned_material_str.endswith(conj + 'the ')
+                           for conj in {' and/or ', ' and ', ' or '}):
+                        new_material_conj_ind = max(mentioned_material_str.rfind(' and/or ', 1),
+                                                    mentioned_material_str.rfind(' and ', 1),
+                                                    mentioned_material_str.rfind(' or ', 1))
+                        new_material_str = mentioned_material_str[:new_material_conj_ind].strip(',')
+                        new_material_conj = mentioned_material_str[new_material_conj_ind:].strip().split()[0]
+                    twin_part = material_str[search_twin_part.end():]
+                    if twin_part.startswith('the '):
+                        twin_part = twin_part[4:]
+                    first_token = twin_part.split()[0]
+                    twin_tokens = {twin_part, twin_part + 's', twin_part + 'es',
+                                   first_token, first_token.rstrip("'s"), " ".join(twin_part.split()[:2])}
+                    if len(twin_part.split()) > 1:
+                        twin_tokens.add(twin_part.split()[1])
+                    for twin_token in twin_tokens:
+                        twin_candidates = [m_line.split(": ", 1)[-1] for m_line in materials.split("\n")
+                                           if ' ' + twin_token.strip(",.);-").lower() + ":" in m_line.lower()]
+                        if len(twin_candidates) == 1:
+                            # there can be only one matching part;
+                            # e.g., top sheet vs. bottom sheet should be distinguished
+                            if new_material_str:
+                                # a matching part already exists
+                                # e.g, the same material as the 'skirt' or 'sleeves'
+                                temp_material_str = ', '.join([token.strip() for token in
+                                                               re.split(r'[,]*( and\/or | and | or |,)',
+                                                                        twin_candidates[0])
+                                                               if (token.strip() not in new_material_str) and \
+                                                               (token.strip() not in {',', 'and/or', 'and', 'or'})])
+                                if temp_material_str:
+                                    new_material_str += ', ' + (', '+new_material_conj+' ').join(temp_material_str.rsplit(', ', 1))
+                            else:
+                                new_material_str = twin_candidates[0]
+                    material_str = new_material_str
+                    if re.search(r'(same [a-zA-Z\s]+ as )|(same as )', material_str, re.IGNORECASE):
+                        dependent_material = True
+                else:
+                    if 'same ' in material_str.lower() and\
+                            any(delimiter in material_str for delimiter in {'(', '-', '–', ':', ';'}):
+                        material_str = re.split(r'\(|-|–|:|;',
+                                                re.split('same ', material_str, re.IGNORECASE)[1])[-1].strip("). ")
+
+                material_str = extract_material_str(material_str)
+                if material_str == '-':
+                    # no physical materials exist
+                    continue
+
+                # each "paragraph" consists of three or four lines:
+                # part, (description), optionality, and material information
+                if not ('- Optional:' in paragraph.split("\n")[1] or '- Description:' in paragraph.split("\n")[1]) and \
+                        not (paragraph.strip()[0].isdigit() or paragraph.strip()[0] == '-') and \
+                        paragraph.split("\n")[1].strip()[0].isdigit():
+                    # first line has unnecessary explanations
+                    paragraph = "\n".join(paragraph.split("\n")[1:])
+                if '- Optional' not in paragraph:
+                    continue
+                if paragraph[0] == '-' or paragraph[0].isdigit():
+                    paragraph = paragraph.split(" ", 1)[-1]
+                part = re.split(r"(^Part: )|(^Part name: )", paragraph.split("\n", 1)[0])[-1]
+                part = re.split(r'\:\s*(?![^()]*\))', part, 1)[0].strip()  # split by ":" except when it's within parentheses
                 if part.startswith('"') and part.endswith('"'):
-                    # If a part name is surrounded by quotation marks, remove them.
+                    # remove quotation marks, asterisks, parentheses from the part name.
                     part = re.sub(r"(^\")|(\"$)", "", part)
-                part = re.sub(r"\*", "", part)  # remove asterisks
-                if '\n' in part:  # remove part description in a new line
-                    part = part.split("\n", 1)[0]
+                part = re.sub(r"\*", "", part)
                 if ' (' in part:
                     part_no_paren = re.sub(r' \([^)]*\)', '', part)
-                    if part_no_paren.lower() == 'internal mechanism':
+                    if (part_no_paren.lower() == 'internal mechanism') and \
+                            all(('('+prep+' ') not in part for prep in ['if', 'for', 'to', 'like']):
                         # e.g., 'Internal mechanism (HVAC system)' becomes 'HVAC system'
                         part = re.search(r' \([^)]*\)', part).group(0)[2:-1]
-                    elif len(re.findall(f'{part_no_paren} \\([a-zA-Z\\s]+\\):', parts)) > 1:
+                    elif len(re.findall(f'{part_no_paren} \\([a-zA-Z\\s]+\\):', paragraph + response)) > 1:
                         # e.g., Prong (middle), Prong (left), Prong (right)
                         # becomes Middle prong, Left prong, Right prong
                         if re.search(r' [A-Z]', part_no_paren):
                             part = re.search(r' \([^)]*\)', part).group(0)[2:-1] + ' ' + part_no_paren
                             part = part[0].upper() + part[1:]
                         else:
-                            part = re.search(r' \([^)]*\)', part).group(0)[2:-1] + ' ' + part_no_paren[
-                                0].lower() + part_no_paren[1:]
+                            part = re.search(r' \([^)]*\)', part).group(0)[2:-1] + ' ' + part_no_paren[0].lower() + part_no_paren[1:]
                             part = part[0].upper() + part[1:]
                     else:
                         # remove parentheses
                         part = part_no_paren
                 part = part.strip('. ')
+
+                optionality = paragraph.split("- Optional", 1)[1].split("\n", 1)[0].strip(": ")
                 if optionality.lower().startswith('no'):
                     optionality = 'F'
                 else:
-                    # including 'sometimes', 'varies', etc.
                     optionality = 'T'
+
                 parts_optionality += f'{part}: {optionality}\n'
                 materials += f'{part_count}. {part}: {material_str}\n'
                 part_count += 1
 
-    elif any(any(paragraph.startswith(bullet) for bullet in {"- ", "1. ", "1) "}) for paragraph in response.split("\n\n")):
-        response = re.sub(r'\n+', '\n', response)
-        part_count = 1
-        while re.search(r'[-|—][\s]+material[s]*:', response, re.IGNORECASE):
-            # encompasses the case variations of '- Materials:', '- Material:', '-  Materials:', '-\nMaterials:',
-            # but any other variations, such as, '- Blade Materials' and '- (Materials:',
-            # should have the prompt re-run in the earlier stage
-            material_splitter = re.search(r'[-|—][\s]+material[s]*:', response, re.IGNORECASE)[0]
-            first_par_ind = response.split(material_splitter)[0].count("\n") + 1 + material_splitter.count("\n")
-            paragraph = "\n".join(response.split("\n")[:first_par_ind])
-            response = "\n".join(response.split("\n")[first_par_ind:])
-            material_str = paragraph.split(material_splitter)[1].split("\n", 1)[0].strip(". ")
-            material_response += material_str + "\n"
-
-            if paragraph.count("\n") < 2:
-                # erroneous lines; e.g., materials given without a part name
-                continue
-
-            # the material is the same as another part's.
-            search_twin_part = re.search(r'(same [a-zA-Z\s]+ as )|(same as )', material_str, re.IGNORECASE)
-            if search_twin_part:
-                new_material_str = ''
-                new_material_conj = 'or'
-                mentioned_material_str = material_str[:search_twin_part.start()]
-                if any(mentioned_material_str.endswith(conj) or mentioned_material_str.endswith(conj + 'the ')
-                       for conj in {' and/or ', ' and ', ' or '}):
-                    new_material_conj_ind = max(mentioned_material_str.rfind(' and/or ', 1),
-                                                mentioned_material_str.rfind(' and ', 1),
-                                                mentioned_material_str.rfind(' or ', 1))
-                    new_material_str = mentioned_material_str[:new_material_conj_ind].strip(',')
-                    new_material_conj = mentioned_material_str[new_material_conj_ind:].strip().split()[0]
-                twin_part = material_str[search_twin_part.end():]
-                if twin_part.startswith('the '):
-                    twin_part = twin_part[4:]
-                first_token = twin_part.split()[0]
-                twin_tokens = {twin_part, twin_part + 's', twin_part + 'es',
-                               first_token, first_token.rstrip("'s"), " ".join(twin_part.split()[:2])}
-                if len(twin_part.split()) > 1:
-                    twin_tokens.add(twin_part.split()[1])
-                for twin_token in twin_tokens:
-                    twin_candidates = [m_line.split(": ", 1)[-1] for m_line in materials.split("\n")
-                                       if ' ' + twin_token.strip(",.);-").lower() + ":" in m_line.lower()]
-                    if len(twin_candidates) == 1:
-                        # there can be only one matching part;
-                        # e.g., top sheet vs. bottom sheet should be distinguished
-                        if new_material_str:
-                            # a matching part already exists
-                            # e.g, the same material as the 'skirt' or 'sleeves'
-                            temp_material_str = ', '.join([token.strip() for token in
-                                                           re.split(r'[,]*( and\/or | and | or |,)',
-                                                                    twin_candidates[0])
-                                                           if (token.strip() not in new_material_str) and \
-                                                           (token.strip() not in {',', 'and/or', 'and', 'or'})])
-                            if temp_material_str:
-                                new_material_str += ', ' + (', '+new_material_conj+' ').join(temp_material_str.rsplit(', ', 1))
-                        else:
-                            new_material_str = twin_candidates[0]
-                material_str = new_material_str
-                if re.search(r'(same [a-zA-Z\s]+ as )|(same as )', material_str, re.IGNORECASE):
-                    dependent_material = True
-            else:
-                if 'same ' in material_str.lower() and\
-                        any(delimiter in material_str for delimiter in {'(', '-', '–', ':', ';'}):
-                    material_str = re.split(r'\(|-|–|:|;',
-                                            re.split('same ', material_str, re.IGNORECASE)[1])[-1].strip("). ")
-
-            material_str = extract_material_str(material_str)
-            if material_str == '-':
-                # no physical materials exist
-                continue
-
-            # each "paragraph" consists of three or four lines:
-            # part, (description), optionality, and material information
-            if not ('- Optional:' in paragraph.split("\n")[1] or '- Description:' in paragraph.split("\n")[1]) and \
-                    not (paragraph.strip()[0].isdigit() or paragraph.strip()[0] == '-') and \
-                    paragraph.split("\n")[1].strip()[0].isdigit():
-                # first line has unnecessary explanations
-                paragraph = "\n".join(paragraph.split("\n")[1:])
-            if '- Optional' not in paragraph:
-                continue
-            if paragraph[0] == '-' or paragraph[0].isdigit():
-                paragraph = paragraph.split(" ", 1)[-1]
-            part = re.split(r"(^Part: )|(^Part name: )", paragraph.split("\n", 1)[0])[-1]
-            part = re.split(r'\:\s*(?![^()]*\))', part, 1)[0].strip()  # split by ":" except when it's within parentheses
-            if part.startswith('"') and part.endswith('"'):
-                # remove quotation marks, asterisks, parentheses from the part name.
-                part = re.sub(r"(^\")|(\"$)", "", part)
-            part = re.sub(r"\*", "", part)
-            if ' (' in part:
-                part_no_paren = re.sub(r' \([^)]*\)', '', part)
-                if part_no_paren.lower() == 'internal mechanism':
-                    # e.g., 'Internal mechanism (HVAC system)' becomes 'HVAC system'
-                    part = re.search(r' \([^)]*\)', part).group(0)[2:-1]
-                elif len(re.findall(f'{part_no_paren} \\([a-zA-Z\\s]+\\):', paragraph + response)) > 1:
-                    # e.g., Prong (middle), Prong (left), Prong (right)
-                    # becomes Middle prong, Left prong, Right prong
-                    if re.search(r' [A-Z]', part_no_paren):
-                        part = re.search(r' \([^)]*\)', part).group(0)[2:-1] + ' ' + part_no_paren
-                        part = part[0].upper() + part[1:]
-                    else:
-                        part = re.search(r' \([^)]*\)', part).group(0)[2:-1] + ' ' + part_no_paren[0].lower() + part_no_paren[1:]
-                        part = part[0].upper() + part[1:]
-                else:
-                    # remove parentheses
-                    part = part_no_paren
-            part = part.strip('. ')
-
-            optionality = paragraph.split("- Optional", 1)[1].split("\n", 1)[0].strip(": ")
-            if optionality.lower().startswith('no'):
-                optionality = 'F'
-            else:
-                optionality = 'T'
-
-            parts_optionality += f'{part}: {optionality}\n'
-            materials += f'{part_count}. {part}: {material_str}\n'
-            part_count += 1
-
-    else:
-        # OpenAI did not provide the requested information
-        parts_optionality = '-'
-        materials = '-'
-        material_response = response
+        else:
+            # OpenAI did not provide the requested information
+            parts_optionality = '-'
+            materials = '-'
+            material_response = response
 
     if materials.startswith("1.") and materials.strip().count("\n") == 0:
         # parts reduced to no distinct parts after removing non-material responses
