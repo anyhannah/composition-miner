@@ -332,6 +332,7 @@ def extract_parts_materials(question_type, response):
     material_response = ''  # material information as it is returned by the model
     material_str = ''  # simplified, refined material list
     dependent_material = False
+    raw_response = response
 
     if question_type == 'A':
         parts_optionality = '-: F'
@@ -528,7 +529,7 @@ def extract_parts_materials(question_type, response):
                             all(('('+prep+' ') not in part for prep in ['if', 'for', 'to', 'like']):
                         # e.g., 'Internal mechanism (HVAC system)' becomes 'HVAC system'
                         part = re.search(r' \([^)]*\)', part).group(0)[2:-1]
-                    elif len(re.findall(f'{part_no_paren} \\([a-zA-Z\\s]+\\):', paragraph + response)) > 1:
+                    elif len(re.findall(f'{part_no_paren} \\([a-zA-Z\\s]+\\):', raw_response)) > 1:
                         # e.g., Prong (middle), Prong (left), Prong (right)
                         # becomes Middle prong, Left prong, Right prong
                         if re.search(r' [A-Z]', part_no_paren):
